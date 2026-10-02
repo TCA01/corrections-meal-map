@@ -6,9 +6,9 @@
       "attachment_id": "83160",
       "expected_coverage": {"expected_days": 31, "expected_meal_slots": 93},
       "expected": [
-        {"meal_date": "2026-10-04", "meal_type": "breakfast", "menu_items": ["조랭이떡어묵국"]},
-        {"meal_date": "2026-10-04", "meal_type": "lunch", "menu_items": ["유부된장국"]},
-        {"meal_date": "2026-10-04", "meal_type": "dinner", "menu_items": ["차돌감자탕"]}
+        {"meal_date": "2026-10-04", "meal_type": "breakfast", "menu_items": ["조랭이떡어묵국", "콩조림", "배추김치"]},
+        {"meal_date": "2026-10-04", "meal_type": "lunch", "menu_items": ["유부된장국", "제육볶음", "마늘장아찌", "배추김치"]},
+        {"meal_date": "2026-10-04", "meal_type": "dinner", "menu_items": ["차돌감자탕", "묵김가루무침", "배추김치"]}
       ]
     },
     {
@@ -39,9 +39,9 @@
       "attachment_id": "78710",
       "expected_coverage": {"expected_days": 30, "expected_meal_slots": 90},
       "expected": [
-        {"meal_date": "2025-04-06", "meal_type": "breakfast", "menu_items": ["조랭이떡어묵국"]},
-        {"meal_date": "2025-04-06", "meal_type": "lunch", "menu_items": ["김치콩나물국"]},
-        {"meal_date": "2025-04-06", "meal_type": "dinner", "menu_items": ["달걀팟국"]}
+        {"meal_date": "2025-04-06", "meal_type": "breakfast", "menu_items": ["조랭이떡어묵국", "돌자반", "배추김치"]},
+        {"meal_date": "2025-04-06", "meal_type": "lunch", "menu_items": ["김치콩나물국", "함박(돈가스)", "소스", "깍두기"]},
+        {"meal_date": "2025-04-06", "meal_type": "dinner", "menu_items": ["달걀팟국", "자장소스", "도라지오이무침", "단무지"]}
       ]
     },
     {
@@ -49,9 +49,9 @@
       "attachment_id": "72800",
       "expected_coverage": {"expected_days": 30, "expected_meal_slots": 90},
       "expected": [
-        {"meal_date": "2022-09-05", "meal_type": "breakfast", "menu_items": ["미역국"]},
-        {"meal_date": "2022-09-05", "meal_type": "lunch", "menu_items": ["두부감자고추장국"]},
-        {"meal_date": "2022-09-05", "meal_type": "dinner", "menu_items": ["부대찌개"]}
+        {"meal_date": "2022-09-05", "meal_type": "breakfast", "menu_items": ["미역국", "고들빼기무침", "깍두기'"]},
+        {"meal_date": "2022-09-05", "meal_type": "lunch", "menu_items": ["두부감자고추장국", "찜닭", "도라지오이무침", "배추김치"]},
+        {"meal_date": "2022-09-05", "meal_type": "dinner", "menu_items": ["부대찌개", "계란프라이", "배추겉절이", "김구이"]}
       ]
     },
     {

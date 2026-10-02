@@ -4,6 +4,23 @@ from dataclasses import dataclass
 
 from .meal_normalizer import days_in_text, normalize_meal_type, normalize_weekday
 from .models import SheetGrid
+from openpyxl.utils.cell import range_boundaries
+from .menu_artifacts import classify_menu_token
+
+
+def table_body_end(sheet: SheetGrid, header_row: int, first_meal_column: int) -> int:
+    """A footer spanning label AND meal columns ends the table (incl. snacks)."""
+    bottom = sheet.actual_max_row or header_row
+    for cell in sheet.cells:
+        if cell.row <= header_row or cell.column >= first_meal_column or not cell.text or cell.merged_parent:
+            continue
+        if cell.merged_range:
+            left, top, right, end = range_boundaries(cell.merged_range)
+            if right >= first_meal_column:
+                bottom = min(bottom, cell.row - 1)
+        if classify_menu_token(cell.text) in {'instruction_note', 'cost_metadata'}:
+            bottom = min(bottom, cell.row - 1)
+    return bottom
 
 
 @dataclass(frozen=True)
@@ -39,17 +56,26 @@ def analyze_layout(sheet: SheetGrid) -> LayoutProfile | None:
     if best_row:
         header_row = best_row[0][0].row
         first_meal_col = min(cell.column for cell, _ in best_row)
+        body_end = table_body_end(sheet, header_row, first_meal_col)
         day_count = sum(
             bool(days_in_text(cell.raw_value))
             for cell in cells
-            if cell.row > header_row and cell.column < first_meal_col and not cell.is_formula
+            if header_row < cell.row <= body_end and cell.column < first_meal_col and not cell.is_formula
         )
         weekday_count = sum(
             normalize_weekday(cell.text) is not None
             for cell in cells
-            if cell.row > header_row and cell.column < first_meal_col
+            if header_row < cell.row <= body_end and cell.column < first_meal_col
         )
-        family = "date_rows_meal_columns" if day_count >= 5 else "weekday_blocks_meal_columns"
+        weekday_anchors = [cell for cell in cells if header_row < cell.row <= body_end
+                           and cell.column < first_meal_col
+                           and normalize_weekday(cell.text) is not None]
+        # Dates often run DOWN a weekly menu block, or occur only on its last
+        # row. Counting dates alone confused these with one-day-per-row tables.
+        weekly = (5 <= len(weekday_anchors) <= 7
+                  and len({normalize_weekday(c.text) for c in weekday_anchors}) >= 5
+                  and max(c.row for c in weekday_anchors) - min(c.row for c in weekday_anchors) > 7)
+        family = "date_rows_meal_columns" if day_count >= 5 and not weekly else "weekday_blocks_meal_columns"
         evidence = [
             f"three meal headers share row {header_row}",
             f"{day_count} day-number cells before meal columns",

@@ -1,9 +1,85 @@
 {
   "schema_version": "1.0",
   "web_contract_version": "3B.1",
-  "dataset_version": "20261001T201508939825+0900-51c83fe482",
-  "generated_at": "2026-10-01T20:22:20.166680+09:00",
+  "dataset_version": "20261002T225806471013+0900-51c83fe482",
+  "generated_at": "2026-10-02T23:07:21.145549+09:00",
   "institutions": [
+    {
+      "institution_id": "KR_CORR_ANYANG_PRISON",
+      "available_years": {
+        "2019": [
+          10,
+          11,
+          12
+        ],
+        "2020": [
+          1,
+          12
+        ],
+        "2021": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "2022": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "2023": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          9,
+          10,
+          11,
+          12
+        ],
+        "2024": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "2025": [
+          3,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "2026": [
+          1,
+          6,
+          7
+        ]
+      }
+    },
     {
       "institution_id": "KR_CORR_BUSAN_PRISON",
       "available_years": {
@@ -18,31 +94,17 @@
     {
       "institution_id": "KR_CORR_CHANGWON_PRISON",
       "available_years": {
-        "2020": [
-          9
-        ],
-        "2021": [
-          1
-        ],
         "2022": [
           9,
           10,
           12
         ],
         "2024": [
-          1,
-          2,
-          3,
           4,
           5,
-          6,
-          7,
-          8,
-          9,
-          11
+          6
         ],
         "2025": [
-          1,
           2,
           3
         ]
@@ -112,12 +174,19 @@
     {
       "institution_id": "KR_CORR_DAEGU_DETENTION",
       "available_years": {
+        "2019": [
+          9,
+          10,
+          11,
+          12
+        ],
         "2022": [
           8
         ],
         "2023": [
           8,
-          9
+          9,
+          10
         ]
       }
     },
@@ -132,16 +201,85 @@
     {
       "institution_id": "KR_CORR_GANGNEUNG_PRISON",
       "available_years": {
+        "2015": [
+          11,
+          12
+        ],
+        "2018": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          12
+        ],
+        "2019": [
+          3,
+          4,
+          6,
+          7,
+          9,
+          10,
+          11,
+          12
+        ],
+        "2020": [
+          1,
+          2,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "2021": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "2022": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
         "2023": [
-          9
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          9,
+          10
+        ],
+        "2025": [
+          2
         ]
       }
     },
     {
       "institution_id": "KR_CORR_GANGWON_NORTHERN_PRISON",
       "available_years": {
-        "2020": [
-          12
+        "2021": [
+          11
         ],
         "2022": [
           3,
@@ -163,9 +301,15 @@
           5,
           6,
           7,
-          9
+          8,
+          9,
+          10,
+          11,
+          12
         ],
         "2024": [
+          1,
+          2,
           4,
           5,
           6,
@@ -173,11 +317,9 @@
           8,
           9,
           10,
-          11,
-          12
+          11
         ],
         "2025": [
-          1,
           3,
           4,
           5,
@@ -360,10 +502,42 @@
       "institution_id": "KR_CORR_HWASEONG_VOCATIONAL_PRISON",
       "available_years": {
         "2016": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          7,
           8,
           9,
           10,
           11
+        ],
+        "2017": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "2018": [
+          11
+        ],
+        "2024": [
+          7,
+          9,
+          10,
+          11,
+          12
+        ],
+        "2025": [
+          1,
+          2,
+          4,
+          5,
+          6,
+          7
         ]
       }
     },
@@ -449,13 +623,6 @@
           8,
           9,
           10
-        ],
-        "2023": [
-          11
-        ],
-        "2024": [
-          2,
-          4
         ]
       }
     },
@@ -617,11 +784,51 @@
       }
     },
     {
+      "institution_id": "KR_CORR_SANGJU_PRISON",
+      "available_years": {
+        "2024": [
+          2,
+          3,
+          9,
+          10,
+          12
+        ],
+        "2025": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "2026": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    },
+    {
       "institution_id": "KR_CORR_SEOSAN_BRANCH",
       "available_years": {
         "2014": [
           1,
           2
+        ],
+        "2024": [
+          1
         ]
       }
     },
@@ -680,6 +887,9 @@
     {
       "institution_id": "KR_CORR_SEOUL_SOUTHERN_PRISON",
       "available_years": {
+        "2014": [
+          1
+        ],
         "2016": [
           11
         ],
@@ -726,16 +936,7 @@
     {
       "institution_id": "KR_CORR_UIJEONGBU_PRISON",
       "available_years": {
-        "2019": [
-          2,
-          3
-        ],
-        "2024": [
-          7,
-          11
-        ],
         "2025": [
-          1,
           2,
           3,
           5,
@@ -759,11 +960,11 @@
   ],
   "stats": {
     "total_institutions": 55,
-    "collected_institutions": 30,
-    "structured_documents": 415,
-    "total_meal_records": 37791,
-    "institution_month_files": 414,
-    "last_updated": "2026-10-01T20:22:20.166680+09:00",
+    "collected_institutions": 32,
+    "structured_documents": 568,
+    "total_meal_records": 51771,
+    "institution_month_files": 567,
+    "last_updated": "2026-10-02T23:07:21.145549+09:00",
     "data_scope": "excel_ready_only"
   }
 }

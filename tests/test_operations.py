@@ -433,9 +433,10 @@ def test_real_known_excel_auto_ready_incremental(base):
     from production.io import read_jsonl
     cfg, _, _ = base
     source_root = Path(__file__).resolve().parents[1]
+    # Use the source-confirmed inmate workbook, not the first legacy READY
+    # flag: 72303-74034 is an explicitly staff table quarantined in 3B.3.
     source = next(item for item in load(source_root / "tests/fixtures/menu_quality/manifest.json")
-                  if item["production_status"] == "ready" and item["meal_year"] != 2026
-                  and item["extension"] == "xlsx")
+                  if item["document_id"] == "65664-66430")
     post = new_post(cfg, "900-900", role_name="수용자식단표.xlsx")
     attachment = post.attachments[0]
     target = cfg.project_root / attachment.local_path

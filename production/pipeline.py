@@ -20,9 +20,9 @@ from .menu_lint import require_clean_public_menus
 from parsers.excel.menu_artifacts import CATEGORIES
 
 
-PARSER_VERSION = "3B.2"
+PARSER_VERSION = "3B.3"
 SCHEMA_VERSION = "1.0"
-PRODUCTION_POLICY_VERSION = "3B.2"
+PRODUCTION_POLICY_VERSION = "3B.3"
 
 
 def detect_conflicts(documents: list[dict[str, Any]]) -> tuple[set[str], list[dict[str, Any]], int]:

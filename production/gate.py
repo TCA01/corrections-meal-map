@@ -17,6 +17,7 @@ def production_route(result: dict[str, Any], *, institution_id: str | None) -> s
         and result.get("source_provenance_valid") is True
         and bool(institution_id)
         and result.get("menu_quality_valid") is True
+        and result.get("source_completeness_valid", True) is True
         and all(int(result.get(key, 0)) == 0 for key in
                 ("unresolved_formula_values", "excel_error_menu_items", "unresolved_non_menu_artifacts"))
         and all(not classify_menu_token(item.get("name", "")) and not classify_menu_token(item.get("raw_text", ""))

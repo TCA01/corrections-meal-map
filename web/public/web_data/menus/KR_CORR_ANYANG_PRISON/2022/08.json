@@ -1,0 +1,3202 @@
+{
+  "schema_version": "1.0",
+  "institution_id": "KR_CORR_ANYANG_PRISON",
+  "year": 2022,
+  "month": 8,
+  "days": {
+    "2022-08-01": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "사골국",
+            "raw_text": "사골국"
+          },
+          {
+            "name": "고들빼기무침",
+            "raw_text": "고들빼기무침"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "돼지고기호박찌개",
+            "raw_text": "돼지고기호박찌개"
+          },
+          {
+            "name": "감자조림",
+            "raw_text": "감자조림"
+          },
+          {
+            "name": "양배추쌈",
+            "raw_text": "양배추쌈"
+          },
+          {
+            "name": "쌈장",
+            "raw_text": "쌈장"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "시래기된장국",
+            "raw_text": "시래기된장국"
+          },
+          {
+            "name": "생선구이",
+            "raw_text": "생선구이"
+          },
+          {
+            "name": "오이꼬시래기무침",
+            "raw_text": "오이꼬시래기무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-08": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "사골국",
+            "raw_text": "사골국"
+          },
+          {
+            "name": "고들빼기무침",
+            "raw_text": "고들빼기무침"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "돼지고기호박찌개",
+            "raw_text": "돼지고기호박찌개"
+          },
+          {
+            "name": "감자조림",
+            "raw_text": "감자조림"
+          },
+          {
+            "name": "양배추쌈",
+            "raw_text": "양배추쌈"
+          },
+          {
+            "name": "쌈장",
+            "raw_text": "쌈장"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "시래기된장국",
+            "raw_text": "시래기된장국"
+          },
+          {
+            "name": "생선구이",
+            "raw_text": "생선구이"
+          },
+          {
+            "name": "오이꼬시래기무침",
+            "raw_text": "오이꼬시래기무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-15": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "사골국",
+            "raw_text": "사골국"
+          },
+          {
+            "name": "고들빼기무침",
+            "raw_text": "고들빼기무침"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "돼지고기호박찌개",
+            "raw_text": "돼지고기호박찌개"
+          },
+          {
+            "name": "감자조림",
+            "raw_text": "감자조림"
+          },
+          {
+            "name": "양배추쌈",
+            "raw_text": "양배추쌈"
+          },
+          {
+            "name": "쌈장",
+            "raw_text": "쌈장"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "시래기된장국",
+            "raw_text": "시래기된장국"
+          },
+          {
+            "name": "생선구이",
+            "raw_text": "생선구이"
+          },
+          {
+            "name": "오이꼬시래기무침",
+            "raw_text": "오이꼬시래기무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-22": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "사골국",
+            "raw_text": "사골국"
+          },
+          {
+            "name": "고들빼기무침",
+            "raw_text": "고들빼기무침"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "돼지고기호박찌개",
+            "raw_text": "돼지고기호박찌개"
+          },
+          {
+            "name": "감자조림",
+            "raw_text": "감자조림"
+          },
+          {
+            "name": "양배추쌈",
+            "raw_text": "양배추쌈"
+          },
+          {
+            "name": "쌈장",
+            "raw_text": "쌈장"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "시래기된장국",
+            "raw_text": "시래기된장국"
+          },
+          {
+            "name": "생선구이",
+            "raw_text": "생선구이"
+          },
+          {
+            "name": "오이꼬시래기무침",
+            "raw_text": "오이꼬시래기무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-29": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "사골국",
+            "raw_text": "사골국"
+          },
+          {
+            "name": "고들빼기무침",
+            "raw_text": "고들빼기무침"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "돼지고기호박찌개",
+            "raw_text": "돼지고기호박찌개"
+          },
+          {
+            "name": "감자조림",
+            "raw_text": "감자조림"
+          },
+          {
+            "name": "양배추쌈",
+            "raw_text": "양배추쌈"
+          },
+          {
+            "name": "쌈장",
+            "raw_text": "쌈장"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "시래기된장국",
+            "raw_text": "시래기된장국"
+          },
+          {
+            "name": "생선구이",
+            "raw_text": "생선구이"
+          },
+          {
+            "name": "오이꼬시래기무침",
+            "raw_text": "오이꼬시래기무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-02": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "스프",
+            "raw_text": "스프"
+          },
+          {
+            "name": "모닝빵(주식)",
+            "raw_text": "모닝빵(주식)"
+          },
+          {
+            "name": "딸기잼",
+            "raw_text": "딸기잼"
+          },
+          {
+            "name": "양배추샐러드",
+            "raw_text": "양배추샐러드"
+          },
+          {
+            "name": "우유",
+            "raw_text": "우유"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "북어국",
+            "raw_text": "북어국"
+          },
+          {
+            "name": "닭볶음탕",
+            "raw_text": "닭볶음탕"
+          },
+          {
+            "name": "깻잎지무침",
+            "raw_text": "깻잎지무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "우무콩국",
+            "raw_text": "우무콩국"
+          },
+          {
+            "name": "김치볶음(비빔용)",
+            "raw_text": "김치볶음(비빔용)"
+          },
+          {
+            "name": "달걀후라이",
+            "raw_text": "달걀후라이"
+          },
+          {
+            "name": "조미김",
+            "raw_text": "조미김"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-09": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "스프",
+            "raw_text": "스프"
+          },
+          {
+            "name": "모닝빵(주식)",
+            "raw_text": "모닝빵(주식)"
+          },
+          {
+            "name": "딸기잼",
+            "raw_text": "딸기잼"
+          },
+          {
+            "name": "양배추샐러드",
+            "raw_text": "양배추샐러드"
+          },
+          {
+            "name": "우유",
+            "raw_text": "우유"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "북어국",
+            "raw_text": "북어국"
+          },
+          {
+            "name": "닭볶음탕",
+            "raw_text": "닭볶음탕"
+          },
+          {
+            "name": "깻잎지무침",
+            "raw_text": "깻잎지무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "우무콩국",
+            "raw_text": "우무콩국"
+          },
+          {
+            "name": "김치볶음(비빔용)",
+            "raw_text": "김치볶음(비빔용)"
+          },
+          {
+            "name": "달걀후라이",
+            "raw_text": "달걀후라이"
+          },
+          {
+            "name": "조미김",
+            "raw_text": "조미김"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-16": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "스프",
+            "raw_text": "스프"
+          },
+          {
+            "name": "모닝빵(주식)",
+            "raw_text": "모닝빵(주식)"
+          },
+          {
+            "name": "딸기잼",
+            "raw_text": "딸기잼"
+          },
+          {
+            "name": "양배추샐러드",
+            "raw_text": "양배추샐러드"
+          },
+          {
+            "name": "우유",
+            "raw_text": "우유"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "북어국",
+            "raw_text": "북어국"
+          },
+          {
+            "name": "닭볶음탕",
+            "raw_text": "닭볶음탕"
+          },
+          {
+            "name": "깻잎지무침",
+            "raw_text": "깻잎지무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "우무콩국",
+            "raw_text": "우무콩국"
+          },
+          {
+            "name": "김치볶음(비빔용)",
+            "raw_text": "김치볶음(비빔용)"
+          },
+          {
+            "name": "달걀후라이",
+            "raw_text": "달걀후라이"
+          },
+          {
+            "name": "조미김",
+            "raw_text": "조미김"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-23": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "스프",
+            "raw_text": "스프"
+          },
+          {
+            "name": "모닝빵(주식)",
+            "raw_text": "모닝빵(주식)"
+          },
+          {
+            "name": "딸기잼",
+            "raw_text": "딸기잼"
+          },
+          {
+            "name": "양배추샐러드",
+            "raw_text": "양배추샐러드"
+          },
+          {
+            "name": "우유",
+            "raw_text": "우유"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "북어국",
+            "raw_text": "북어국"
+          },
+          {
+            "name": "닭볶음탕",
+            "raw_text": "닭볶음탕"
+          },
+          {
+            "name": "깻잎지무침",
+            "raw_text": "깻잎지무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "우무콩국",
+            "raw_text": "우무콩국"
+          },
+          {
+            "name": "김치볶음(비빔용)",
+            "raw_text": "김치볶음(비빔용)"
+          },
+          {
+            "name": "달걀후라이",
+            "raw_text": "달걀후라이"
+          },
+          {
+            "name": "조미김",
+            "raw_text": "조미김"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-30": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "스프",
+            "raw_text": "스프"
+          },
+          {
+            "name": "모닝빵(주식)",
+            "raw_text": "모닝빵(주식)"
+          },
+          {
+            "name": "딸기잼",
+            "raw_text": "딸기잼"
+          },
+          {
+            "name": "양배추샐러드",
+            "raw_text": "양배추샐러드"
+          },
+          {
+            "name": "우유",
+            "raw_text": "우유"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "북어국",
+            "raw_text": "북어국"
+          },
+          {
+            "name": "닭볶음탕",
+            "raw_text": "닭볶음탕"
+          },
+          {
+            "name": "깻잎지무침",
+            "raw_text": "깻잎지무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "우무콩국",
+            "raw_text": "우무콩국"
+          },
+          {
+            "name": "김치볶음(비빔용)",
+            "raw_text": "김치볶음(비빔용)"
+          },
+          {
+            "name": "달걀후라이",
+            "raw_text": "달걀후라이"
+          },
+          {
+            "name": "조미김",
+            "raw_text": "조미김"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-03": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "새우채소죽(주식)",
+            "raw_text": "새우채소죽(주식)"
+          },
+          {
+            "name": "오복채무침",
+            "raw_text": "오복채무침"
+          },
+          {
+            "name": "떠먹는요구르트",
+            "raw_text": "떠먹는요구르트"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "김치콩나물국",
+            "raw_text": "김치콩나물국"
+          },
+          {
+            "name": "파채돼지고기짜장볶음",
+            "raw_text": "파채돼지고기짜장볶음"
+          },
+          {
+            "name": "단무지무침",
+            "raw_text": "단무지무침"
+          },
+          {
+            "name": "빙과류",
+            "raw_text": "빙과류"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "어묵국",
+            "raw_text": "어묵국"
+          },
+          {
+            "name": "메추리알새송이조림",
+            "raw_text": "메추리알새송이조림"
+          },
+          {
+            "name": "마카로니콘샐러드",
+            "raw_text": "마카로니콘샐러드"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-10": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "새우채소죽(주식)",
+            "raw_text": "새우채소죽(주식)"
+          },
+          {
+            "name": "오복채무침",
+            "raw_text": "오복채무침"
+          },
+          {
+            "name": "떠먹는요구르트",
+            "raw_text": "떠먹는요구르트"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "김치콩나물국",
+            "raw_text": "김치콩나물국"
+          },
+          {
+            "name": "파채돼지고기짜장볶음",
+            "raw_text": "파채돼지고기짜장볶음"
+          },
+          {
+            "name": "단무지무침",
+            "raw_text": "단무지무침"
+          },
+          {
+            "name": "빙과류",
+            "raw_text": "빙과류"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "어묵국",
+            "raw_text": "어묵국"
+          },
+          {
+            "name": "메추리알새송이조림",
+            "raw_text": "메추리알새송이조림"
+          },
+          {
+            "name": "마카로니콘샐러드",
+            "raw_text": "마카로니콘샐러드"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-17": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "새우채소죽(주식)",
+            "raw_text": "새우채소죽(주식)"
+          },
+          {
+            "name": "오복채무침",
+            "raw_text": "오복채무침"
+          },
+          {
+            "name": "떠먹는요구르트",
+            "raw_text": "떠먹는요구르트"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "김치콩나물국",
+            "raw_text": "김치콩나물국"
+          },
+          {
+            "name": "파채돼지고기짜장볶음",
+            "raw_text": "파채돼지고기짜장볶음"
+          },
+          {
+            "name": "단무지무침",
+            "raw_text": "단무지무침"
+          },
+          {
+            "name": "빙과류",
+            "raw_text": "빙과류"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "어묵국",
+            "raw_text": "어묵국"
+          },
+          {
+            "name": "메추리알새송이조림",
+            "raw_text": "메추리알새송이조림"
+          },
+          {
+            "name": "마카로니콘샐러드",
+            "raw_text": "마카로니콘샐러드"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-24": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "새우채소죽(주식)",
+            "raw_text": "새우채소죽(주식)"
+          },
+          {
+            "name": "오복채무침",
+            "raw_text": "오복채무침"
+          },
+          {
+            "name": "떠먹는요구르트",
+            "raw_text": "떠먹는요구르트"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "김치콩나물국",
+            "raw_text": "김치콩나물국"
+          },
+          {
+            "name": "파채돼지고기짜장볶음",
+            "raw_text": "파채돼지고기짜장볶음"
+          },
+          {
+            "name": "단무지무침",
+            "raw_text": "단무지무침"
+          },
+          {
+            "name": "빙과류",
+            "raw_text": "빙과류"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "어묵국",
+            "raw_text": "어묵국"
+          },
+          {
+            "name": "메추리알새송이조림",
+            "raw_text": "메추리알새송이조림"
+          },
+          {
+            "name": "마카로니콘샐러드",
+            "raw_text": "마카로니콘샐러드"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-31": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "새우채소죽(주식)",
+            "raw_text": "새우채소죽(주식)"
+          },
+          {
+            "name": "오복채무침",
+            "raw_text": "오복채무침"
+          },
+          {
+            "name": "떠먹는요구르트",
+            "raw_text": "떠먹는요구르트"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "김치콩나물국",
+            "raw_text": "김치콩나물국"
+          },
+          {
+            "name": "파채돼지고기짜장볶음",
+            "raw_text": "파채돼지고기짜장볶음"
+          },
+          {
+            "name": "단무지무침",
+            "raw_text": "단무지무침"
+          },
+          {
+            "name": "빙과류",
+            "raw_text": "빙과류"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "어묵국",
+            "raw_text": "어묵국"
+          },
+          {
+            "name": "메추리알새송이조림",
+            "raw_text": "메추리알새송이조림"
+          },
+          {
+            "name": "마카로니콘샐러드",
+            "raw_text": "마카로니콘샐러드"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-04": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "시리얼(주식)",
+            "raw_text": "시리얼(주식)"
+          },
+          {
+            "name": "우유",
+            "raw_text": "우유"
+          },
+          {
+            "name": "과일",
+            "raw_text": "과일"
+          },
+          {
+            "name": "삶은달걀",
+            "raw_text": "삶은달걀"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "오이미역냉국",
+            "raw_text": "오이미역냉국"
+          },
+          {
+            "name": "돼지고기김치볶음",
+            "raw_text": "돼지고기김치볶음"
+          },
+          {
+            "name": "연두부",
+            "raw_text": "연두부"
+          },
+          {
+            "name": "양념장",
+            "raw_text": "양념장"
+          },
+          {
+            "name": "조미김",
+            "raw_text": "조미김"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "버섯국",
+            "raw_text": "버섯국"
+          },
+          {
+            "name": "생선까스",
+            "raw_text": "생선까스"
+          },
+          {
+            "name": "해파리냉채",
+            "raw_text": "해파리냉채"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-11": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "시리얼(주식)",
+            "raw_text": "시리얼(주식)"
+          },
+          {
+            "name": "우유",
+            "raw_text": "우유"
+          },
+          {
+            "name": "과일",
+            "raw_text": "과일"
+          },
+          {
+            "name": "삶은달걀",
+            "raw_text": "삶은달걀"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "오이미역냉국",
+            "raw_text": "오이미역냉국"
+          },
+          {
+            "name": "돼지고기김치볶음",
+            "raw_text": "돼지고기김치볶음"
+          },
+          {
+            "name": "연두부",
+            "raw_text": "연두부"
+          },
+          {
+            "name": "양념장",
+            "raw_text": "양념장"
+          },
+          {
+            "name": "조미김",
+            "raw_text": "조미김"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "버섯국",
+            "raw_text": "버섯국"
+          },
+          {
+            "name": "생선까스",
+            "raw_text": "생선까스"
+          },
+          {
+            "name": "해파리냉채",
+            "raw_text": "해파리냉채"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-18": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "시리얼(주식)",
+            "raw_text": "시리얼(주식)"
+          },
+          {
+            "name": "우유",
+            "raw_text": "우유"
+          },
+          {
+            "name": "과일",
+            "raw_text": "과일"
+          },
+          {
+            "name": "삶은달걀",
+            "raw_text": "삶은달걀"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "오이미역냉국",
+            "raw_text": "오이미역냉국"
+          },
+          {
+            "name": "돼지고기김치볶음",
+            "raw_text": "돼지고기김치볶음"
+          },
+          {
+            "name": "연두부",
+            "raw_text": "연두부"
+          },
+          {
+            "name": "양념장",
+            "raw_text": "양념장"
+          },
+          {
+            "name": "조미김",
+            "raw_text": "조미김"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "버섯국",
+            "raw_text": "버섯국"
+          },
+          {
+            "name": "생선까스",
+            "raw_text": "생선까스"
+          },
+          {
+            "name": "해파리냉채",
+            "raw_text": "해파리냉채"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-25": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "시리얼(주식)",
+            "raw_text": "시리얼(주식)"
+          },
+          {
+            "name": "우유",
+            "raw_text": "우유"
+          },
+          {
+            "name": "과일",
+            "raw_text": "과일"
+          },
+          {
+            "name": "삶은달걀",
+            "raw_text": "삶은달걀"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "오이미역냉국",
+            "raw_text": "오이미역냉국"
+          },
+          {
+            "name": "돼지고기김치볶음",
+            "raw_text": "돼지고기김치볶음"
+          },
+          {
+            "name": "연두부",
+            "raw_text": "연두부"
+          },
+          {
+            "name": "양념장",
+            "raw_text": "양념장"
+          },
+          {
+            "name": "조미김",
+            "raw_text": "조미김"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "버섯국",
+            "raw_text": "버섯국"
+          },
+          {
+            "name": "생선까스",
+            "raw_text": "생선까스"
+          },
+          {
+            "name": "해파리냉채",
+            "raw_text": "해파리냉채"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-05": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "쇠고기콩나물국",
+            "raw_text": "쇠고기콩나물국"
+          },
+          {
+            "name": "멸치볶음",
+            "raw_text": "멸치볶음"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "닭곰탕",
+            "raw_text": "닭곰탕"
+          },
+          {
+            "name": "가지볶음",
+            "raw_text": "가지볶음"
+          },
+          {
+            "name": "부추무침",
+            "raw_text": "부추무침"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "미역국",
+            "raw_text": "미역국"
+          },
+          {
+            "name": "파채돈까스",
+            "raw_text": "파채돈까스"
+          },
+          {
+            "name": "무생채",
+            "raw_text": "무생채"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-12": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "쇠고기콩나물국",
+            "raw_text": "쇠고기콩나물국"
+          },
+          {
+            "name": "멸치볶음",
+            "raw_text": "멸치볶음"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "닭곰탕",
+            "raw_text": "닭곰탕"
+          },
+          {
+            "name": "가지볶음",
+            "raw_text": "가지볶음"
+          },
+          {
+            "name": "부추무침",
+            "raw_text": "부추무침"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "미역국",
+            "raw_text": "미역국"
+          },
+          {
+            "name": "파채돈까스",
+            "raw_text": "파채돈까스"
+          },
+          {
+            "name": "무생채",
+            "raw_text": "무생채"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-19": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "쇠고기콩나물국",
+            "raw_text": "쇠고기콩나물국"
+          },
+          {
+            "name": "멸치볶음",
+            "raw_text": "멸치볶음"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "닭곰탕",
+            "raw_text": "닭곰탕"
+          },
+          {
+            "name": "가지볶음",
+            "raw_text": "가지볶음"
+          },
+          {
+            "name": "부추무침",
+            "raw_text": "부추무침"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "미역국",
+            "raw_text": "미역국"
+          },
+          {
+            "name": "파채돈까스",
+            "raw_text": "파채돈까스"
+          },
+          {
+            "name": "무생채",
+            "raw_text": "무생채"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-26": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "쇠고기콩나물국",
+            "raw_text": "쇠고기콩나물국"
+          },
+          {
+            "name": "멸치볶음",
+            "raw_text": "멸치볶음"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "닭곰탕",
+            "raw_text": "닭곰탕"
+          },
+          {
+            "name": "가지볶음",
+            "raw_text": "가지볶음"
+          },
+          {
+            "name": "부추무침",
+            "raw_text": "부추무침"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "미역국",
+            "raw_text": "미역국"
+          },
+          {
+            "name": "파채돈까스",
+            "raw_text": "파채돈까스"
+          },
+          {
+            "name": "무생채",
+            "raw_text": "무생채"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-06": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "스프",
+            "raw_text": "스프"
+          },
+          {
+            "name": "식빵(주식)",
+            "raw_text": "식빵(주식)"
+          },
+          {
+            "name": "딸기잼",
+            "raw_text": "딸기잼"
+          },
+          {
+            "name": "양배추샐러드",
+            "raw_text": "양배추샐러드"
+          },
+          {
+            "name": "치즈",
+            "raw_text": "치즈"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "우렁된장찌개",
+            "raw_text": "우렁된장찌개"
+          },
+          {
+            "name": "돼지고기채소볶음",
+            "raw_text": "돼지고기채소볶음"
+          },
+          {
+            "name": "채소",
+            "raw_text": "채소"
+          },
+          {
+            "name": "쌈장",
+            "raw_text": "쌈장"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "우동국",
+            "raw_text": "우동국"
+          },
+          {
+            "name": "짜장",
+            "raw_text": "짜장"
+          },
+          {
+            "name": "카레",
+            "raw_text": "카레"
+          },
+          {
+            "name": "쿨피스",
+            "raw_text": "쿨피스"
+          },
+          {
+            "name": "단무지",
+            "raw_text": "단무지"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-13": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "스프",
+            "raw_text": "스프"
+          },
+          {
+            "name": "식빵(주식)",
+            "raw_text": "식빵(주식)"
+          },
+          {
+            "name": "딸기잼",
+            "raw_text": "딸기잼"
+          },
+          {
+            "name": "양배추샐러드",
+            "raw_text": "양배추샐러드"
+          },
+          {
+            "name": "치즈",
+            "raw_text": "치즈"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "우렁된장찌개",
+            "raw_text": "우렁된장찌개"
+          },
+          {
+            "name": "돼지고기채소볶음",
+            "raw_text": "돼지고기채소볶음"
+          },
+          {
+            "name": "채소",
+            "raw_text": "채소"
+          },
+          {
+            "name": "쌈장",
+            "raw_text": "쌈장"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "우동국",
+            "raw_text": "우동국"
+          },
+          {
+            "name": "짜장",
+            "raw_text": "짜장"
+          },
+          {
+            "name": "카레",
+            "raw_text": "카레"
+          },
+          {
+            "name": "쿨피스",
+            "raw_text": "쿨피스"
+          },
+          {
+            "name": "단무지",
+            "raw_text": "단무지"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-20": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "스프",
+            "raw_text": "스프"
+          },
+          {
+            "name": "식빵(주식)",
+            "raw_text": "식빵(주식)"
+          },
+          {
+            "name": "딸기잼",
+            "raw_text": "딸기잼"
+          },
+          {
+            "name": "양배추샐러드",
+            "raw_text": "양배추샐러드"
+          },
+          {
+            "name": "치즈",
+            "raw_text": "치즈"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "우렁된장찌개",
+            "raw_text": "우렁된장찌개"
+          },
+          {
+            "name": "돼지고기채소볶음",
+            "raw_text": "돼지고기채소볶음"
+          },
+          {
+            "name": "채소",
+            "raw_text": "채소"
+          },
+          {
+            "name": "쌈장",
+            "raw_text": "쌈장"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "우동국",
+            "raw_text": "우동국"
+          },
+          {
+            "name": "짜장",
+            "raw_text": "짜장"
+          },
+          {
+            "name": "카레",
+            "raw_text": "카레"
+          },
+          {
+            "name": "쿨피스",
+            "raw_text": "쿨피스"
+          },
+          {
+            "name": "단무지",
+            "raw_text": "단무지"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-27": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "스프",
+            "raw_text": "스프"
+          },
+          {
+            "name": "식빵(주식)",
+            "raw_text": "식빵(주식)"
+          },
+          {
+            "name": "딸기잼",
+            "raw_text": "딸기잼"
+          },
+          {
+            "name": "양배추샐러드",
+            "raw_text": "양배추샐러드"
+          },
+          {
+            "name": "치즈",
+            "raw_text": "치즈"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "우렁된장찌개",
+            "raw_text": "우렁된장찌개"
+          },
+          {
+            "name": "돼지고기채소볶음",
+            "raw_text": "돼지고기채소볶음"
+          },
+          {
+            "name": "채소",
+            "raw_text": "채소"
+          },
+          {
+            "name": "쌈장",
+            "raw_text": "쌈장"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "우동국",
+            "raw_text": "우동국"
+          },
+          {
+            "name": "짜장",
+            "raw_text": "짜장"
+          },
+          {
+            "name": "카레",
+            "raw_text": "카레"
+          },
+          {
+            "name": "쿨피스",
+            "raw_text": "쿨피스"
+          },
+          {
+            "name": "단무지",
+            "raw_text": "단무지"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-07": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "떡국",
+            "raw_text": "떡국"
+          },
+          {
+            "name": "조미김",
+            "raw_text": "조미김"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "두부김치국",
+            "raw_text": "두부김치국"
+          },
+          {
+            "name": "꽈리어묵볶음",
+            "raw_text": "꽈리어묵볶음"
+          },
+          {
+            "name": "마늘종양파무침",
+            "raw_text": "마늘종양파무침"
+          },
+          {
+            "name": "빙과류",
+            "raw_text": "빙과류"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "쇠고기미역국",
+            "raw_text": "쇠고기미역국"
+          },
+          {
+            "name": "달걀장조림(2개)",
+            "raw_text": "달걀장조림(2개)"
+          },
+          {
+            "name": "무말랭이무침",
+            "raw_text": "무말랭이무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-14": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "떡국",
+            "raw_text": "떡국"
+          },
+          {
+            "name": "조미김",
+            "raw_text": "조미김"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "두부김치국",
+            "raw_text": "두부김치국"
+          },
+          {
+            "name": "꽈리어묵볶음",
+            "raw_text": "꽈리어묵볶음"
+          },
+          {
+            "name": "마늘종양파무침",
+            "raw_text": "마늘종양파무침"
+          },
+          {
+            "name": "빙과류",
+            "raw_text": "빙과류"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "쇠고기미역국",
+            "raw_text": "쇠고기미역국"
+          },
+          {
+            "name": "달걀장조림(2개)",
+            "raw_text": "달걀장조림(2개)"
+          },
+          {
+            "name": "무말랭이무침",
+            "raw_text": "무말랭이무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-21": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "떡국",
+            "raw_text": "떡국"
+          },
+          {
+            "name": "조미김",
+            "raw_text": "조미김"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "두부김치국",
+            "raw_text": "두부김치국"
+          },
+          {
+            "name": "꽈리어묵볶음",
+            "raw_text": "꽈리어묵볶음"
+          },
+          {
+            "name": "마늘종양파무침",
+            "raw_text": "마늘종양파무침"
+          },
+          {
+            "name": "빙과류",
+            "raw_text": "빙과류"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "쇠고기미역국",
+            "raw_text": "쇠고기미역국"
+          },
+          {
+            "name": "달걀장조림(2개)",
+            "raw_text": "달걀장조림(2개)"
+          },
+          {
+            "name": "무말랭이무침",
+            "raw_text": "무말랭이무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    },
+    "2022-08-28": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "떡국",
+            "raw_text": "떡국"
+          },
+          {
+            "name": "조미김",
+            "raw_text": "조미김"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "두부김치국",
+            "raw_text": "두부김치국"
+          },
+          {
+            "name": "꽈리어묵볶음",
+            "raw_text": "꽈리어묵볶음"
+          },
+          {
+            "name": "마늘종양파무침",
+            "raw_text": "마늘종양파무침"
+          },
+          {
+            "name": "빙과류",
+            "raw_text": "빙과류"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "쇠고기미역국",
+            "raw_text": "쇠고기미역국"
+          },
+          {
+            "name": "달걀장조림(2개)",
+            "raw_text": "달걀장조림(2개)"
+          },
+          {
+            "name": "무말랭이무침",
+            "raw_text": "무말랭이무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "68740-70011",
+        "source_document_ids": [
+          "68740-70011"
+        ],
+        "source": {
+          "document_id": "68740-70011",
+          "post_id": "68740",
+          "attachment_id": "70011",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+          "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+          "published_date": "2022-08-01"
+        }
+      }
+    }
+  },
+  "sources": [
+    {
+      "document_id": "68740-70011",
+      "post_id": "68740",
+      "attachment_id": "70011",
+      "post_url": "https://www.corrections.go.kr/policyOpen/corrections/68740/artclView.do",
+      "download_url": "https://www.corrections.go.kr/policyOpen/corrections/70011/download.do",
+      "original_filename": "2022년 8월 안양교도소 수용자 식단표.xlsx",
+      "published_date": "2022-08-01"
+    }
+  ]
+}

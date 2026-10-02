@@ -154,12 +154,14 @@ def test_actual_corpus_regression(case):
     result = ExcelMealParser(ROOT).parse_sample(real_sample(case["document_id"]))
     assert production_route(result, institution_id=result["institution_id"]) == case["expected_route"]
     assert all(not classify_menu_token(i["name"]) for r in result["records"] for i in r["menu_items"])
-    if case["expected_route"] == "review":
+    if case["expected_route"] == "review" and case['document_id'] != '72303-74034':
         assert not result["menu_quality_valid"] and result["coverage"]["missing_meals"]
     if case["document_id"] == "72303-74034":
+        assert any(i['code']=='STAFF_TABLE_SELECTED' for i in result['document_issues'])
         # Original cell is a complete "4,330원" cost note. It must not be
         # broken at the thousands comma into a spurious standalone 330원.
-        assert result["artifact_counts"]["cost_metadata"] > 0 and result["excluded_artifacts"] > 0
+        # Footer lies outside the structurally bounded meal block in 3B.3.
+        assert all('4,330' not in r['source']['raw_text'] for r in result['records'])
 
 
 def test_production_lint_rejects_artifact_in_public_item(tmp_path):

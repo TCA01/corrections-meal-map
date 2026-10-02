@@ -245,3 +245,10 @@ Phase 5A prepares a lean repository, static GitHub Pages deployment, and one dai
 
 Local checks: `python -m pytest`, `python scripts/github_state.py validate`, `python scripts/repo_size_audit.py --check`; then `npm ci`, `npm run test`, `npm run build` inside `web`, and `node scripts/verify_web_build.mjs` from the root. A fresh lean checkout must first run `python scripts/github_state.py restore`; never run restore over existing local production.
 
+## Phase 3B.3 meal completeness
+
+`python scripts/audit_meal_completeness.py` reopens READY raw workbooks and
+reports full-menu coverage, suspicion candidates and independent full-meal
+golden metrics. It requires the local raw archive, not just a lean checkout.
+See [source-backed completeness checks and limitations](docs/meal_completeness.md).
+

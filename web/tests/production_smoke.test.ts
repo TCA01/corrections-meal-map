@@ -5,6 +5,18 @@ import * as path from 'node:path';
 describe('Production Smoke Tests — Direct Inspection of web/public/web_data', () => {
   const webDataDir = path.resolve(__dirname, '../public/web_data');
 
+  it('preserves the complete Busan 2019-02-01 three-meal source blocks', () => {
+    const month = JSON.parse(fs.readFileSync(path.join(webDataDir,
+      'menus/KR_CORR_BUSAN_PRISON/2019/02.json'), 'utf-8'));
+    const meals = month.days['2019-02-01'];
+    expect(meals.breakfast.menu_items.map((i: any) => i.name))
+      .toEqual(['장터국', '달걀말이', '김구이양념장', '배추김치']);
+    expect(meals.lunch.menu_items.map((i: any) => i.name))
+      .toEqual(['시락국', '카레', '만두튀김양념장', '배추김치']);
+    expect(meals.dinner.menu_items.map((i: any) => i.name))
+      .toEqual(['어묵국', '닭다리구이', '콩나물무침', '조미김', '배추김치']);
+  });
+
   it('verifies manifest.json exists and adheres to canonical schema and Phase 4B stats', () => {
     const manifestPath = path.join(webDataDir, 'manifest.json');
     expect(fs.existsSync(manifestPath)).toBe(true);
@@ -106,7 +118,8 @@ describe('Production Smoke Tests — Direct Inspection of web/public/web_data', 
     const sampleInstitutions = [
       { id: 'KR_CORR_MOKPO_PRISON', year: '2024', month: '09' },
       { id: 'KR_CORR_BUSAN_PRISON', year: '2019', month: '02' },
-      { id: 'KR_CORR_CHANGWON_PRISON', year: '2025', month: '01' },
+      // 2025-01 is now REVIEW (source weekday/date mismatch); only READY is served.
+      { id: 'KR_CORR_CHANGWON_PRISON', year: '2022', month: '12' },
     ];
 
     for (const sample of sampleInstitutions) {

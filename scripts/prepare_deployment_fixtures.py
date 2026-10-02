@@ -11,10 +11,11 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from production.io import atomic_json, read_jsonl
 
-def fixture_copy(original, target, item):
+def fixture_copy(original, target, item, *, previous_sha256=None):
     """Strip location metadata in fixture copies, never cells/formulas/cached values."""
     payload = original.read_bytes()
-    if is_zipfile(original):
+    # BIFF/OLE may contain an embedded ZIP (drawing metadata), but is not OOXML.
+    if payload.startswith(b'PK') and is_zipfile(original):
         stream = io.BytesIO()
         with ZipFile(original) as source, ZipFile(stream, 'w', ZIP_DEFLATED) as output:
             for info in source.infolist():
@@ -34,7 +35,8 @@ def fixture_copy(original, target, item):
                 output.writestr(info, content)
         payload = stream.getvalue()
     target.parent.mkdir(parents=True, exist_ok=True)
-    if target.exists() and target.read_bytes() not in (original.read_bytes(), payload):
+    if (target.exists() and target.read_bytes() not in (original.read_bytes(), payload)
+            and hashlib.sha256(target.read_bytes()).hexdigest() != previous_sha256):
         raise ValueError('refusing to replace an unrelated regression fixture')
     target.write_bytes(payload)
     item['original_source_sha256'] = item.get('sha256')
@@ -44,25 +46,29 @@ def fixture_copy(original, target, item):
     item['local_path'] = target.relative_to(root).as_posix()
 
 root = Path(__file__).resolve().parents[1]
-cases = json.loads((root / 'tests/fixtures/menu_quality/real_cases.json').read_text(encoding='utf-8'))
-source = root / 'data/production/runs' / cases['source_dataset']
-manifest = read_jsonl(source / 'excel_manifest.jsonl')
-ids = {c['document_id'] for c in cases['cases']}
-selected = [i for i in manifest if i['document_id'] in ids]
-if len(selected) != len(ids):
-    raise ValueError('missing regression sources')
-for item in selected:
-    original = root / item['local_path']
-    target = root / 'tests/fixtures/menu_quality/raw' / original.name
-    fixture_copy(original, target, item)
-atomic_json(root / 'tests/fixtures/menu_quality/manifest.json', selected)
-samples = json.loads((root / 'data/audit/parser_samples.json').read_text(encoding='utf-8'))
-excel = [i for i in samples if i['extension'] in ('xlsx', 'xls')]
-for item in excel:
-    original = root / item['local_path']
-    target = root / 'tests/fixtures/excel_samples/raw' / (f"{item['post_id']}-{item['attachment_id']}" + original.suffix)
-    fixture_copy(original, target, item)
-    item['duplicate_of'] = None
-atomic_json(root / 'tests/fixtures/excel_samples/manifest.json', excel)
-print(f'Selected {len(excel)} Excel parser fixtures')
-print(f'Selected {len(selected)} small public Excel regression fixtures')
+def main():
+    cases = json.loads((root / 'tests/fixtures/menu_quality/real_cases.json').read_text(encoding='utf-8'))
+    source = root / 'data/production/runs' / cases['source_dataset']
+    manifest = read_jsonl(source / 'excel_manifest.jsonl')
+    ids = {c['document_id'] for c in cases['cases']}
+    selected = [i for i in manifest if i['document_id'] in ids]
+    if len(selected) != len(ids):
+        raise ValueError('missing regression sources')
+    for item in selected:
+        original = root / item['local_path']
+        target = root / 'tests/fixtures/menu_quality/raw' / original.name
+        fixture_copy(original, target, item)
+    atomic_json(root / 'tests/fixtures/menu_quality/manifest.json', selected)
+    samples = json.loads((root / 'data/audit/parser_samples.json').read_text(encoding='utf-8'))
+    excel = [i for i in samples if i['extension'] in ('xlsx', 'xls')]
+    for item in excel:
+        original = root / item['local_path']
+        target = root / 'tests/fixtures/excel_samples/raw' / (f"{item['post_id']}-{item['attachment_id']}" + original.suffix)
+        fixture_copy(original, target, item)
+        item['duplicate_of'] = None
+    atomic_json(root / 'tests/fixtures/excel_samples/manifest.json', excel)
+    print(f'Selected {len(excel)} Excel parser fixtures')
+    print(f'Selected {len(selected)} small public Excel regression fixtures')
+
+if __name__ == '__main__':
+    main()

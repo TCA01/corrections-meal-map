@@ -3,8 +3,8 @@
   "cases": [
     {"document_id": "65664-66430", "institution": "공주교도소", "coordinate": "D4", "formula": "=[1]차림표!C35", "cached": "소고기무국", "expected_route": "ready"},
     {"document_id": "65691-66457", "institution": "춘천교도소", "artifact": "#REF!", "expected_route": "review"},
-    {"document_id": "65649-66413", "institution": "강릉교도소", "artifact": "소 계", "expected_route": "review"},
-    {"document_id": "72303-74034", "institution": "정읍교도소", "artifact": "※ 1식 급양비 단가 4,330원", "expected_route": "ready"}
+    {"document_id": "65649-66413", "institution": "강릉교도소", "artifact": "소 계", "expected_route": "ready"},
+    {"document_id": "72303-74034", "institution": "정읍교도소", "artifact": "※ 1식 급양비 단가 4,330원", "expected_route": "review"}
   ],
   "legitimate_foods": ["계란찜", "계란후라이", "북어계란국", "오징어(원양)", "참치(원양산)", "딸기잼(주식)"]
 }

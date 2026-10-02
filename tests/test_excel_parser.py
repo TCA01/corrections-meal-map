@@ -163,9 +163,9 @@ def test_complete_month_coverage_has_no_missing_slots() -> None:
     assert coverage["expected_meal_slots"] == coverage["observed_meal_slots"] == 84
 
 
-def test_layout_family_detection_for_date_rows() -> None:
+def test_layout_family_detection_for_weekly_dates_down_menu_rows() -> None:
     sheet = read_workbook(sample_path(1), "xlsx").sheets[0]
-    assert analyze_layout(sheet).family == "date_rows_meal_columns"
+    assert analyze_layout(sheet).family == "weekday_blocks_meal_columns"
 
 
 def test_layout_family_detection_for_meal_rows() -> None:
@@ -207,7 +207,9 @@ def test_existing_blank_cells_remain_partial_without_synthetic_menu() -> None:
 def test_missing_all_three_meals_for_date_forces_partial() -> None:
     sample = next(item for item in EXCEL_SAMPLES if item["post_id"] == "71247")
     result = ExcelMealParser(ROOT).parse_sample(sample)
-    assert result["coverage"]["missing_dates"] == ["2022-09-29", "2022-09-30"]
+    # Dates on blank physical menu rows still refer to the whole weekly block.
+    assert result["coverage"]["missing_dates"] == []
+    assert result['excel_error_menu_items'] > 0
     assert result["status"] == "PARTIAL"
     assert result["production_eligible"] is False
 

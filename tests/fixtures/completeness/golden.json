@@ -1,0 +1,29 @@
+{
+  "method": "Hand transcribed from full original workbook blocks, before comparing parser results; order top-to-bottom. Slash/comma separated names are separate items; retained source spelling.",
+  "slots": [
+    {"document_id":"73262-75122","date":"2024-03-03","meal_type":"breakfast","sheet":"Sheet1","cells":["C4","C5","C6","C7"],"items":["시리얼","우유","삶은달걀","감자채소샐러드"]},
+    {"document_id":"73262-75122","date":"2024-03-03","meal_type":"lunch","sheet":"Sheet1","cells":["E4","E5","E6","E7"],"items":["민물새우매운탕","메추리알버섯장조림","조미김","배추김치"]},
+    {"document_id":"73262-75122","date":"2024-03-03","meal_type":"dinner","sheet":"Sheet1","cells":["G4","G5","G6","G7"],"items":["돼지고기김치찌개","어묵양파볶음","콩조림","총각김치"]},
+    {"document_id":"61045-61178","date":"2019-02-01","meal_type":"breakfast","sheet":"차림표","cells":["C25","C26","C27","C29"],"items":["장터국","달걀말이","김구이양념장","배추김치"]},
+    {"document_id":"61045-61178","date":"2019-02-01","meal_type":"lunch","sheet":"차림표","cells":["E25","E26","E27","E29"],"items":["시락국","카레","만두튀김양념장","배추김치"]},
+    {"document_id":"61045-61178","date":"2019-02-01","meal_type":"dinner","sheet":"차림표","cells":["G25","G26","G27","G28","G29"],"items":["어묵국","닭다리구이","콩나물무침","조미김","배추김치"]},
+    {"document_id":"59108-59036","date":"2018-04-02","meal_type":"breakfast","sheet":"수용자주간식단","cells":["D11","D12","D14"],"items":["호박고추장찌개","메추리알곤약조림","배추김치"]},
+    {"document_id":"59108-59036","date":"2018-04-02","meal_type":"lunch","sheet":"수용자주간식단","cells":["E11","E12","E13","E14"],"items":["얼갈이미더덕된장국","고등어조림","양념고추지","총각김치"]},
+    {"document_id":"59108-59036","date":"2018-04-02","meal_type":"dinner","sheet":"수용자주간식단","cells":["F11","F12","F13","F14"],"items":["소고기무국","돈가스&케첩","배추김치","요구르트"]},
+    {"document_id":"47472-46617","date":"2012-01-02","meal_type":"breakfast","sheet":"1월분 부식물 차림표","cells":["B7","B8","B9"],"items":["콩나물김치국","깻잎지","깍두기"]},
+    {"document_id":"47472-46617","date":"2012-01-02","meal_type":"lunch","sheet":"1월분 부식물 차림표","cells":["E7","E8","E9","E10"],"items":["닭개장","무생채","생채소","배추김치"]},
+    {"document_id":"47472-46617","date":"2012-01-02","meal_type":"dinner","sheet":"1월분 부식물 차림표","cells":["H7","H8","H9"],"items":["순두부국","콩나물무침","배추김치"]},
+    {"document_id":"56195-55886","date":"2016-08-01","meal_type":"breakfast","sheet":"수용자 배포용","cells":["C5","C6","C7","C8"],"items":["쇠고기미역국","달걀장조림(1개)","무말랭이무침","배추김치"]},
+    {"document_id":"56195-55886","date":"2016-08-01","meal_type":"lunch","sheet":"수용자 배포용","cells":["D5","D6","D7","D8"],"items":["김치말이국수","오징어초무침","두유","배추김치"]},
+    {"document_id":"56195-55886","date":"2016-08-01","meal_type":"dinner","sheet":"수용자 배포용","cells":["E5","E6","E7","E8"],"items":["된장찌개","비엔나채소볶음","버섯","초장","배추김치"]},
+    {"document_id":"65664-66430","date":"2021-05-03","meal_type":"breakfast","sheet":"차림표(안)","cells":["D4","D5","D6"],"items":["소고기무국","깻잎지","배추김치"]},
+    {"document_id":"65664-66430","date":"2021-05-03","meal_type":"lunch","sheet":"차림표(안)","cells":["E4","E5","E6","E7"],"items":["수제비국","두부조림","상추무침","깍두기"]},
+    {"document_id":"65664-66430","date":"2021-05-03","meal_type":"dinner","sheet":"차림표(안)","cells":["F4","F5","F6","F7"],"items":["곰탕","풋고추","된장","조미김","배추김치"]},
+    {"document_id":"61519-61743","date":"2019-06-03","meal_type":"breakfast","sheet":"수용자 식단표","cells":["B4","B5","B6"],"items":["두부콩나물국","깻잎지","배추김치"]},
+    {"document_id":"61519-61743","date":"2019-06-03","meal_type":"lunch","sheet":"수용자 식단표","cells":["B8","B9","B10","B11"],"items":["얼갈이된장국","닭볶음탕","미나리무생채","배추김치"]},
+    {"document_id":"61519-61743","date":"2019-06-03","meal_type":"dinner","sheet":"수용자 식단표","cells":["B12","B13","B14","B15"],"items":["부대찌개","계란프라이","시금치무침","배추김치"]},
+    {"document_id":"51939-51264","date":"2014-10-01","meal_type":"breakfast","sheet":"식단표(게시)","cells":["D5","D6","D7"],"items":["콩나물국","깻잎지","배추김치"]},
+    {"document_id":"51939-51264","date":"2014-10-01","meal_type":"lunch","sheet":"식단표(게시)","cells":["D8","D9","D10","D11"],"items":["육개장","구운김","얼갈이무침","알타리김치"]},
+    {"document_id":"51939-51264","date":"2014-10-01","meal_type":"dinner","sheet":"식단표(게시)","cells":["D12","D13","D14","D15"],"items":["호박된장국","고추튀김","야채튀김","미역초무침","배추김치"]}
+  ]
+}

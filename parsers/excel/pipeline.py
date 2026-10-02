@@ -15,6 +15,7 @@ from .validators import validate_records
 from .workbook_reader import read_workbook
 from .menu_quality import assess_menu_quality
 from .menu_artifacts import CATEGORIES
+from .completeness import source_coverage, suspicious_meals
 
 
 class ExcelMealParser:
@@ -38,7 +39,17 @@ class ExcelMealParser:
         profiles = []
         document_issues = list(period_warnings)
         quality_results = []
+        completeness_results = []
         for sheet, profile in candidates:
+            # A complete supplement schedule is not a complete daily meal.
+            # This is source evidence, not a heuristic based on item count.
+            title_text = ' '.join(cell.text for cell in sheet.cells if cell.row <= 6 and not cell.merged_parent)
+            if any(word in sheet.name or word in title_text for word in ('직원', '교도관')):
+                document_issues.append({'code':'STAFF_TABLE_SELECTED', 'severity':'warning',
+                                        'message':'selected table explicitly identifies staff, not inmate meals'})
+            if re.search(r'기존\s*식단.{0,40}추가', title_text):
+                document_issues.append({'code':'SUPPLEMENTARY_ONLY_TABLE', 'severity':'warning',
+                                        'message':'selected table explicitly adds to an existing meal; not a full meal list'})
             profiles.append({
                 **profile.to_dict(),
                 "institution_id": sample.get("institution_id"),
@@ -46,6 +57,17 @@ class ExcelMealParser:
             })
             extracted = extract_records(sheet, profile, sample, workbook.detected_format, year, month)
             quality_results.append(assess_menu_quality(extracted, sheet))
+            breakfasts = [r for r in extracted if r.meal_type == 'breakfast']
+            # Some juvenile supplement sheets omit their "existing meal +"
+            # note. Context plus month-long dairy-only breakfasts is uncertain
+            # source scope, NOT proof that a legitimate one-item meal is wrong.
+            if ('소년수용자' in title_text.replace(' ', '') and len(breakfasts) >= 14
+                    and all(len(r.menu_items) == 1 and r.menu_items[0].name in {'우유', '두유'}
+                            for r in breakfasts)
+                    and not re.search(r'기존\s*식단.{0,40}추가', title_text)):
+                document_issues.append({'code':'SUPPLEMENTARY_SCOPE_UNCERTAIN', 'severity':'warning',
+                                        'message':'juvenile table has month-long dairy-only breakfasts; full-meal scope needs review'})
+            completeness_results.append(source_coverage(extracted, sheet))
             if not extracted:
                 failures.append(ParseFailure("UNSUPPORTED_LAYOUT", "layout produced no records", sheet.name))
             records.extend(extracted)
@@ -56,6 +78,7 @@ class ExcelMealParser:
             records, workbook, year, month, require_complete_month=require_complete_month
         )
         document_issues.extend(validation_issues)
+        document_issues.extend(issue for q in completeness_results for issue in q['issues'])
         if period_warnings:
             for record in records:
                 record.validation_issues.extend(period_warnings)
@@ -107,6 +130,8 @@ class ExcelMealParser:
                 status == "PASS" and invalid == 0
                 and not coverage["missing_dates"] and provenance_valid and quality["menu_quality_valid"]
             ),
+            "source_completeness_valid": all(q['source_completeness_valid'] for q in completeness_results),
+            "completeness_candidates": suspicious_meals([r.to_dict() for r in records])['candidates'],
             **quality,
             "menu_quality_issues": semantic_issues,
             "menu_artifacts": [artifact for q in quality_results for artifact in q["artifacts"]],

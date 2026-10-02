@@ -5,7 +5,7 @@ from typing import Any
 
 from openpyxl.utils.cell import coordinate_from_string, column_index_from_string
 
-from .layout_analyzer import LayoutProfile
+from .layout_analyzer import LayoutProfile, table_body_end
 from .meal_normalizer import (
     combine_menu_cells,
     dates_for_weekday,
@@ -50,7 +50,7 @@ def _record(
         parser={
             "format": detected_format,
             "layout_family": profile.family,
-            "parser_version": "3B.2",
+            "parser_version": "3B.3",
             "confidence": confidence,
         },
     )
@@ -90,9 +90,11 @@ def _date_rows(
     cell_map = sheet.by_position()
     coordinate_map = {cell.coordinate: cell for cell in sheet.cells}
     records: list[MealRecord] = []
-    for row in range(header_row + 1, (sheet.actual_max_row or header_row) + 1):
+    for row in range(header_row + 1, table_body_end(sheet, header_row, first_meal) + 1):
         day_cell = cell_map.get((row, day_column))
         if not day_cell:
+            continue
+        if day_cell.merged_parent:
             continue
         days = days_in_text(day_cell.raw_value)
         if not days:
@@ -113,14 +115,19 @@ def _date_rows(
             except ValueError:
                 continue
             for meal_type, column in columns.items():
-                cell = cell_map.get((row, column))
-                if not cell:
-                    continue
+                end_row = row
+                if day_cell.merged_range:
+                    from openpyxl.utils.cell import range_boundaries
+                    end_row = range_boundaries(day_cell.merged_range)[3]
+                values = [(cell.coordinate, cell.text) for block_row in range(row, end_row + 1)
+                          if (cell := cell_map.get((block_row, column)))
+                          and _menu_candidate(cell, primary=True)]
                 record = _record(
                     sample, detected_format, profile, meal_date, meal_type,
-                    [(cell.coordinate, cell.text)], "high", weekday,
+                    values, "high", weekday,
                 )
                 if record:
+                    record.source['block_bounds'] = [row, end_row, column, column]
                     records.append(record)
     return records
 
@@ -138,7 +145,7 @@ def _weekday_blocks(
     )
     first_meal = min(columns.values())
     anchors: list[tuple[int, int]] = []
-    for row in range(header_row + 1, (sheet.actual_max_row or header_row) + 1):
+    for row in range(header_row + 1, table_body_end(sheet, header_row, first_meal) + 1):
         weekday = None
         for column in range(1, first_meal):
             cell = cell_map.get((row, column))
@@ -168,22 +175,39 @@ def _weekday_blocks(
     records: list[MealRecord] = []
     ordered = sorted(columns.items(), key=lambda item: item[1])
     for index, (start_row, weekday) in enumerate(block_starts):
-        end_row = block_starts[index + 1][0] - 1 if index + 1 < len(block_starts) else min(
-            sheet.actual_max_row or start_row, start_row + 8
+        end_row = block_starts[index + 1][0] - 1 if index + 1 < len(block_starts) else _last_block_end(
+            sheet, start_row, first_meal, block_starts, cell_map
         )
+        # A date list belongs to the whole weekly block, never to the food on
+        # the same physical row. Do not synthesize dates omitted by the source.
+        explicit_days = sorted({day for cell in sheet.cells
+                                if start_row <= cell.row <= end_row and cell.column < first_meal
+                                and not cell.merged_parent and not cell.is_formula
+                                for day in days_in_text(cell.raw_value)})
+        meal_dates = []
+        for day in explicit_days:
+            try:
+                meal_dates.append(date(year, month, day))
+            except ValueError:
+                pass
+        if not explicit_days:
+            meal_dates = dates_for_weekday(year, month, weekday)
         for meal_index, (meal_type, start_column) in enumerate(ordered):
-            end_column = ordered[meal_index + 1][1] - 1 if meal_index + 1 < len(ordered) else start_column
+            # Adjacent columns are quantities, prices or supplementary meals.
+            # The meal header identifies the food-name column; do not guess.
+            end_column = start_column
             values = []
             for row in range(start_row, end_row + 1):
                 for column in range(start_column, end_column + 1):
                     cell = cell_map.get((row, column))
                     if cell and _menu_candidate(cell, primary=column == start_column):
                         values.append((cell.coordinate, cell.text))
-            for meal_date in dates_for_weekday(year, month, weekday):
+            for meal_date in meal_dates:
                 record = _record(
                     sample, detected_format, profile, meal_date, meal_type, values, "medium", weekday
                 )
                 if record:
+                    record.source['block_bounds'] = [start_row, end_row, start_column, end_column]
                     records.append(record)
     return records
 
@@ -209,8 +233,9 @@ def _meal_rows(
     ordered_rows = sorted(meal_rows.items(), key=lambda item: item[1])
     records: list[MealRecord] = []
     for meal_index, (meal_type, start_row) in enumerate(ordered_rows):
-        end_row = ordered_rows[meal_index + 1][1] - 1 if meal_index + 1 < len(ordered_rows) else min(
-            sheet.actual_max_row or start_row, start_row + 6
+        end_row = ordered_rows[meal_index + 1][1] - 1 if meal_index + 1 < len(ordered_rows) else _last_block_end(
+            sheet, start_row, first_meal_column + 1,
+            [(row, 0) for _, row in ordered_rows], cell_map
         )
         for column, weekday in weekday_columns.items():
             values = []
@@ -223,6 +248,7 @@ def _meal_rows(
                     sample, detected_format, profile, meal_date, meal_type, values, "medium", weekday
                 )
                 if record:
+                    record.source['block_bounds'] = [start_row, end_row, column, column]
                     records.append(record)
     return records
 
@@ -236,7 +262,7 @@ def _numeric_text(value: str) -> bool:
 
 
 def _menu_candidate(cell: CellData, *, primary: bool) -> bool:
-    if not cell.text:
+    if not cell.text or cell.merged_parent:
         return False
     if cell.is_formula and cell.formula_cache_status != "resolved":
         # Adjacent quantity/price formula columns are not menu columns. In a
@@ -245,3 +271,16 @@ def _menu_candidate(cell: CellData, *, primary: bool) -> bool:
     if _numeric_text(cell.text):
         return primary and classify_menu_token(cell.text) == "placeholder"
     return True
+
+
+def _last_block_end(sheet, start_row, first_meal, starts, cell_map):
+    """The label merge may end BEFORE the last dish; only a footer ends a table."""
+    # Unmerged labels often sit one row below the first dish. Stop at an
+    # explicit footer spanning the meal columns, or a note in the label area.
+    end = table_body_end(sheet, start_row, first_meal)
+    for cell in sheet.cells:
+        if cell.row <= start_row or cell.column >= first_meal or not cell.text:
+            continue
+        if cell.text.startswith(('※', '♧', '▣', '◈', '[ 원산지', '원산지')):
+            end = min(end, cell.row - 1)
+    return end

@@ -10,6 +10,18 @@
           {
             "name": "시리얼",
             "raw_text": "시리얼"
+          },
+          {
+            "name": "우유",
+            "raw_text": "우유"
+          },
+          {
+            "name": "과일",
+            "raw_text": "과일"
+          },
+          {
+            "name": "감자채소샐러드",
+            "raw_text": "감자채소샐러드"
           }
         ],
         "source_document_id": "75068-77236",
@@ -31,6 +43,18 @@
           {
             "name": "떡만둣국",
             "raw_text": "떡만둣국"
+          },
+          {
+            "name": "고추무침",
+            "raw_text": "고추무침"
+          },
+          {
+            "name": "호상요구르트",
+            "raw_text": "호상요구르트"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
           }
         ],
         "source_document_id": "75068-77236",
@@ -52,6 +76,18 @@
           {
             "name": "유부어묵국",
             "raw_text": "유부어묵국"
+          },
+          {
+            "name": "감자고추장조림",
+            "raw_text": "감자고추장조림"
+          },
+          {
+            "name": "콩조림",
+            "raw_text": "콩조림"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -75,6 +111,18 @@
           {
             "name": "시리얼",
             "raw_text": "시리얼"
+          },
+          {
+            "name": "우유",
+            "raw_text": "우유"
+          },
+          {
+            "name": "과일",
+            "raw_text": "과일"
+          },
+          {
+            "name": "감자채소샐러드",
+            "raw_text": "감자채소샐러드"
           }
         ],
         "source_document_id": "75068-77236",
@@ -96,6 +144,18 @@
           {
             "name": "떡만둣국",
             "raw_text": "떡만둣국"
+          },
+          {
+            "name": "고추무침",
+            "raw_text": "고추무침"
+          },
+          {
+            "name": "호상요구르트",
+            "raw_text": "호상요구르트"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
           }
         ],
         "source_document_id": "75068-77236",
@@ -117,6 +177,18 @@
           {
             "name": "유부어묵국",
             "raw_text": "유부어묵국"
+          },
+          {
+            "name": "감자고추장조림",
+            "raw_text": "감자고추장조림"
+          },
+          {
+            "name": "콩조림",
+            "raw_text": "콩조림"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -138,8 +210,20 @@
       "breakfast": {
         "menu_items": [
           {
+            "name": "시리얼",
+            "raw_text": "시리얼"
+          },
+          {
             "name": "우유",
             "raw_text": "우유"
+          },
+          {
+            "name": "과일",
+            "raw_text": "과일"
+          },
+          {
+            "name": "감자채소샐러드",
+            "raw_text": "감자채소샐러드"
           }
         ],
         "source_document_id": "75068-77236",
@@ -159,8 +243,20 @@
       "lunch": {
         "menu_items": [
           {
+            "name": "떡만둣국",
+            "raw_text": "떡만둣국"
+          },
+          {
             "name": "고추무침",
             "raw_text": "고추무침"
+          },
+          {
+            "name": "호상요구르트",
+            "raw_text": "호상요구르트"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
           }
         ],
         "source_document_id": "75068-77236",
@@ -180,8 +276,20 @@
       "dinner": {
         "menu_items": [
           {
+            "name": "유부어묵국",
+            "raw_text": "유부어묵국"
+          },
+          {
             "name": "감자고추장조림",
             "raw_text": "감자고추장조림"
+          },
+          {
+            "name": "콩조림",
+            "raw_text": "콩조림"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -203,8 +311,20 @@
       "breakfast": {
         "menu_items": [
           {
+            "name": "시리얼",
+            "raw_text": "시리얼"
+          },
+          {
             "name": "우유",
             "raw_text": "우유"
+          },
+          {
+            "name": "과일",
+            "raw_text": "과일"
+          },
+          {
+            "name": "감자채소샐러드",
+            "raw_text": "감자채소샐러드"
           }
         ],
         "source_document_id": "75068-77236",
@@ -224,8 +344,20 @@
       "lunch": {
         "menu_items": [
           {
+            "name": "떡만둣국",
+            "raw_text": "떡만둣국"
+          },
+          {
             "name": "고추무침",
             "raw_text": "고추무침"
+          },
+          {
+            "name": "호상요구르트",
+            "raw_text": "호상요구르트"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
           }
         ],
         "source_document_id": "75068-77236",
@@ -245,8 +377,20 @@
       "dinner": {
         "menu_items": [
           {
+            "name": "유부어묵국",
+            "raw_text": "유부어묵국"
+          },
+          {
             "name": "감자고추장조림",
             "raw_text": "감자고추장조림"
+          },
+          {
+            "name": "콩조림",
+            "raw_text": "콩조림"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -270,6 +414,18 @@
           {
             "name": "북어채국",
             "raw_text": "북어채국"
+          },
+          {
+            "name": "고들빼기무침",
+            "raw_text": "고들빼기무침"
+          },
+          {
+            "name": "조미김",
+            "raw_text": "조미김"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -291,6 +447,18 @@
           {
             "name": "근대된장국",
             "raw_text": "근대된장국"
+          },
+          {
+            "name": "생선튀김",
+            "raw_text": "생선튀김"
+          },
+          {
+            "name": "버섯채소무침",
+            "raw_text": "버섯채소무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -312,6 +480,18 @@
           {
             "name": "돼지고기김치찌개",
             "raw_text": "돼지고기김치찌개"
+          },
+          {
+            "name": "잡채",
+            "raw_text": "잡채"
+          },
+          {
+            "name": "꽈리메추리알조림",
+            "raw_text": "꽈리메추리알조림"
+          },
+          {
+            "name": "총각김치",
+            "raw_text": "총각김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -335,6 +515,18 @@
           {
             "name": "북어채국",
             "raw_text": "북어채국"
+          },
+          {
+            "name": "고들빼기무침",
+            "raw_text": "고들빼기무침"
+          },
+          {
+            "name": "조미김",
+            "raw_text": "조미김"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -356,6 +548,18 @@
           {
             "name": "근대된장국",
             "raw_text": "근대된장국"
+          },
+          {
+            "name": "생선튀김",
+            "raw_text": "생선튀김"
+          },
+          {
+            "name": "버섯채소무침",
+            "raw_text": "버섯채소무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -377,6 +581,18 @@
           {
             "name": "돼지고기김치찌개",
             "raw_text": "돼지고기김치찌개"
+          },
+          {
+            "name": "잡채",
+            "raw_text": "잡채"
+          },
+          {
+            "name": "꽈리메추리알조림",
+            "raw_text": "꽈리메추리알조림"
+          },
+          {
+            "name": "총각김치",
+            "raw_text": "총각김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -398,8 +614,20 @@
       "breakfast": {
         "menu_items": [
           {
+            "name": "북어채국",
+            "raw_text": "북어채국"
+          },
+          {
             "name": "고들빼기무침",
             "raw_text": "고들빼기무침"
+          },
+          {
+            "name": "조미김",
+            "raw_text": "조미김"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -419,8 +647,20 @@
       "lunch": {
         "menu_items": [
           {
+            "name": "근대된장국",
+            "raw_text": "근대된장국"
+          },
+          {
             "name": "생선튀김",
             "raw_text": "생선튀김"
+          },
+          {
+            "name": "버섯채소무침",
+            "raw_text": "버섯채소무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -440,8 +680,20 @@
       "dinner": {
         "menu_items": [
           {
+            "name": "돼지고기김치찌개",
+            "raw_text": "돼지고기김치찌개"
+          },
+          {
             "name": "잡채",
             "raw_text": "잡채"
+          },
+          {
+            "name": "꽈리메추리알조림",
+            "raw_text": "꽈리메추리알조림"
+          },
+          {
+            "name": "총각김치",
+            "raw_text": "총각김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -463,8 +715,20 @@
       "breakfast": {
         "menu_items": [
           {
+            "name": "북어채국",
+            "raw_text": "북어채국"
+          },
+          {
             "name": "고들빼기무침",
             "raw_text": "고들빼기무침"
+          },
+          {
+            "name": "조미김",
+            "raw_text": "조미김"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -484,8 +748,20 @@
       "lunch": {
         "menu_items": [
           {
+            "name": "근대된장국",
+            "raw_text": "근대된장국"
+          },
+          {
             "name": "생선튀김",
             "raw_text": "생선튀김"
+          },
+          {
+            "name": "버섯채소무침",
+            "raw_text": "버섯채소무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -505,8 +781,20 @@
       "dinner": {
         "menu_items": [
           {
+            "name": "돼지고기김치찌개",
+            "raw_text": "돼지고기김치찌개"
+          },
+          {
             "name": "잡채",
             "raw_text": "잡채"
+          },
+          {
+            "name": "꽈리메추리알조림",
+            "raw_text": "꽈리메추리알조림"
+          },
+          {
+            "name": "총각김치",
+            "raw_text": "총각김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -530,6 +818,18 @@
           {
             "name": "사골얼갈이국",
             "raw_text": "사골얼갈이국"
+          },
+          {
+            "name": "아삭이고추장아찌",
+            "raw_text": "아삭이고추장아찌"
+          },
+          {
+            "name": "김자반볶음",
+            "raw_text": "김자반볶음"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -551,6 +851,18 @@
           {
             "name": "쇠고기매운국",
             "raw_text": "쇠고기매운국"
+          },
+          {
+            "name": "두부구이",
+            "raw_text": "두부구이"
+          },
+          {
+            "name": "생김.양념장",
+            "raw_text": "생김.양념장"
+          },
+          {
+            "name": "김치볶음",
+            "raw_text": "김치볶음"
           }
         ],
         "source_document_id": "75068-77236",
@@ -572,6 +884,18 @@
           {
             "name": "콩나물국",
             "raw_text": "콩나물국"
+          },
+          {
+            "name": "돼지고기채소볶음",
+            "raw_text": "돼지고기채소볶음"
+          },
+          {
+            "name": "쌈무",
+            "raw_text": "쌈무"
+          },
+          {
+            "name": "얼갈이겉절이",
+            "raw_text": "얼갈이겉절이"
           }
         ],
         "source_document_id": "75068-77236",
@@ -595,6 +919,18 @@
           {
             "name": "사골얼갈이국",
             "raw_text": "사골얼갈이국"
+          },
+          {
+            "name": "아삭이고추장아찌",
+            "raw_text": "아삭이고추장아찌"
+          },
+          {
+            "name": "김자반볶음",
+            "raw_text": "김자반볶음"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -616,6 +952,18 @@
           {
             "name": "쇠고기매운국",
             "raw_text": "쇠고기매운국"
+          },
+          {
+            "name": "두부구이",
+            "raw_text": "두부구이"
+          },
+          {
+            "name": "생김.양념장",
+            "raw_text": "생김.양념장"
+          },
+          {
+            "name": "김치볶음",
+            "raw_text": "김치볶음"
           }
         ],
         "source_document_id": "75068-77236",
@@ -637,6 +985,18 @@
           {
             "name": "콩나물국",
             "raw_text": "콩나물국"
+          },
+          {
+            "name": "돼지고기채소볶음",
+            "raw_text": "돼지고기채소볶음"
+          },
+          {
+            "name": "쌈무",
+            "raw_text": "쌈무"
+          },
+          {
+            "name": "얼갈이겉절이",
+            "raw_text": "얼갈이겉절이"
           }
         ],
         "source_document_id": "75068-77236",
@@ -658,8 +1018,20 @@
       "breakfast": {
         "menu_items": [
           {
+            "name": "사골얼갈이국",
+            "raw_text": "사골얼갈이국"
+          },
+          {
             "name": "아삭이고추장아찌",
             "raw_text": "아삭이고추장아찌"
+          },
+          {
+            "name": "김자반볶음",
+            "raw_text": "김자반볶음"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -679,8 +1051,20 @@
       "lunch": {
         "menu_items": [
           {
+            "name": "쇠고기매운국",
+            "raw_text": "쇠고기매운국"
+          },
+          {
             "name": "두부구이",
             "raw_text": "두부구이"
+          },
+          {
+            "name": "생김.양념장",
+            "raw_text": "생김.양념장"
+          },
+          {
+            "name": "김치볶음",
+            "raw_text": "김치볶음"
           }
         ],
         "source_document_id": "75068-77236",
@@ -700,8 +1084,20 @@
       "dinner": {
         "menu_items": [
           {
+            "name": "콩나물국",
+            "raw_text": "콩나물국"
+          },
+          {
             "name": "돼지고기채소볶음",
             "raw_text": "돼지고기채소볶음"
+          },
+          {
+            "name": "쌈무",
+            "raw_text": "쌈무"
+          },
+          {
+            "name": "얼갈이겉절이",
+            "raw_text": "얼갈이겉절이"
           }
         ],
         "source_document_id": "75068-77236",
@@ -723,8 +1119,20 @@
       "breakfast": {
         "menu_items": [
           {
+            "name": "사골얼갈이국",
+            "raw_text": "사골얼갈이국"
+          },
+          {
             "name": "아삭이고추장아찌",
             "raw_text": "아삭이고추장아찌"
+          },
+          {
+            "name": "김자반볶음",
+            "raw_text": "김자반볶음"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -744,8 +1152,20 @@
       "lunch": {
         "menu_items": [
           {
+            "name": "쇠고기매운국",
+            "raw_text": "쇠고기매운국"
+          },
+          {
             "name": "두부구이",
             "raw_text": "두부구이"
+          },
+          {
+            "name": "생김.양념장",
+            "raw_text": "생김.양념장"
+          },
+          {
+            "name": "김치볶음",
+            "raw_text": "김치볶음"
           }
         ],
         "source_document_id": "75068-77236",
@@ -765,8 +1185,20 @@
       "dinner": {
         "menu_items": [
           {
+            "name": "콩나물국",
+            "raw_text": "콩나물국"
+          },
+          {
             "name": "돼지고기채소볶음",
             "raw_text": "돼지고기채소볶음"
+          },
+          {
+            "name": "쌈무",
+            "raw_text": "쌈무"
+          },
+          {
+            "name": "얼갈이겉절이",
+            "raw_text": "얼갈이겉절이"
           }
         ],
         "source_document_id": "75068-77236",
@@ -788,8 +1220,20 @@
       "breakfast": {
         "menu_items": [
           {
+            "name": "사골얼갈이국",
+            "raw_text": "사골얼갈이국"
+          },
+          {
+            "name": "아삭이고추장아찌",
+            "raw_text": "아삭이고추장아찌"
+          },
+          {
             "name": "김자반볶음",
             "raw_text": "김자반볶음"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -809,8 +1253,20 @@
       "lunch": {
         "menu_items": [
           {
+            "name": "쇠고기매운국",
+            "raw_text": "쇠고기매운국"
+          },
+          {
+            "name": "두부구이",
+            "raw_text": "두부구이"
+          },
+          {
             "name": "생김.양념장",
             "raw_text": "생김.양념장"
+          },
+          {
+            "name": "김치볶음",
+            "raw_text": "김치볶음"
           }
         ],
         "source_document_id": "75068-77236",
@@ -830,8 +1286,20 @@
       "dinner": {
         "menu_items": [
           {
+            "name": "콩나물국",
+            "raw_text": "콩나물국"
+          },
+          {
+            "name": "돼지고기채소볶음",
+            "raw_text": "돼지고기채소볶음"
+          },
+          {
             "name": "쌈무",
             "raw_text": "쌈무"
+          },
+          {
+            "name": "얼갈이겉절이",
+            "raw_text": "얼갈이겉절이"
           }
         ],
         "source_document_id": "75068-77236",
@@ -855,6 +1323,18 @@
           {
             "name": "햄버거빵.딸기잼 등",
             "raw_text": "햄버거빵.딸기잼 등"
+          },
+          {
+            "name": "우유",
+            "raw_text": "우유"
+          },
+          {
+            "name": "치즈.햄",
+            "raw_text": "치즈.햄"
+          },
+          {
+            "name": "양배추콘샐러드",
+            "raw_text": "양배추콘샐러드"
           }
         ],
         "source_document_id": "75068-77236",
@@ -876,6 +1356,18 @@
           {
             "name": "두부된장국",
             "raw_text": "두부된장국"
+          },
+          {
+            "name": "쇠고기버섯볶음",
+            "raw_text": "쇠고기버섯볶음"
+          },
+          {
+            "name": "콩나물무침",
+            "raw_text": "콩나물무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -897,6 +1389,18 @@
           {
             "name": "어묵매운국",
             "raw_text": "어묵매운국"
+          },
+          {
+            "name": "떡갈비조림",
+            "raw_text": "떡갈비조림"
+          },
+          {
+            "name": "참나물겉절이",
+            "raw_text": "참나물겉절이"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -920,6 +1424,18 @@
           {
             "name": "햄버거빵.딸기잼 등",
             "raw_text": "햄버거빵.딸기잼 등"
+          },
+          {
+            "name": "우유",
+            "raw_text": "우유"
+          },
+          {
+            "name": "치즈.햄",
+            "raw_text": "치즈.햄"
+          },
+          {
+            "name": "양배추콘샐러드",
+            "raw_text": "양배추콘샐러드"
           }
         ],
         "source_document_id": "75068-77236",
@@ -941,6 +1457,18 @@
           {
             "name": "두부된장국",
             "raw_text": "두부된장국"
+          },
+          {
+            "name": "쇠고기버섯볶음",
+            "raw_text": "쇠고기버섯볶음"
+          },
+          {
+            "name": "콩나물무침",
+            "raw_text": "콩나물무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -962,6 +1490,18 @@
           {
             "name": "어묵매운국",
             "raw_text": "어묵매운국"
+          },
+          {
+            "name": "떡갈비조림",
+            "raw_text": "떡갈비조림"
+          },
+          {
+            "name": "참나물겉절이",
+            "raw_text": "참나물겉절이"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -983,8 +1523,20 @@
       "breakfast": {
         "menu_items": [
           {
+            "name": "햄버거빵.딸기잼 등",
+            "raw_text": "햄버거빵.딸기잼 등"
+          },
+          {
             "name": "우유",
             "raw_text": "우유"
+          },
+          {
+            "name": "치즈.햄",
+            "raw_text": "치즈.햄"
+          },
+          {
+            "name": "양배추콘샐러드",
+            "raw_text": "양배추콘샐러드"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1004,8 +1556,20 @@
       "lunch": {
         "menu_items": [
           {
+            "name": "두부된장국",
+            "raw_text": "두부된장국"
+          },
+          {
             "name": "쇠고기버섯볶음",
             "raw_text": "쇠고기버섯볶음"
+          },
+          {
+            "name": "콩나물무침",
+            "raw_text": "콩나물무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1025,8 +1589,20 @@
       "dinner": {
         "menu_items": [
           {
+            "name": "어묵매운국",
+            "raw_text": "어묵매운국"
+          },
+          {
             "name": "떡갈비조림",
             "raw_text": "떡갈비조림"
+          },
+          {
+            "name": "참나물겉절이",
+            "raw_text": "참나물겉절이"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1048,8 +1624,20 @@
       "breakfast": {
         "menu_items": [
           {
+            "name": "햄버거빵.딸기잼 등",
+            "raw_text": "햄버거빵.딸기잼 등"
+          },
+          {
             "name": "우유",
             "raw_text": "우유"
+          },
+          {
+            "name": "치즈.햄",
+            "raw_text": "치즈.햄"
+          },
+          {
+            "name": "양배추콘샐러드",
+            "raw_text": "양배추콘샐러드"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1069,8 +1657,20 @@
       "lunch": {
         "menu_items": [
           {
+            "name": "두부된장국",
+            "raw_text": "두부된장국"
+          },
+          {
             "name": "쇠고기버섯볶음",
             "raw_text": "쇠고기버섯볶음"
+          },
+          {
+            "name": "콩나물무침",
+            "raw_text": "콩나물무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1090,8 +1690,20 @@
       "dinner": {
         "menu_items": [
           {
+            "name": "어묵매운국",
+            "raw_text": "어묵매운국"
+          },
+          {
             "name": "떡갈비조림",
             "raw_text": "떡갈비조림"
+          },
+          {
+            "name": "참나물겉절이",
+            "raw_text": "참나물겉절이"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1113,8 +1725,20 @@
       "breakfast": {
         "menu_items": [
           {
+            "name": "햄버거빵.딸기잼 등",
+            "raw_text": "햄버거빵.딸기잼 등"
+          },
+          {
+            "name": "우유",
+            "raw_text": "우유"
+          },
+          {
             "name": "치즈.햄",
             "raw_text": "치즈.햄"
+          },
+          {
+            "name": "양배추콘샐러드",
+            "raw_text": "양배추콘샐러드"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1134,8 +1758,20 @@
       "lunch": {
         "menu_items": [
           {
+            "name": "두부된장국",
+            "raw_text": "두부된장국"
+          },
+          {
+            "name": "쇠고기버섯볶음",
+            "raw_text": "쇠고기버섯볶음"
+          },
+          {
             "name": "콩나물무침",
             "raw_text": "콩나물무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1155,8 +1791,20 @@
       "dinner": {
         "menu_items": [
           {
+            "name": "어묵매운국",
+            "raw_text": "어묵매운국"
+          },
+          {
+            "name": "떡갈비조림",
+            "raw_text": "떡갈비조림"
+          },
+          {
             "name": "참나물겉절이",
             "raw_text": "참나물겉절이"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1180,6 +1828,18 @@
           {
             "name": "쇠고기미역국",
             "raw_text": "쇠고기미역국"
+          },
+          {
+            "name": "무말랭이무침",
+            "raw_text": "무말랭이무침"
+          },
+          {
+            "name": "바나나",
+            "raw_text": "바나나"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1201,6 +1861,18 @@
           {
             "name": "청국장",
             "raw_text": "청국장"
+          },
+          {
+            "name": "달걀후라이",
+            "raw_text": "달걀후라이"
+          },
+          {
+            "name": "미나리숙주무침",
+            "raw_text": "미나리숙주무침"
+          },
+          {
+            "name": "무생채",
+            "raw_text": "무생채"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1222,6 +1894,18 @@
           {
             "name": "참치김칫국",
             "raw_text": "참치김칫국"
+          },
+          {
+            "name": "닭고기채소조림",
+            "raw_text": "닭고기채소조림"
+          },
+          {
+            "name": "도라지오이무침",
+            "raw_text": "도라지오이무침"
+          },
+          {
+            "name": "총각김치",
+            "raw_text": "총각김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1245,6 +1929,18 @@
           {
             "name": "쇠고기미역국",
             "raw_text": "쇠고기미역국"
+          },
+          {
+            "name": "무말랭이무침",
+            "raw_text": "무말랭이무침"
+          },
+          {
+            "name": "바나나",
+            "raw_text": "바나나"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1266,6 +1962,18 @@
           {
             "name": "청국장",
             "raw_text": "청국장"
+          },
+          {
+            "name": "달걀후라이",
+            "raw_text": "달걀후라이"
+          },
+          {
+            "name": "미나리숙주무침",
+            "raw_text": "미나리숙주무침"
+          },
+          {
+            "name": "무생채",
+            "raw_text": "무생채"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1287,6 +1995,18 @@
           {
             "name": "참치김칫국",
             "raw_text": "참치김칫국"
+          },
+          {
+            "name": "닭고기채소조림",
+            "raw_text": "닭고기채소조림"
+          },
+          {
+            "name": "도라지오이무침",
+            "raw_text": "도라지오이무침"
+          },
+          {
+            "name": "총각김치",
+            "raw_text": "총각김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1308,8 +2028,20 @@
       "breakfast": {
         "menu_items": [
           {
+            "name": "쇠고기미역국",
+            "raw_text": "쇠고기미역국"
+          },
+          {
             "name": "무말랭이무침",
             "raw_text": "무말랭이무침"
+          },
+          {
+            "name": "바나나",
+            "raw_text": "바나나"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1329,8 +2061,20 @@
       "lunch": {
         "menu_items": [
           {
+            "name": "청국장",
+            "raw_text": "청국장"
+          },
+          {
             "name": "달걀후라이",
             "raw_text": "달걀후라이"
+          },
+          {
+            "name": "미나리숙주무침",
+            "raw_text": "미나리숙주무침"
+          },
+          {
+            "name": "무생채",
+            "raw_text": "무생채"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1350,8 +2094,20 @@
       "dinner": {
         "menu_items": [
           {
+            "name": "참치김칫국",
+            "raw_text": "참치김칫국"
+          },
+          {
             "name": "닭고기채소조림",
             "raw_text": "닭고기채소조림"
+          },
+          {
+            "name": "도라지오이무침",
+            "raw_text": "도라지오이무침"
+          },
+          {
+            "name": "총각김치",
+            "raw_text": "총각김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1373,8 +2129,20 @@
       "breakfast": {
         "menu_items": [
           {
+            "name": "쇠고기미역국",
+            "raw_text": "쇠고기미역국"
+          },
+          {
             "name": "무말랭이무침",
             "raw_text": "무말랭이무침"
+          },
+          {
+            "name": "바나나",
+            "raw_text": "바나나"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1394,8 +2162,20 @@
       "lunch": {
         "menu_items": [
           {
+            "name": "청국장",
+            "raw_text": "청국장"
+          },
+          {
             "name": "달걀후라이",
             "raw_text": "달걀후라이"
+          },
+          {
+            "name": "미나리숙주무침",
+            "raw_text": "미나리숙주무침"
+          },
+          {
+            "name": "무생채",
+            "raw_text": "무생채"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1415,8 +2195,20 @@
       "dinner": {
         "menu_items": [
           {
+            "name": "참치김칫국",
+            "raw_text": "참치김칫국"
+          },
+          {
             "name": "닭고기채소조림",
             "raw_text": "닭고기채소조림"
+          },
+          {
+            "name": "도라지오이무침",
+            "raw_text": "도라지오이무침"
+          },
+          {
+            "name": "총각김치",
+            "raw_text": "총각김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1438,8 +2230,20 @@
       "breakfast": {
         "menu_items": [
           {
+            "name": "쇠고기미역국",
+            "raw_text": "쇠고기미역국"
+          },
+          {
+            "name": "무말랭이무침",
+            "raw_text": "무말랭이무침"
+          },
+          {
             "name": "바나나",
             "raw_text": "바나나"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1459,8 +2263,20 @@
       "lunch": {
         "menu_items": [
           {
+            "name": "청국장",
+            "raw_text": "청국장"
+          },
+          {
+            "name": "달걀후라이",
+            "raw_text": "달걀후라이"
+          },
+          {
             "name": "미나리숙주무침",
             "raw_text": "미나리숙주무침"
+          },
+          {
+            "name": "무생채",
+            "raw_text": "무생채"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1480,8 +2296,20 @@
       "dinner": {
         "menu_items": [
           {
+            "name": "참치김칫국",
+            "raw_text": "참치김칫국"
+          },
+          {
+            "name": "닭고기채소조림",
+            "raw_text": "닭고기채소조림"
+          },
+          {
             "name": "도라지오이무침",
             "raw_text": "도라지오이무침"
+          },
+          {
+            "name": "총각김치",
+            "raw_text": "총각김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1505,6 +2333,18 @@
           {
             "name": "콩나물해장국",
             "raw_text": "콩나물해장국"
+          },
+          {
+            "name": "깻잎양념무침",
+            "raw_text": "깻잎양념무침"
+          },
+          {
+            "name": "조미김",
+            "raw_text": "조미김"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1526,6 +2366,18 @@
           {
             "name": "사골곰탕",
             "raw_text": "사골곰탕"
+          },
+          {
+            "name": "오징어젓무침",
+            "raw_text": "오징어젓무침"
+          },
+          {
+            "name": "군고구마",
+            "raw_text": "군고구마"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1547,6 +2399,18 @@
           {
             "name": "순두부찌개",
             "raw_text": "순두부찌개"
+          },
+          {
+            "name": "생선가스",
+            "raw_text": "생선가스"
+          },
+          {
+            "name": "채소피클",
+            "raw_text": "채소피클"
+          },
+          {
+            "name": "단무지무침",
+            "raw_text": "단무지무침"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1570,6 +2434,18 @@
           {
             "name": "콩나물해장국",
             "raw_text": "콩나물해장국"
+          },
+          {
+            "name": "깻잎양념무침",
+            "raw_text": "깻잎양념무침"
+          },
+          {
+            "name": "조미김",
+            "raw_text": "조미김"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1591,6 +2467,18 @@
           {
             "name": "사골곰탕",
             "raw_text": "사골곰탕"
+          },
+          {
+            "name": "오징어젓무침",
+            "raw_text": "오징어젓무침"
+          },
+          {
+            "name": "군고구마",
+            "raw_text": "군고구마"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1612,6 +2500,18 @@
           {
             "name": "순두부찌개",
             "raw_text": "순두부찌개"
+          },
+          {
+            "name": "생선가스",
+            "raw_text": "생선가스"
+          },
+          {
+            "name": "채소피클",
+            "raw_text": "채소피클"
+          },
+          {
+            "name": "단무지무침",
+            "raw_text": "단무지무침"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1633,8 +2533,20 @@
       "breakfast": {
         "menu_items": [
           {
+            "name": "콩나물해장국",
+            "raw_text": "콩나물해장국"
+          },
+          {
             "name": "깻잎양념무침",
             "raw_text": "깻잎양념무침"
+          },
+          {
+            "name": "조미김",
+            "raw_text": "조미김"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1654,8 +2566,20 @@
       "lunch": {
         "menu_items": [
           {
+            "name": "사골곰탕",
+            "raw_text": "사골곰탕"
+          },
+          {
             "name": "오징어젓무침",
             "raw_text": "오징어젓무침"
+          },
+          {
+            "name": "군고구마",
+            "raw_text": "군고구마"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1675,8 +2599,20 @@
       "dinner": {
         "menu_items": [
           {
+            "name": "순두부찌개",
+            "raw_text": "순두부찌개"
+          },
+          {
             "name": "생선가스",
             "raw_text": "생선가스"
+          },
+          {
+            "name": "채소피클",
+            "raw_text": "채소피클"
+          },
+          {
+            "name": "단무지무침",
+            "raw_text": "단무지무침"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1698,8 +2634,20 @@
       "breakfast": {
         "menu_items": [
           {
+            "name": "콩나물해장국",
+            "raw_text": "콩나물해장국"
+          },
+          {
             "name": "깻잎양념무침",
             "raw_text": "깻잎양념무침"
+          },
+          {
+            "name": "조미김",
+            "raw_text": "조미김"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1719,8 +2667,20 @@
       "lunch": {
         "menu_items": [
           {
+            "name": "사골곰탕",
+            "raw_text": "사골곰탕"
+          },
+          {
             "name": "오징어젓무침",
             "raw_text": "오징어젓무침"
+          },
+          {
+            "name": "군고구마",
+            "raw_text": "군고구마"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1740,8 +2700,20 @@
       "dinner": {
         "menu_items": [
           {
+            "name": "순두부찌개",
+            "raw_text": "순두부찌개"
+          },
+          {
             "name": "생선가스",
             "raw_text": "생선가스"
+          },
+          {
+            "name": "채소피클",
+            "raw_text": "채소피클"
+          },
+          {
+            "name": "단무지무침",
+            "raw_text": "단무지무침"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1765,6 +2737,18 @@
           {
             "name": "모닝빵.딸기잼",
             "raw_text": "모닝빵.딸기잼"
+          },
+          {
+            "name": "우유",
+            "raw_text": "우유"
+          },
+          {
+            "name": "옥수수스프",
+            "raw_text": "옥수수스프"
+          },
+          {
+            "name": "채소샐러드",
+            "raw_text": "채소샐러드"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1786,6 +2770,18 @@
           {
             "name": "햄모듬찌개",
             "raw_text": "햄모듬찌개"
+          },
+          {
+            "name": "열무된장조림",
+            "raw_text": "열무된장조림"
+          },
+          {
+            "name": "연두부.양념장",
+            "raw_text": "연두부.양념장"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1807,6 +2803,18 @@
           {
             "name": "미역국",
             "raw_text": "미역국"
+          },
+          {
+            "name": "카레",
+            "raw_text": "카레"
+          },
+          {
+            "name": "오복지무침",
+            "raw_text": "오복지무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1830,6 +2838,18 @@
           {
             "name": "모닝빵.딸기잼",
             "raw_text": "모닝빵.딸기잼"
+          },
+          {
+            "name": "우유",
+            "raw_text": "우유"
+          },
+          {
+            "name": "옥수수스프",
+            "raw_text": "옥수수스프"
+          },
+          {
+            "name": "채소샐러드",
+            "raw_text": "채소샐러드"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1851,6 +2871,18 @@
           {
             "name": "햄모듬찌개",
             "raw_text": "햄모듬찌개"
+          },
+          {
+            "name": "열무된장조림",
+            "raw_text": "열무된장조림"
+          },
+          {
+            "name": "연두부.양념장",
+            "raw_text": "연두부.양념장"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1872,6 +2904,18 @@
           {
             "name": "미역국",
             "raw_text": "미역국"
+          },
+          {
+            "name": "카레",
+            "raw_text": "카레"
+          },
+          {
+            "name": "오복지무침",
+            "raw_text": "오복지무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1893,8 +2937,20 @@
       "breakfast": {
         "menu_items": [
           {
+            "name": "모닝빵.딸기잼",
+            "raw_text": "모닝빵.딸기잼"
+          },
+          {
             "name": "우유",
             "raw_text": "우유"
+          },
+          {
+            "name": "옥수수스프",
+            "raw_text": "옥수수스프"
+          },
+          {
+            "name": "채소샐러드",
+            "raw_text": "채소샐러드"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1914,8 +2970,20 @@
       "lunch": {
         "menu_items": [
           {
+            "name": "햄모듬찌개",
+            "raw_text": "햄모듬찌개"
+          },
+          {
             "name": "열무된장조림",
             "raw_text": "열무된장조림"
+          },
+          {
+            "name": "연두부.양념장",
+            "raw_text": "연두부.양념장"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1935,8 +3003,20 @@
       "dinner": {
         "menu_items": [
           {
+            "name": "미역국",
+            "raw_text": "미역국"
+          },
+          {
             "name": "카레",
             "raw_text": "카레"
+          },
+          {
+            "name": "오복지무침",
+            "raw_text": "오복지무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1958,8 +3038,20 @@
       "breakfast": {
         "menu_items": [
           {
+            "name": "모닝빵.딸기잼",
+            "raw_text": "모닝빵.딸기잼"
+          },
+          {
             "name": "우유",
             "raw_text": "우유"
+          },
+          {
+            "name": "옥수수스프",
+            "raw_text": "옥수수스프"
+          },
+          {
+            "name": "채소샐러드",
+            "raw_text": "채소샐러드"
           }
         ],
         "source_document_id": "75068-77236",
@@ -1979,8 +3071,20 @@
       "lunch": {
         "menu_items": [
           {
+            "name": "햄모듬찌개",
+            "raw_text": "햄모듬찌개"
+          },
+          {
             "name": "열무된장조림",
             "raw_text": "열무된장조림"
+          },
+          {
+            "name": "연두부.양념장",
+            "raw_text": "연두부.양념장"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
@@ -2000,8 +3104,20 @@
       "dinner": {
         "menu_items": [
           {
+            "name": "미역국",
+            "raw_text": "미역국"
+          },
+          {
             "name": "카레",
             "raw_text": "카레"
+          },
+          {
+            "name": "오복지무침",
+            "raw_text": "오복지무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
           }
         ],
         "source_document_id": "75068-77236",
