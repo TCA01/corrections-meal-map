@@ -28,11 +28,28 @@ export const App: React.FC = () => {
   const [isMonthMenuLoading, setIsMonthMenuLoading] = useState(false);
   const [monthMenuError, setMonthMenuError] = useState<string | null>(null);
 
-  // Set of institutions that have meal data in the manifest (e.g. 33 institutions)
+  // Filter state: show only institutions with meal data
+  const [onlyWithMeals, setOnlyWithMeals] = useState(false);
+
+  // Set of institutions that have meal data in the manifest
   const availableInstitutionIds = useMemo(() => {
     if (!manifest) return new Set<string>();
     return new Set(manifest.institutions.map((i) => i.institution_id));
   }, [manifest]);
+
+  // Find first institution from manifest that has available meal data for quick demo
+  const sampleInstitutionInfo = useMemo(() => {
+    if (!manifest || manifest.institutions.length === 0) return null;
+    const firstManifestInst = manifest.institutions.find(
+      (inst) => Object.keys(inst.available_years).length > 0
+    );
+    if (!firstManifestInst) return null;
+    const meta = institutions.find((i) => i.institution_id === firstManifestInst.institution_id);
+    return {
+      institution_id: firstManifestInst.institution_id,
+      name: meta?.name || firstManifestInst.institution_id,
+    };
+  }, [manifest, institutions]);
 
   // Load Initial Dataset (Manifest + Institutions)
   const loadDataset = useCallback(async () => {
@@ -151,6 +168,12 @@ export const App: React.FC = () => {
     }
   };
 
+  // Fast demonstration: select sample institution with real meal data
+  const handleSelectSampleMeal = useCallback(() => {
+    if (!sampleInstitutionInfo) return;
+    handleSelectInstitution(sampleInstitutionInfo.institution_id);
+  }, [sampleInstitutionInfo, handleSelectInstitution]);
+
   // Deselect Institution
   const handleCloseInstitution = () => {
     setSelectedInstitutionId(null);
@@ -182,6 +205,8 @@ export const App: React.FC = () => {
         <ProjectIntro
           fixtureNotice={manifest?.fixture_notice}
           dataScope={manifest?.stats?.data_scope}
+          onSelectSampleMeal={handleSelectSampleMeal}
+          sampleInstitutionName={sampleInstitutionInfo?.name}
         />
 
         {/* Dataset Status Summary */}
@@ -193,8 +218,8 @@ export const App: React.FC = () => {
           />
         )}
 
-        {/* Global Search Bar */}
-        <div className="space-y-2">
+        {/* Global Search Bar & Fast-Access Filter Controls */}
+        <div className="space-y-3">
           <div className="flex flex-col sm:flex-row gap-3 items-center justify-between">
             <div className="w-full">
               <SearchBar
@@ -202,19 +227,62 @@ export const App: React.FC = () => {
                 selectedInstitutionId={selectedInstitutionId}
                 onSelectInstitution={handleSelectInstitution}
                 availableInstitutionIds={availableInstitutionIds}
+                onlyWithMeals={onlyWithMeals}
               />
             </div>
             {selectedInstitution && (
-              <div className="text-xs text-slate-600 shrink-0 self-end sm:self-center bg-white px-3 py-1.5 rounded-lg border border-slate-200">
+              <div className="text-xs text-slate-600 shrink-0 self-end sm:self-center bg-white px-3 py-1.5 rounded-lg border border-slate-200 shadow-sm">
                 선택 기관: <span className="font-bold text-blue-700">{selectedInstitution.name}</span>
               </div>
+            )}
+          </div>
+
+          {/* Quick Action & Filter Bar */}
+          <div className="flex flex-wrap items-center justify-between gap-2.5 bg-white px-3.5 py-2.5 rounded-xl border border-slate-200 shadow-sm text-xs">
+            <div className="flex flex-wrap items-center gap-2">
+              <span className="font-semibold text-slate-700">기관 필터:</span>
+              <button
+                type="button"
+                onClick={() => setOnlyWithMeals(false)}
+                className={`px-2.5 py-1 rounded-lg font-medium transition cursor-pointer ${
+                  !onlyWithMeals
+                    ? 'bg-slate-800 text-white shadow-sm'
+                    : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+                }`}
+              >
+                전체 기관 ({institutions.length}개소)
+              </button>
+              <button
+                type="button"
+                onClick={() => setOnlyWithMeals(true)}
+                className={`px-2.5 py-1 rounded-lg font-medium transition cursor-pointer flex items-center gap-1.5 ${
+                  onlyWithMeals
+                    ? 'bg-blue-600 text-white shadow-sm'
+                    : 'bg-emerald-50 text-emerald-800 border border-emerald-200 hover:bg-emerald-100'
+                }`}
+              >
+                <span className="w-2 h-2 rounded-full bg-emerald-400"></span>
+                <span>식단 조회 가능 기관만 보기 ({availableInstitutionIds.size}개소)</span>
+              </button>
+            </div>
+
+            {sampleInstitutionInfo && (
+              <button
+                type="button"
+                onClick={handleSelectSampleMeal}
+                className="inline-flex items-center gap-1.5 px-3 py-1 bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white rounded-lg font-bold shadow-sm transition cursor-pointer"
+                title={`예시 식단 바로 보기 (${sampleInstitutionInfo.name})`}
+              >
+                <span>⚡ 예시 식단 바로 보기</span>
+                <span className="opacity-80 font-normal">({sampleInstitutionInfo.name})</span>
+              </button>
             )}
           </div>
         </div>
 
         {/* Main Application Area: Loading / Error / Two-Column Layout */}
         {isLoadingDataset ? (
-          <LoadingState message="전국 55개 교정기관 기준정보 및 실제 수용자 식단 데이터셋을 불러오는 중입니다..." />
+          <LoadingState message="전국 교정기관 기준정보 및 실제 수용자 식단 데이터셋을 불러오는 중입니다..." />
         ) : datasetError ? (
           <ErrorState message={datasetError} onRetry={loadDataset} />
         ) : (
@@ -230,6 +298,8 @@ export const App: React.FC = () => {
                 selectedInstitutionId={selectedInstitutionId}
                 onSelectInstitution={handleSelectInstitution}
                 availableInstitutionIds={availableInstitutionIds}
+                onlyWithMeals={onlyWithMeals}
+                onToggleOnlyWithMeals={setOnlyWithMeals}
               />
             </div>
 
@@ -250,9 +320,17 @@ export const App: React.FC = () => {
                   selectedDate={selectedDate}
                   onSelectDate={setSelectedDate}
                   onClose={handleCloseInstitution}
+                  onSelectSampleMeal={handleSelectSampleMeal}
                 />
               ) : (
-                <EmptyInstitutionState onQuickSelect={handleSelectInstitution} />
+                <EmptyInstitutionState
+                  onQuickSelect={handleSelectInstitution}
+                  sampleInstitutionName={sampleInstitutionInfo?.name}
+                  onSelectSampleMeal={handleSelectSampleMeal}
+                  onlyWithMeals={onlyWithMeals}
+                  onToggleOnlyWithMeals={setOnlyWithMeals}
+                  availableCount={availableInstitutionIds.size}
+                />
               )}
             </div>
           </div>
@@ -262,7 +340,7 @@ export const App: React.FC = () => {
       {/* Footer */}
       <footer className="bg-white border-t border-slate-200 mt-12 py-6 text-xs text-slate-500 text-center space-y-1">
         <p className="font-semibold text-slate-700">
-          교정 식단 데이터맵 (Corrections Meal Data Map) — Web MVP Phase W3
+          교정 식단 데이터맵 (Corrections Meal Data Map)
         </p>
         <p>
           본 서비스는 법무행정경진대회 출품작으로, 비정형 공공데이터 표준화 및 수용자 처우 정보의 디지털

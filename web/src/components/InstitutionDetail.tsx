@@ -31,6 +31,7 @@ interface InstitutionDetailProps {
   selectedDate: string | null;
   onSelectDate: (dateStr: string) => void;
   onClose: () => void;
+  onSelectSampleMeal?: () => void;
 }
 
 export const InstitutionDetail: React.FC<InstitutionDetailProps> = ({
@@ -47,7 +48,9 @@ export const InstitutionDetail: React.FC<InstitutionDetailProps> = ({
   selectedDate,
   onSelectDate,
   onClose,
+  onSelectSampleMeal,
 }) => {
+  const dataInstitutionsCount = manifest?.stats?.collected_institutions;
   const availableYears = getAvailableYears(manifest, institution.institution_id);
   const availableMonths = selectedYear
     ? getAvailableMonths(manifest, institution.institution_id, selectedYear)
@@ -134,17 +137,28 @@ export const InstitutionDetail: React.FC<InstitutionDetailProps> = ({
       <div className="p-4 sm:p-5 space-y-5">
         {!hasDataInManifest ? (
           /* Empty state for institution without data */
-          <div className="py-12 px-4 bg-slate-50 border border-dashed border-slate-200 rounded-xl text-center space-y-3">
+          <div className="py-12 px-4 bg-slate-50 border border-dashed border-slate-200 rounded-xl text-center space-y-4">
             <div className="w-12 h-12 rounded-full bg-slate-100 flex items-center justify-center mx-auto text-slate-400">
               <Calendar className="w-6 h-6" />
             </div>
             <div className="space-y-1">
               <h3 className="text-sm font-bold text-slate-700">현재 구조화된 식단 데이터가 없습니다</h3>
               <p className="text-xs text-slate-500 max-w-sm mx-auto leading-relaxed">
-                식단 데이터 수집·구조화 대기 중인 기관입니다. 현재 검증 완료된 33개 교정기관의 식단 데이터를 우선
+                식단 데이터 수집·구조화 대기 중인 기관입니다. 현재 검증 완료된 {dataInstitutionsCount ? `${dataInstitutionsCount}개 ` : ''}교정기관의 식단 데이터를 우선
                 제공하고 있으며, 본 기관의 식단표는 후속 파이프라인 연동 시 순차 업데이트됩니다.
               </p>
             </div>
+            {onSelectSampleMeal && (
+              <div className="pt-1">
+                <button
+                  type="button"
+                  onClick={onSelectSampleMeal}
+                  className="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-xl bg-blue-600 text-white text-xs font-semibold hover:bg-blue-700 transition shadow-sm cursor-pointer"
+                >
+                  식단 있는 기관 바로 보기
+                </button>
+              </div>
+            )}
           </div>
         ) : (
           <>

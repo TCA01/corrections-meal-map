@@ -1,5 +1,5 @@
 import React from 'react';
-import { Utensils, ShieldCheck, Clock, FileSpreadsheet } from 'lucide-react';
+import { Utensils, Clock, FileSpreadsheet } from 'lucide-react';
 import { formatDataScope } from '../data/adapter';
 
 interface HeaderProps {
@@ -11,8 +11,8 @@ interface HeaderProps {
 }
 
 export const Header: React.FC<HeaderProps> = ({
-  datasetVersion,
-  webContractVersion,
+  datasetVersion: _datasetVersion,
+  webContractVersion: _webContractVersion,
   lastUpdated,
   dataScope,
   isMockFixture,
@@ -70,16 +70,6 @@ export const Header: React.FC<HeaderProps> = ({
             >
               <Clock className="w-3.5 h-3.5 text-emerald-400" />
               <span>데이터 갱신: {formattedUpdate}</span>
-            </span>
-          )}
-
-          {datasetVersion && (
-            <span
-              className="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full bg-slate-800 text-slate-300 border border-slate-700"
-              title={`전체 데이터셋 식별자: ${datasetVersion}`}
-            >
-              <ShieldCheck className="w-3.5 h-3.5 text-blue-400" />
-              <span>버전: {webContractVersion ? `Phase ${webContractVersion}` : datasetVersion.slice(0, 15)}</span>
             </span>
           )}
         </div>

@@ -287,8 +287,29 @@ describe('StateViews', () => {
     expect(onRetry).toHaveBeenCalledTimes(1);
   });
 
-  it('renders EmptyInstitutionState', () => {
-    render(<EmptyInstitutionState />);
+  it('renders EmptyInstitutionState and responds to quick demo and filter buttons', () => {
+    const onSelectSample = vi.fn();
+    const onToggleOnlyMeals = vi.fn();
+
+    render(
+      <EmptyInstitutionState
+        sampleInstitutionName="목포교도소"
+        onSelectSampleMeal={onSelectSample}
+        onlyWithMeals={false}
+        onToggleOnlyWithMeals={onToggleOnlyMeals}
+        availableCount={30}
+      />
+    );
+
     expect(screen.getByText('지도에서 교정기관을 선택하세요')).toBeInTheDocument();
+    const demoBtn = screen.getByRole('button', { name: /예시 식단 바로 보기/i });
+    expect(demoBtn).toBeInTheDocument();
+    fireEvent.click(demoBtn);
+    expect(onSelectSample).toHaveBeenCalledTimes(1);
+
+    const filterBtn = screen.getByRole('button', { name: /식단 있는 기관만 보기/i });
+    expect(filterBtn).toBeInTheDocument();
+    fireEvent.click(filterBtn);
+    expect(onToggleOnlyMeals).toHaveBeenCalledWith(true);
   });
 });

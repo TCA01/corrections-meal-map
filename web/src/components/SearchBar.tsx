@@ -7,6 +7,7 @@ interface SearchBarProps {
   selectedInstitutionId: string | null;
   onSelectInstitution: (institutionId: string) => void;
   availableInstitutionIds?: Set<string>;
+  onlyWithMeals?: boolean;
 }
 
 function extractRegion(address?: string): string {
@@ -42,6 +43,7 @@ export const SearchBar: React.FC<SearchBarProps> = ({
   selectedInstitutionId,
   onSelectInstitution,
   availableInstitutionIds,
+  onlyWithMeals = false,
 }) => {
   const [query, setQuery] = useState('');
   const [isOpen, setIsOpen] = useState(false);
@@ -51,12 +53,16 @@ export const SearchBar: React.FC<SearchBarProps> = ({
 
   const trimmed = query.trim().toLowerCase();
 
-  // Filter institutions based on search query across all 55 master institutions
-  // If query is empty but dropdown is opened, show all institutions (with meal data institutions sorted first)
+  // Filter institutions based on search query and onlyWithMeals flag
+  // Crucial: always prioritize meal data institutions first so users discover meals immediately!
   const filtered = useMemo(() => {
+    const baseList = onlyWithMeals
+      ? institutions.filter((inst) => Boolean(availableInstitutionIds?.has(inst.institution_id)))
+      : institutions;
+
     if (!trimmed) {
       // Prioritize data institutions first
-      return [...institutions].sort((a, b) => {
+      return [...baseList].sort((a, b) => {
         const aHasData = availableInstitutionIds?.has(a.institution_id) ? 1 : 0;
         const bHasData = availableInstitutionIds?.has(b.institution_id) ? 1 : 0;
         if (bHasData !== aHasData) return bHasData - aHasData;
@@ -64,7 +70,7 @@ export const SearchBar: React.FC<SearchBarProps> = ({
       });
     }
 
-    return institutions.filter((inst) => {
+    const matches = baseList.filter((inst) => {
       const region = extractRegion(inst.address).toLowerCase();
       return (
         inst.name.toLowerCase().includes(trimmed) ||
@@ -74,7 +80,14 @@ export const SearchBar: React.FC<SearchBarProps> = ({
         region.includes(trimmed)
       );
     });
-  }, [institutions, trimmed, availableInstitutionIds]);
+
+    return [...matches].sort((a, b) => {
+      const aHasData = availableInstitutionIds?.has(a.institution_id) ? 1 : 0;
+      const bHasData = availableInstitutionIds?.has(b.institution_id) ? 1 : 0;
+      if (bHasData !== aHasData) return bHasData - aHasData;
+      return a.name.localeCompare(b.name, 'ko');
+    });
+  }, [institutions, trimmed, availableInstitutionIds, onlyWithMeals]);
 
   // Close dropdown on click outside
   useEffect(() => {

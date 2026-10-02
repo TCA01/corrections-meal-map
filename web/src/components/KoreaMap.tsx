@@ -1,13 +1,15 @@
 import React, { useEffect, useRef, useState, useMemo } from 'react';
 import L from 'leaflet';
 import { Institution } from '../data/types';
-import { MapPin, MapPinOff, Layers, RefreshCw, AlertTriangle } from 'lucide-react';
+import { MapPin, MapPinOff, Layers, RefreshCw, AlertTriangle, Utensils } from 'lucide-react';
 
 interface KoreaMapProps {
   institutions: Institution[];
   selectedInstitutionId: string | null;
   onSelectInstitution: (institutionId: string) => void;
   availableInstitutionIds?: Set<string>;
+  onlyWithMeals?: boolean;
+  onToggleOnlyWithMeals?: (val: boolean) => void;
 }
 
 // Center of South Korea (Daejeon overview)
@@ -49,18 +51,28 @@ export const KoreaMap: React.FC<KoreaMapProps> = ({
   selectedInstitutionId,
   onSelectInstitution,
   availableInstitutionIds,
+  onlyWithMeals = false,
+  onToggleOnlyWithMeals,
 }) => {
   const mapContainerRef = useRef<HTMLDivElement>(null);
   const mapInstanceRef = useRef<L.Map | null>(null);
   const markersRef = useRef<Map<string, L.Marker>>(new Map());
   const [tileError, setTileError] = useState(false);
 
-  // Filter institutions that have valid non-null coordinates (strictly 53 institutions)
+  // Filter institutions that have valid non-null coordinates
   const validInstitutions = useMemo(() => {
     return institutions.filter(
       (inst) => inst.has_coordinates && inst.latitude !== null && inst.longitude !== null
     );
   }, [institutions]);
+
+  // Filter markers based on whether onlyWithMeals is toggled
+  const displayedInstitutions = useMemo(() => {
+    if (!onlyWithMeals) return validInstitutions;
+    return validInstitutions.filter((inst) =>
+      Boolean(availableInstitutionIds?.has(inst.institution_id))
+    );
+  }, [validInstitutions, onlyWithMeals, availableInstitutionIds]);
 
   // Statistics for map legend
   const stats = useMemo(() => {
@@ -79,9 +91,10 @@ export const KoreaMap: React.FC<KoreaMapProps> = ({
       noDataWithCoords,
       nullCoords,
       total: institutions.length,
-      rendered: validInstitutions.length,
+      rendered: displayedInstitutions.length,
+      validTotal: validInstitutions.length,
     };
-  }, [validInstitutions, institutions, availableInstitutionIds]);
+  }, [validInstitutions, institutions, availableInstitutionIds, displayedInstitutions]);
 
   const selectedInst = institutions.find((i) => i.institution_id === selectedInstitutionId);
   const selectedHasNoCoords = selectedInst && !selectedInst.has_coordinates;
@@ -100,13 +113,12 @@ export const KoreaMap: React.FC<KoreaMapProps> = ({
         zoomControl: true,
       });
 
-      // CartoDB Positron tiles: clean, accessible, and fast
+      // OpenStreetMap raster tiles (zero-secret, public, no API key required)
       const tileLayer = L.tileLayer(
-        'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
+        'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
         {
           attribution:
-            '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
-          subdomains: 'abcd',
+            '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
           maxZoom: 19,
         }
       );
@@ -131,7 +143,7 @@ export const KoreaMap: React.FC<KoreaMapProps> = ({
     };
   }, []);
 
-  // Update Markers when validInstitutions, selectedInstitutionId, or available IDs change
+  // Update Markers when displayedInstitutions, selectedInstitutionId, or available IDs change
   useEffect(() => {
     const map = mapInstanceRef.current;
     if (!map) return;
@@ -140,7 +152,7 @@ export const KoreaMap: React.FC<KoreaMapProps> = ({
     markersRef.current.forEach((marker) => marker.remove());
     markersRef.current.clear();
 
-    validInstitutions.forEach((inst) => {
+    displayedInstitutions.forEach((inst) => {
       if (inst.latitude === null || inst.longitude === null) return;
 
       const isSelected = inst.institution_id === selectedInstitutionId;
@@ -194,7 +206,7 @@ export const KoreaMap: React.FC<KoreaMapProps> = ({
 
       markersRef.current.set(inst.institution_id, marker);
     });
-  }, [validInstitutions, selectedInstitutionId, onSelectInstitution, availableInstitutionIds]);
+  }, [displayedInstitutions, selectedInstitutionId, onSelectInstitution, availableInstitutionIds]);
 
   // Center map on selected institution smoothly
   useEffect(() => {
@@ -233,15 +245,33 @@ export const KoreaMap: React.FC<KoreaMapProps> = ({
           </span>
         </div>
 
-        <button
-          type="button"
-          onClick={handleResetViewport}
-          className="bg-white/95 backdrop-blur-sm border border-slate-200/90 rounded-xl px-2.5 py-1.5 shadow-sm text-xs text-slate-700 hover:text-blue-600 hover:bg-slate-50 transition pointer-events-auto flex items-center gap-1.5"
-          title="전국 지도 전체 보기"
-        >
-          <RefreshCw className="w-3 h-3 text-slate-500" />
-          <span className="hidden sm:inline">전국 전체 보기</span>
-        </button>
+        <div className="flex items-center gap-2 pointer-events-auto">
+          {onToggleOnlyWithMeals && (
+            <button
+              type="button"
+              onClick={() => onToggleOnlyWithMeals(!onlyWithMeals)}
+              className={`px-2.5 py-1.5 rounded-xl border text-xs font-semibold shadow-sm transition flex items-center gap-1.5 cursor-pointer ${
+                onlyWithMeals
+                  ? 'bg-blue-600 text-white border-blue-700 hover:bg-blue-700'
+                  : 'bg-white/95 backdrop-blur-sm text-slate-700 border-slate-200/90 hover:bg-slate-50'
+              }`}
+              title={onlyWithMeals ? '모든 기관 지도에 표시' : '식단 제공 기관만 지도에 표시'}
+            >
+              <Utensils className="w-3.5 h-3.5" />
+              <span>{onlyWithMeals ? '식단 제공 기관만 표시 중' : '식단 제공 기관만 보기'}</span>
+            </button>
+          )}
+
+          <button
+            type="button"
+            onClick={handleResetViewport}
+            className="bg-white/95 backdrop-blur-sm border border-slate-200/90 rounded-xl px-2.5 py-1.5 shadow-sm text-xs text-slate-700 hover:text-blue-600 hover:bg-slate-50 transition flex items-center gap-1.5 cursor-pointer"
+            title="전국 지도 전체 보기"
+          >
+            <RefreshCw className="w-3 h-3 text-slate-500" />
+            <span className="hidden sm:inline">전국 전체 보기</span>
+          </button>
+        </div>
       </div>
 
       {/* Tile Failure Fallback Notice */}
@@ -289,10 +319,12 @@ export const KoreaMap: React.FC<KoreaMapProps> = ({
             <span className="w-2.5 h-2.5 rounded-full bg-slate-400 inline-block"></span>
             <span>데이터 준비 중 ({stats.noDataWithCoords}개소)</span>
           </span>
-          <span className="inline-flex items-center gap-1 text-[11px] text-amber-700">
-            <MapPinOff className="w-3 h-3 text-amber-600 inline-block" />
-            <span>위치 확인 중 ({stats.nullCoords}개소: 서울남부)</span>
-          </span>
+          {stats.nullCoords > 0 && (
+            <span className="inline-flex items-center gap-1 text-[11px] text-amber-700">
+              <MapPinOff className="w-3 h-3 text-amber-600 inline-block" />
+              <span>위치 확인 중 ({stats.nullCoords}개소)</span>
+            </span>
+          )}
         </div>
 
         <div className="text-[11px] text-slate-400 hidden md:block">

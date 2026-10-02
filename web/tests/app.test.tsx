@@ -232,4 +232,28 @@ describe('App Component Integration Flow', () => {
       expect(screen.getByText(/현재 구조화된 식단 데이터가 없습니다|식단 데이터 수집 대기 중/i)).toBeInTheDocument();
     });
   });
+
+  it('triggers quick demonstration via sample meal button directly into full meal view', async () => {
+    vi.spyOn(api, 'fetchManifest').mockResolvedValue(mockManifest);
+    vi.spyOn(api, 'fetchInstitutions').mockResolvedValue(mockInstitutions);
+    vi.spyOn(api, 'fetchMonthMenu').mockResolvedValue(mockMokpoMenu);
+
+    render(<App />);
+
+    await waitFor(() => {
+      expect(screen.getByText('지도에서 교정기관을 선택하세요')).toBeInTheDocument();
+    });
+
+    // Find and click the sample meal demo button
+    const demoButtons = screen.getAllByRole('button', { name: /예시 식단 바로 보기/i });
+    expect(demoButtons.length).toBeGreaterThan(0);
+    fireEvent.click(demoButtons[0]);
+
+    // Should load Mokpo institution and render meal view immediately
+    await waitFor(() => {
+      expect(screen.getByRole('heading', { level: 2, name: /목포교도소/i })).toBeInTheDocument();
+      expect(screen.getByText('쌀밥')).toBeInTheDocument();
+      expect(screen.getByText('비빔밥')).toBeInTheDocument();
+    });
+  });
 });

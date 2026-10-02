@@ -4,9 +4,15 @@ import { Sparkles, Info } from 'lucide-react';
 interface ProjectIntroProps {
   fixtureNotice?: string;
   dataScope?: string;
+  onSelectSampleMeal?: () => void;
+  sampleInstitutionName?: string;
 }
 
-export const ProjectIntro: React.FC<ProjectIntroProps> = ({ fixtureNotice, dataScope }) => {
+export const ProjectIntro: React.FC<ProjectIntroProps> = ({
+  fixtureNotice,
+  dataScope,
+  onSelectSampleMeal,
+}) => {
   return (
     <div className="bg-white border border-slate-200 rounded-xl p-4 sm:p-5 shadow-sm space-y-3">
       <div className="flex items-start gap-3">
@@ -30,17 +36,30 @@ export const ProjectIntro: React.FC<ProjectIntroProps> = ({ fixtureNotice, dataS
         </div>
       </div>
 
-      <div className="flex flex-wrap items-center gap-y-1 gap-x-4 pt-2 border-t border-slate-100 text-xs text-slate-500">
-        <span className="font-medium text-slate-700">30초 빠른 탐색:</span>
-        <span>1. 교정기관 검색 / 지도</span>
-        <span>→</span>
-        <span>2. 기관 선택</span>
-        <span>→</span>
-        <span>3. 연도 / 월 선택</span>
-        <span>→</span>
-        <span>4. 날짜 선택</span>
-        <span>→</span>
-        <span>5. 아침 · 점심 · 저녁 식단 및 원본 출처 확인</span>
+      <div className="flex flex-wrap items-center justify-between gap-y-2 gap-x-4 pt-2 border-t border-slate-100 text-xs text-slate-500">
+        <div className="flex flex-wrap items-center gap-y-1 gap-x-2">
+          <span className="font-semibold text-slate-700">30초 빠른 탐색:</span>
+          <span>1. 교정기관 검색 / 지도</span>
+          <span>→</span>
+          <span>2. 기관 선택</span>
+          <span>→</span>
+          <span>3. 연도 / 월 선택</span>
+          <span>→</span>
+          <span>4. 날짜 선택</span>
+          <span>→</span>
+          <span>5. 아침 · 점심 · 저녁 식단 및 원본 출처 확인</span>
+        </div>
+
+        {onSelectSampleMeal && (
+          <button
+            type="button"
+            onClick={onSelectSampleMeal}
+            className="inline-flex items-center gap-1.5 px-3 py-1 bg-blue-600 hover:bg-blue-700 text-white rounded-lg text-xs font-bold shadow-sm transition cursor-pointer shrink-0"
+          >
+            <Sparkles className="w-3.5 h-3.5 text-amber-300" />
+            <span>예시 식단 바로 보기</span>
+          </button>
+        )}
       </div>
 
       {fixtureNotice && (
