@@ -86,3 +86,11 @@ institutions_before_locations.json and location_backups/ under data/institutions
 The cache/audit/backup is private and is not synced to web/public.
 There is no automatic periodic location refresh. Operator review is required after
 relocation, address changes, official map changes or shared-coordinate ambiguity.
+# Phase 4B.1 — Seoul South address geocoding references
+
+서울남부구치소(금오로 865)는 `37.4771593, 126.8371928`, 서울남부교도소(금오로 867)는 `37.4770251553096, 126.837830132687`로 재평가했습니다. 두 값은 사용자가 제공한 주소 geocoding 참고 결과이며 공식 지도 좌표로 분류하지 않습니다.
+
+`location_status=GEOCODED`, `location_source=official_address_geocoding`으로 기록합니다. 원 provider/조회 URL/조회 시각은 제공되지 않아 별도 추측하지 않았고, API를 호출했다고 기록하지 않습니다. 공식 주소 일치·지역 범위·중복 검사를 통과한 참고값이며 측량/출입구 좌표를 보장하지 않습니다.
+
+공개 master에는 좌표만 변경합니다. 추적 가능한 두 기관 provenance와 이전 중복 marker 증거는 `data/institutions/seoul_south_geocoding.json`에 보관합니다. `scripts/hotfix_seoul_south_locations.py`는 기존 bridge를 호출하고 식단 및 manifest의 전후 해시를 검사합니다. GitHub 압축 운영 상태는 재생성하지 않고 `state.json`의 public bundle hash만 맞춰 최신 수집 상태를 보존합니다.
+

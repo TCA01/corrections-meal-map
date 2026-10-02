@@ -1,0 +1,410 @@
+{
+  "phase": "4B.1",
+  "coordinate_source_policy": "user_supplied_official_address_geocoding_reference_not_official_coordinates",
+  "external_geocoder_called": false,
+  "locations": [
+    {
+      "institution_id": "KR_CORR_SEOUL_SOUTHERN_DETENTION",
+      "canonical_name": "서울남부구치소",
+      "official_address": "서울특별시 구로구 금오로 865 (천왕동) 서울시 구로우체국 사서함 164",
+      "latitude": 37.4771593,
+      "longitude": 126.8371928,
+      "status": "GEOCODED",
+      "location_confidence": "address_match_user_reference",
+      "location_source": "official_address_geocoding",
+      "location_source_url": null,
+      "provider": "user_supplied_address_geocoding_reference",
+      "geocoded_at": null,
+      "geocoding_query": "서울특별시 구로구 금오로 865",
+      "returned_address": "서울특별시 구로구 금오로 865",
+      "candidates": [
+        {
+          "latitude": 37.4771593,
+          "longitude": 126.8371928,
+          "returned_address": "서울특별시 구로구 금오로 865",
+          "query": "서울특별시 구로구 금오로 865",
+          "official": false,
+          "provider": "user_supplied_address_geocoding_reference",
+          "source_url": null,
+          "precision": "institution_marker_or_full_road_address",
+          "evidence": "user_supplied_road_address_geocoding_result",
+          "external_geocoder_called": false,
+          "validation": {
+            "status": "PASS",
+            "issues": [],
+            "official_road_address": "서울특별시 구로구 금오로 865",
+            "returned_road_address": "서울특별시 구로구 금오로 865",
+            "province": "서울",
+            "geographic_check": "coarse_country_and_region_envelopes_plus_exact_road_address",
+            "land_polygon_verified": false
+          }
+        }
+      ],
+      "validation": {
+        "status": "PASS",
+        "issues": [],
+        "official_road_address": "서울특별시 구로구 금오로 865",
+        "returned_road_address": "서울특별시 구로구 금오로 865",
+        "province": "서울",
+        "geographic_check": "coarse_country_and_region_envelopes_plus_exact_road_address",
+        "land_polygon_verified": false
+      },
+      "official_lookup": {
+        "home_url": "https://www.corrections.go.kr/corrections/1239/subview.do",
+        "directions_url": "https://www.corrections.go.kr/corrections/1242/subview.do",
+        "page_sha256": "b4182dec442bb3513e56b9ea5dbbc7349f2c4c18affc0c6605318d37e1048bac",
+        "retrieved_at": "2026-10-01T21:23:42.697939+09:00",
+        "reason": null
+      },
+      "previous_location_evidence": {
+        "institution_id": "KR_CORR_SEOUL_SOUTHERN_DETENTION",
+        "canonical_name": "서울남부구치소",
+        "official_address": "서울특별시 구로구 금오로 865 (천왕동) 서울시 구로우체국 사서함 164",
+        "latitude": null,
+        "longitude": null,
+        "status": "REVIEW",
+        "location_confidence": "ambiguous",
+        "location_source": "official_institution_map_marker",
+        "location_source_url": "https://www.corrections.go.kr/corrections/1242/subview.do",
+        "provider": "official_institution_map_marker",
+        "geocoded_at": "2026-10-01T21:44:15.299253+09:00",
+        "geocoding_query": "서울특별시 구로구 금오로 865",
+        "returned_address": "서울특별시 구로구 금오로 865 (천왕동) [우편번호:08367] 서울시 구로구 천왕동 272 (수용자 우편용)서울시 구로우체국 사서함 164 - 수용자번호[우편번호:08365]",
+        "candidates": [
+          {
+            "latitude": 37.4825248,
+            "longitude": 126.8317231,
+            "returned_address": "서울특별시 구로구 금오로 865 (천왕동) [우편번호:08367] 서울시 구로구 천왕동 272 (수용자 우편용)서울시 구로우체국 사서함 164 - 수용자번호[우편번호:08365]",
+            "source_url": "https://www.corrections.go.kr/corrections/1242/subview.do",
+            "provider": "official_institution_map_marker",
+            "official": true,
+            "institution_identity_verified": true,
+            "precision": "institution_marker_or_full_road_address",
+            "evidence": "explicit_position_marker_LatLng",
+            "query": "서울특별시 구로구 금오로 865",
+            "validation": {
+              "status": "REVIEW",
+              "issues": [
+                "DUPLICATE_COORDINATE_DIFFERENT_ADDRESS"
+              ],
+              "official_road_address": "서울특별시 구로구 금오로 865",
+              "returned_road_address": "서울특별시 구로구 금오로 865",
+              "province": "서울",
+              "geographic_check": "coarse_country_and_region_envelopes_plus_exact_road_address",
+              "land_polygon_verified": false
+            }
+          }
+        ],
+        "validation": {
+          "status": "REVIEW",
+          "issues": [
+            "DUPLICATE_COORDINATE_DIFFERENT_ADDRESS"
+          ],
+          "official_road_address": "서울특별시 구로구 금오로 865",
+          "returned_road_address": "서울특별시 구로구 금오로 865",
+          "province": "서울",
+          "geographic_check": "coarse_country_and_region_envelopes_plus_exact_road_address",
+          "land_polygon_verified": false
+        },
+        "official_lookup": {
+          "home_url": "https://www.corrections.go.kr/corrections/1239/subview.do",
+          "directions_url": "https://www.corrections.go.kr/corrections/1242/subview.do",
+          "page_sha256": "b4182dec442bb3513e56b9ea5dbbc7349f2c4c18affc0c6605318d37e1048bac",
+          "retrieved_at": "2026-10-01T21:23:42.697939+09:00",
+          "reason": null
+        }
+      },
+      "location_status": "GEOCODED",
+      "evaluated_at": "2026-10-02T20:47:00.104860+09:00",
+      "geocoding_result_timestamp_unknown": true,
+      "coordinate_reference_source": "user_request_phase_4b_1",
+      "external_geocoder_called": false,
+      "official_address_source_url": "https://www.corrections.go.kr/corrections/1125/subview.do"
+    },
+    {
+      "institution_id": "KR_CORR_SEOUL_SOUTHERN_PRISON",
+      "canonical_name": "서울남부교도소",
+      "official_address": "서울특별시 구로구 금오로 867 (천왕동) 서울시 구로우체국 사서함 165",
+      "latitude": 37.4770251553096,
+      "longitude": 126.837830132687,
+      "status": "GEOCODED",
+      "location_confidence": "address_match_user_reference",
+      "location_source": "official_address_geocoding",
+      "location_source_url": null,
+      "provider": "user_supplied_address_geocoding_reference",
+      "geocoded_at": null,
+      "geocoding_query": "서울특별시 구로구 금오로 867",
+      "returned_address": "서울특별시 구로구 금오로 867",
+      "candidates": [
+        {
+          "latitude": 37.4770251553096,
+          "longitude": 126.837830132687,
+          "returned_address": "서울특별시 구로구 금오로 867",
+          "query": "서울특별시 구로구 금오로 867",
+          "official": false,
+          "provider": "user_supplied_address_geocoding_reference",
+          "source_url": null,
+          "precision": "institution_marker_or_full_road_address",
+          "evidence": "user_supplied_road_address_geocoding_result",
+          "external_geocoder_called": false,
+          "validation": {
+            "status": "PASS",
+            "issues": [],
+            "official_road_address": "서울특별시 구로구 금오로 867",
+            "returned_road_address": "서울특별시 구로구 금오로 867",
+            "province": "서울",
+            "geographic_check": "coarse_country_and_region_envelopes_plus_exact_road_address",
+            "land_polygon_verified": false
+          }
+        }
+      ],
+      "validation": {
+        "status": "PASS",
+        "issues": [],
+        "official_road_address": "서울특별시 구로구 금오로 867",
+        "returned_road_address": "서울특별시 구로구 금오로 867",
+        "province": "서울",
+        "geographic_check": "coarse_country_and_region_envelopes_plus_exact_road_address",
+        "land_polygon_verified": false
+      },
+      "official_lookup": {
+        "home_url": "https://www.corrections.go.kr/corrections/1255/subview.do",
+        "directions_url": "https://www.corrections.go.kr/corrections/1258/subview.do",
+        "page_sha256": "df1d2aea22b8a18692e2a495a0411acceac0ed969015347a2057c1951042ff31",
+        "retrieved_at": "2026-10-01T21:23:54.692742+09:00",
+        "reason": null
+      },
+      "previous_location_evidence": {
+        "institution_id": "KR_CORR_SEOUL_SOUTHERN_PRISON",
+        "canonical_name": "서울남부교도소",
+        "official_address": "서울특별시 구로구 금오로 867 (천왕동) 서울시 구로우체국 사서함 165",
+        "latitude": null,
+        "longitude": null,
+        "status": "REVIEW",
+        "location_confidence": "ambiguous",
+        "location_source": "official_institution_map_marker",
+        "location_source_url": "https://www.corrections.go.kr/corrections/1258/subview.do",
+        "provider": "official_institution_map_marker",
+        "geocoded_at": "2026-10-01T21:44:16.490170+09:00",
+        "geocoding_query": "서울특별시 구로구 금오로 867",
+        "returned_address": "서울특별시 구로구 금오로 867 (천왕동) [우편번호:08367] 서울시 구로구 천왕동 272 서울시 구로우체국 사서함 165호 [우편번호:08365] - 수용자 우편용",
+        "candidates": [
+          {
+            "latitude": 37.4825248,
+            "longitude": 126.8317231,
+            "returned_address": "서울특별시 구로구 금오로 867 (천왕동) [우편번호:08367] 서울시 구로구 천왕동 272 서울시 구로우체국 사서함 165호 [우편번호:08365] - 수용자 우편용",
+            "source_url": "https://www.corrections.go.kr/corrections/1258/subview.do",
+            "provider": "official_institution_map_marker",
+            "official": true,
+            "institution_identity_verified": true,
+            "precision": "institution_marker_or_full_road_address",
+            "evidence": "explicit_position_marker_LatLng",
+            "query": "서울특별시 구로구 금오로 867",
+            "validation": {
+              "status": "REVIEW",
+              "issues": [
+                "DUPLICATE_COORDINATE_DIFFERENT_ADDRESS"
+              ],
+              "official_road_address": "서울특별시 구로구 금오로 867",
+              "returned_road_address": "서울특별시 구로구 금오로 867",
+              "province": "서울",
+              "geographic_check": "coarse_country_and_region_envelopes_plus_exact_road_address",
+              "land_polygon_verified": false
+            }
+          }
+        ],
+        "validation": {
+          "status": "REVIEW",
+          "issues": [
+            "DUPLICATE_COORDINATE_DIFFERENT_ADDRESS"
+          ],
+          "official_road_address": "서울특별시 구로구 금오로 867",
+          "returned_road_address": "서울특별시 구로구 금오로 867",
+          "province": "서울",
+          "geographic_check": "coarse_country_and_region_envelopes_plus_exact_road_address",
+          "land_polygon_verified": false
+        },
+        "official_lookup": {
+          "home_url": "https://www.corrections.go.kr/corrections/1255/subview.do",
+          "directions_url": "https://www.corrections.go.kr/corrections/1258/subview.do",
+          "page_sha256": "df1d2aea22b8a18692e2a495a0411acceac0ed969015347a2057c1951042ff31",
+          "retrieved_at": "2026-10-01T21:23:54.692742+09:00",
+          "reason": null
+        }
+      },
+      "location_status": "GEOCODED",
+      "evaluated_at": "2026-10-02T20:47:00.105860+09:00",
+      "geocoding_result_timestamp_unknown": true,
+      "coordinate_reference_source": "user_request_phase_4b_1",
+      "external_geocoder_called": false,
+      "official_address_source_url": "https://www.corrections.go.kr/corrections/1125/subview.do"
+    }
+  ],
+  "report": {
+    "generated_at": "2026-10-02T20:48:11.231902+09:00",
+    "master_institutions": 55,
+    "location_results": {
+      "verified": 53,
+      "geocoded": 2,
+      "review": 0,
+      "unresolved": 0
+    },
+    "map_ready": 55,
+    "ready_data_institutions": 30,
+    "ready_data_institutions_with_coordinates": 30,
+    "providers": {
+      "official_institution_map_marker": 52,
+      "user_supplied_address_geocoding_reference": 2,
+      "official_institution_embedded_map_marker": 1
+    },
+    "duplicate_coordinates": [],
+    "geographic_sanity": {
+      "status": "PASS",
+      "min_latitude": 33.4621,
+      "max_latitude": 38.2149,
+      "min_longitude": 126.4849121,
+      "max_longitude": 129.3224321,
+      "regions": {
+        "경기": {
+          "min_latitude": 37.010269,
+          "max_latitude": 37.7235784,
+          "min_longitude": 126.770338,
+          "max_longitude": 127.65424
+        },
+        "서울": {
+          "min_latitude": 37.4770251553096,
+          "max_latitude": 37.48255,
+          "min_longitude": 126.8371928,
+          "max_longitude": 127.115774
+        },
+        "인천": {
+          "min_latitude": 37.4437958,
+          "max_latitude": 37.4437958,
+          "min_longitude": 126.6653902,
+          "max_longitude": 126.6653902
+        },
+        "강원": {
+          "min_latitude": 37.1654807,
+          "max_latitude": 38.2149,
+          "min_longitude": 127.7577,
+          "max_longitude": 128.864212
+        },
+        "대구": {
+          "min_latitude": 35.8561856,
+          "max_latitude": 35.8903878433548,
+          "min_longitude": 128.42485606789572,
+          "max_longitude": 128.6566378
+        },
+        "부산": {
+          "min_latitude": 35.1460457,
+          "max_latitude": 35.2185425,
+          "min_longitude": 128.9506518,
+          "max_longitude": 128.9947843
+        },
+        "경북": {
+          "min_latitude": 35.7893876,
+          "max_latitude": 36.5928303,
+          "min_longitude": 128.1443612,
+          "max_longitude": 129.3224321
+        },
+        "경남": {
+          "min_latitude": 34.862845,
+          "max_latitude": 35.69149144316052,
+          "min_longitude": 127.8939185368777,
+          "max_longitude": 128.7405701
+        },
+        "울산": {
+          "min_latitude": 35.5286469,
+          "max_latitude": 35.5286469,
+          "min_longitude": 129.2583711,
+          "max_longitude": 129.2583711
+        },
+        "대전": {
+          "min_latitude": 36.311386,
+          "max_latitude": 36.311386,
+          "min_longitude": 127.3289652,
+          "max_longitude": 127.3289652
+        },
+        "충남": {
+          "min_latitude": 36.2034394,
+          "max_latitude": 36.860811,
+          "min_longitude": 126.4849121,
+          "max_longitude": 127.1639895
+        },
+        "충북": {
+          "min_latitude": 36.603767,
+          "max_latitude": 37.0873623,
+          "min_longitude": 127.4723654,
+          "max_longitude": 127.9601264
+        },
+        "광주": {
+          "min_latitude": 35.210509,
+          "max_latitude": 35.210509,
+          "min_longitude": 126.910042,
+          "max_longitude": 126.910042
+        },
+        "전북": {
+          "min_latitude": 35.574852,
+          "max_latitude": 35.9363792,
+          "min_longitude": 126.6985487,
+          "max_longitude": 127.12893
+        },
+        "전남": {
+          "min_latitude": 34.5771348,
+          "max_latitude": 34.992306,
+          "min_longitude": 126.4887099,
+          "max_longitude": 127.497951
+        },
+        "제주": {
+          "min_latitude": 33.4621,
+          "max_latitude": 33.4621,
+          "min_longitude": 126.5136348,
+          "max_longitude": 126.5136348
+        }
+      },
+      "land_polygon_verified": false
+    },
+    "applied": true,
+    "public_institutions": "PASS",
+    "web_sync": "PASS",
+    "menu_data_unchanged": "PASS",
+    "dataset_version": "20261001T201508939825+0900-51c83fe482",
+    "fingerprints_before": {
+      "current": {
+        "dataset_version": "20261001T201508939825+0900-51c83fe482",
+        "run_path": "runs/20261001T201508939825+0900-51c83fe482",
+        "published_at": "2026-10-01T20:22:36.650928+09:00"
+      },
+      "immutable_run_sha256": "e14b553d8a4ffd8dbf01ef7bc3f81b02c9a02209eeb484909617c9d741951224",
+      "menus": {
+        "run": "211e6441e84331645e442565bdbbc63c23bb9f07257063b43a5d104f5bb24ed8",
+        "deploy": "211e6441e84331645e442565bdbbc63c23bb9f07257063b43a5d104f5bb24ed8",
+        "frontend": "211e6441e84331645e442565bdbbc63c23bb9f07257063b43a5d104f5bb24ed8"
+      },
+      "manifests": {
+        "run": "946b11131fd247d4463edaa2c8fd3de5359ddb08d49a522880e27dcd81bd0806",
+        "deploy": "460587bce6716f4d9ec2032f47d948e68369fd76270a0a402a575294993d5f7c",
+        "frontend": "460587bce6716f4d9ec2032f47d948e68369fd76270a0a402a575294993d5f7c"
+      }
+    },
+    "fingerprints_after": {
+      "current": {
+        "dataset_version": "20261001T201508939825+0900-51c83fe482",
+        "run_path": "runs/20261001T201508939825+0900-51c83fe482",
+        "published_at": "2026-10-01T20:22:36.650928+09:00"
+      },
+      "immutable_run_sha256": "e14b553d8a4ffd8dbf01ef7bc3f81b02c9a02209eeb484909617c9d741951224",
+      "menus": {
+        "run": "211e6441e84331645e442565bdbbc63c23bb9f07257063b43a5d104f5bb24ed8",
+        "deploy": "211e6441e84331645e442565bdbbc63c23bb9f07257063b43a5d104f5bb24ed8",
+        "frontend": "211e6441e84331645e442565bdbbc63c23bb9f07257063b43a5d104f5bb24ed8"
+      },
+      "manifests": {
+        "run": "946b11131fd247d4463edaa2c8fd3de5359ddb08d49a522880e27dcd81bd0806",
+        "deploy": "460587bce6716f4d9ec2032f47d948e68369fd76270a0a402a575294993d5f7c",
+        "frontend": "460587bce6716f4d9ec2032f47d948e68369fd76270a0a402a575294993d5f7c"
+      }
+    },
+    "phase": "4B.1"
+  }
+}

@@ -38,7 +38,7 @@ describe('Production Smoke Tests — Direct Inspection of web/public/web_data', 
     }
   });
 
-  it('verifies institutions.json master contains 55 institutions, 53 coordinates, and exactly 2 null coordinates (Seoul Nambu)', () => {
+  it('verifies institutions.json master contains 55 map-ready institutions including Seoul South address geocodes', () => {
     const institutionsPath = path.join(webDataDir, 'institutions.json');
     expect(fs.existsSync(institutionsPath)).toBe(true);
 
@@ -53,13 +53,16 @@ describe('Production Smoke Tests — Direct Inspection of web/public/web_data', 
       (inst: any) => inst.latitude === null && inst.longitude === null
     );
 
-    // Exactly 53 map-ready institutions, exactly 2 under review (null)
-    expect(withCoords).toHaveLength(53);
-    expect(nullCoords).toHaveLength(2);
+    expect(withCoords).toHaveLength(55);
+    expect(nullCoords).toHaveLength(0);
 
     // Specifically verify the two null coordinate institutions
     const nullNames = nullCoords.map((inst: any) => inst.name).sort();
-    expect(nullNames).toEqual(['서울남부교도소', '서울남부구치소']);
+    expect(nullNames).toEqual([]);
+    expect(institutions.find((i: any) => i.institution_id === 'KR_CORR_SEOUL_SOUTHERN_DETENTION'))
+      .toMatchObject({ latitude: 37.4771593, longitude: 126.8371928 });
+    expect(institutions.find((i: any) => i.institution_id === 'KR_CORR_SEOUL_SOUTHERN_PRISON'))
+      .toMatchObject({ latitude: 37.4770251553096, longitude: 126.837830132687 });
 
     // Verify coordinates are all valid within South Korea bounding box
     for (const inst of withCoords) {
@@ -75,7 +78,7 @@ describe('Production Smoke Tests — Direct Inspection of web/public/web_data', 
     }
   });
 
-  it('verifies data coverage: 28 data institutions have coordinates and 2 data institutions (Seoul Nambu) have null coordinates', () => {
+  it('verifies all data institutions have coordinates', () => {
     const manifestPath = path.join(webDataDir, 'manifest.json');
     const institutionsPath = path.join(webDataDir, 'institutions.json');
 
@@ -92,11 +95,11 @@ describe('Production Smoke Tests — Direct Inspection of web/public/web_data', 
       (inst: any) => dataIds.has(inst.institution_id) && inst.latitude === null
     );
 
-    expect(dataWithCoords.length).toBe(dataIds.size - 2);
-    expect(dataWithoutCoords).toHaveLength(2);
+    expect(dataWithCoords.length).toBe(dataIds.size);
+    expect(dataWithoutCoords).toHaveLength(0);
 
     const nullDataNames = dataWithoutCoords.map((i: any) => i.name).sort();
-    expect(nullDataNames).toEqual(['서울남부교도소', '서울남부구치소']);
+    expect(nullDataNames).toEqual([]);
   });
 
   it('verifies menu directory structure and zero-padded filenames for sample production institutions', () => {

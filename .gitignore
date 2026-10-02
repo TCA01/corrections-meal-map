@@ -17,6 +17,7 @@ data/*
 data/institutions/*
 !data/institutions/institutions.json
 !data/institutions/location_review.json
+!data/institutions/seoul_south_geocoding.json
 !data/github/
 !data/fixtures/
 web/tests/fixtures/web_data/backups/
