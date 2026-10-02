@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "institution_id": "KR_CORR_SEOUL_DETENTION",
+  "year": 2026,
+  "month": 8,
+  "is_mock_fixture": true,
+  "fixture_notice": "본 데이터는 Web MVP W1 프론트엔드 검증을 위해 생성된 개발용 Mock 데이터입니다.",
+  "days": {
+    "2026-08-10": {
+      "breakfast": [
+        {"name": "[테스트] 쌀밥"},
+        {"name": "[테스트] 얼갈이배추된장국"},
+        {"name": "[테스트] 비엔나소시지조림"},
+        {"name": "[테스트] 깍두기"}
+      ],
+      "lunch": [
+        {"name": "[테스트] 닭개장"},
+        {"name": "[테스트] 쌀밥"},
+        {"name": "[테스트] 청포묵무침"},
+        {"name": "[테스트] 배추김치"}
+      ],
+      "dinner": [
+        {"name": "[테스트] 흑미밥"},
+        {"name": "[테스트] 콩비지찌개"},
+        {"name": "[테스트] 연근조림"},
+        {"name": "[테스트] 열무김치"}
+      ]
+    },
+    "2026-08-11": {
+      "breakfast": [
+        {"name": "[테스트] 보리밥"},
+        {"name": "[테스트] 호박된장국"},
+        {"name": "[테스트] 맛살계란전"},
+        {"name": "[테스트] 배추김치"}
+      ],
+      "lunch": [
+        {"name": "[테스트] 김치볶음밥"},
+        {"name": "[테스트] 콩나물맑은국"},
+        {"name": "[테스트] 군만두"},
+        {"name": "[테스트] 깍두기"}
+      ],
+      "dinner": [
+        {"name": "[테스트] 쌀밥"},
+        {"name": "[테스트] 소고기미역국"},
+        {"name": "[테스트] 삼치데리야끼구이"},
+        {"name": "[테스트] 겉절이"}
+      ]
+    }
+  },
+  "sources": [
+    {
+      "source_id": "post-sample-seoul-202608",
+      "title": "서울구치소 2026년 8월 수용자 식단표",
+      "url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+      "published_at": "2026-07-29"
+    }
+  ]
+}

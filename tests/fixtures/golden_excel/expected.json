@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.0",
+  "documents": [
+    {
+      "post_id": "80193",
+      "attachment_id": "83160",
+      "expected_coverage": {"expected_days": 31, "expected_meal_slots": 93},
+      "expected": [
+        {"meal_date": "2026-10-04", "meal_type": "breakfast", "menu_items": ["조랭이떡어묵국"]},
+        {"meal_date": "2026-10-04", "meal_type": "lunch", "menu_items": ["유부된장국"]},
+        {"meal_date": "2026-10-04", "meal_type": "dinner", "menu_items": ["차돌감자탕"]}
+      ]
+    },
+    {
+      "post_id": "78599",
+      "attachment_id": "81253",
+      "expected_coverage": {"expected_days": 28, "expected_meal_slots": 84},
+      "expected": [
+        {"meal_date": "2026-02-02", "meal_type": "breakfast", "menu_items": ["쇠고기미역국", "햄채소볶음", "배추김치"]},
+        {"meal_date": "2026-02-02", "meal_type": "lunch", "menu_items": ["된장찌개", "돈육채소볶음", "무생채", "배추김치"]},
+        {"meal_date": "2026-02-02", "meal_type": "dinner", "menu_items": ["순두부찌개", "코다리강정", "양배추샐러드", "깍두기"]}
+      ]
+    },
+    {
+      "post_id": "47472",
+      "attachment_id": "46617",
+      "expected_coverage": {"expected_days": 31, "expected_meal_slots": 93},
+      "expected": [
+        {"meal_date": "2012-01-02", "meal_type": "breakfast", "menu_items": ["콩나물김치국", "깻잎지", "깍두기"]},
+        {"meal_date": "2012-01-02", "meal_type": "lunch", "menu_items": ["닭개장", "무생채", "생채소", "배추김치"]},
+        {"meal_date": "2012-01-02", "meal_type": "dinner", "menu_items": ["순두부국", "콩나물무침", "배추김치"]},
+        {"meal_date": "2012-01-06", "meal_type": "breakfast", "menu_items": ["감자수제비국", "콩조림", "배추김치"]},
+        {"meal_date": "2012-01-06", "meal_type": "lunch", "menu_items": ["김치찌개", "숙주맛살무침", "맛김", "깍두기"]},
+        {"meal_date": "2012-01-06", "meal_type": "dinner", "menu_items": ["근대국", "감자조림", "배추김치"]}
+      ]
+    },
+    {
+      "post_id": "76365",
+      "attachment_id": "78710",
+      "expected_coverage": {"expected_days": 30, "expected_meal_slots": 90},
+      "expected": [
+        {"meal_date": "2025-04-06", "meal_type": "breakfast", "menu_items": ["조랭이떡어묵국"]},
+        {"meal_date": "2025-04-06", "meal_type": "lunch", "menu_items": ["김치콩나물국"]},
+        {"meal_date": "2025-04-06", "meal_type": "dinner", "menu_items": ["달걀팟국"]}
+      ]
+    },
+    {
+      "post_id": "71247",
+      "attachment_id": "72800",
+      "expected_coverage": {"expected_days": 30, "expected_meal_slots": 90},
+      "expected": [
+        {"meal_date": "2022-09-05", "meal_type": "breakfast", "menu_items": ["미역국"]},
+        {"meal_date": "2022-09-05", "meal_type": "lunch", "menu_items": ["두부감자고추장국"]},
+        {"meal_date": "2022-09-05", "meal_type": "dinner", "menu_items": ["부대찌개"]}
+      ]
+    },
+    {
+      "post_id": "51939",
+      "attachment_id": "51264",
+      "expected_coverage": {"expected_days": 31, "expected_meal_slots": 93},
+      "expected": [
+        {"meal_date": "2014-10-01", "meal_type": "breakfast", "menu_items": ["콩나물국", "깻잎지", "배추김치"]},
+        {"meal_date": "2014-10-01", "meal_type": "lunch", "menu_items": ["육개장", "구운김", "얼갈이무침", "알타리김치"]},
+        {"meal_date": "2014-10-01", "meal_type": "dinner", "menu_items": ["호박된장국", "고추튀김", "야채튀김", "미역초무침", "배추김치"]}
+      ]
+    },
+    {
+      "post_id": "80157",
+      "attachment_id": "83123",
+      "expected_coverage": {"expected_days": 30, "expected_meal_slots": 90},
+      "expected": [
+        {"meal_date": "2026-09-01", "meal_type": "breakfast", "menu_items": ["북어무국", "조미김", "참치김치볶음"]},
+        {"meal_date": "2026-09-01", "meal_type": "lunch", "menu_items": ["쇠고기무국", "미트볼조림", "떠먹는발효유", "배추김치"]},
+        {"meal_date": "2026-09-01", "meal_type": "dinner", "menu_items": ["들깨미역국", "닭볶음", "땅콩조림", "배추김치"]}
+      ]
+    },
+    {
+      "post_id": "77300",
+      "attachment_id": "79758",
+      "expected_coverage": {"expected_days": 31, "expected_meal_slots": 93},
+      "expected": [
+        {"meal_date": "2025-08-01", "meal_type": "breakfast", "menu_items": ["소고기미역국", "비엔나조림", "김치"]},
+        {"meal_date": "2025-08-01", "meal_type": "lunch", "menu_items": ["채소된장국", "김치닭볶음탕", "오이지무침", "깍두기"]},
+        {"meal_date": "2025-08-01", "meal_type": "dinner", "menu_items": ["버섯찌개", "감자조림", "땅콩조림", "김치"]}
+      ]
+    },
+    {
+      "post_id": "77113",
+      "attachment_id": "79519",
+      "expected_coverage": {"expected_days": 31, "expected_meal_slots": 93},
+      "expected": [
+        {"meal_date": "2025-07-07", "meal_type": "breakfast", "menu_items": ["생선묵국", "김치볶음", "구운김(2장)", "깍두기"]},
+        {"meal_date": "2025-07-07", "meal_type": "lunch", "menu_items": ["애호박수제비국", "두부조림", "풋고추된장", "배추김치"]},
+        {"meal_date": "2025-07-07", "meal_type": "dinner", "menu_items": ["순두부계란국", "가자미구이", "감자조림", "배추김치"]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3130 @@
+{
+  "schema_version": "1.0",
+  "institution_id": "KR_CORR_DAEGU_DETENTION",
+  "year": 2023,
+  "month": 8,
+  "days": {
+    "2023-08-06": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "종합어묵국",
+            "raw_text": "종합어묵국"
+          },
+          {
+            "name": "무말랭이무침",
+            "raw_text": "무말랭이무침"
+          },
+          {
+            "name": "마늘장아찌",
+            "raw_text": "마늘장아찌"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "메밀국수",
+            "raw_text": "메밀국수"
+          },
+          {
+            "name": "삶은달걀",
+            "raw_text": "삶은달걀"
+          },
+          {
+            "name": "채소튀김&초간장",
+            "raw_text": "채소튀김&초간장"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "두부국",
+            "raw_text": "두부국"
+          },
+          {
+            "name": "돈육김치볶음",
+            "raw_text": "돈육김치볶음"
+          },
+          {
+            "name": "오이고추&쌈장",
+            "raw_text": "오이고추&쌈장"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-13": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "종합어묵국",
+            "raw_text": "종합어묵국"
+          },
+          {
+            "name": "무말랭이무침",
+            "raw_text": "무말랭이무침"
+          },
+          {
+            "name": "마늘장아찌",
+            "raw_text": "마늘장아찌"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "메밀국수",
+            "raw_text": "메밀국수"
+          },
+          {
+            "name": "삶은달걀",
+            "raw_text": "삶은달걀"
+          },
+          {
+            "name": "채소튀김&초간장",
+            "raw_text": "채소튀김&초간장"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "두부국",
+            "raw_text": "두부국"
+          },
+          {
+            "name": "돈육김치볶음",
+            "raw_text": "돈육김치볶음"
+          },
+          {
+            "name": "오이고추&쌈장",
+            "raw_text": "오이고추&쌈장"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-20": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "종합어묵국",
+            "raw_text": "종합어묵국"
+          },
+          {
+            "name": "무말랭이무침",
+            "raw_text": "무말랭이무침"
+          },
+          {
+            "name": "마늘장아찌",
+            "raw_text": "마늘장아찌"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "메밀국수",
+            "raw_text": "메밀국수"
+          },
+          {
+            "name": "삶은달걀",
+            "raw_text": "삶은달걀"
+          },
+          {
+            "name": "채소튀김&초간장",
+            "raw_text": "채소튀김&초간장"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "두부국",
+            "raw_text": "두부국"
+          },
+          {
+            "name": "돈육김치볶음",
+            "raw_text": "돈육김치볶음"
+          },
+          {
+            "name": "오이고추&쌈장",
+            "raw_text": "오이고추&쌈장"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-27": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "종합어묵국",
+            "raw_text": "종합어묵국"
+          },
+          {
+            "name": "무말랭이무침",
+            "raw_text": "무말랭이무침"
+          },
+          {
+            "name": "마늘장아찌",
+            "raw_text": "마늘장아찌"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "메밀국수",
+            "raw_text": "메밀국수"
+          },
+          {
+            "name": "삶은달걀",
+            "raw_text": "삶은달걀"
+          },
+          {
+            "name": "채소튀김&초간장",
+            "raw_text": "채소튀김&초간장"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "두부국",
+            "raw_text": "두부국"
+          },
+          {
+            "name": "돈육김치볶음",
+            "raw_text": "돈육김치볶음"
+          },
+          {
+            "name": "오이고추&쌈장",
+            "raw_text": "오이고추&쌈장"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-07": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "감자호박국",
+            "raw_text": "감자호박국"
+          },
+          {
+            "name": "비엔나양파볶음",
+            "raw_text": "비엔나양파볶음"
+          },
+          {
+            "name": "김자반",
+            "raw_text": "김자반"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "순두부국",
+            "raw_text": "순두부국"
+          },
+          {
+            "name": "생선까스&타타르소스",
+            "raw_text": "생선까스&타타르소스"
+          },
+          {
+            "name": "채소샐러드",
+            "raw_text": "채소샐러드"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "콩나물무국",
+            "raw_text": "콩나물무국"
+          },
+          {
+            "name": "감자닭고기조림",
+            "raw_text": "감자닭고기조림"
+          },
+          {
+            "name": "오이양파무침",
+            "raw_text": "오이양파무침"
+          },
+          {
+            "name": "열무김치",
+            "raw_text": "열무김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-14": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "감자호박국",
+            "raw_text": "감자호박국"
+          },
+          {
+            "name": "비엔나양파볶음",
+            "raw_text": "비엔나양파볶음"
+          },
+          {
+            "name": "김자반",
+            "raw_text": "김자반"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "순두부국",
+            "raw_text": "순두부국"
+          },
+          {
+            "name": "생선까스&타타르소스",
+            "raw_text": "생선까스&타타르소스"
+          },
+          {
+            "name": "채소샐러드",
+            "raw_text": "채소샐러드"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "콩나물무국",
+            "raw_text": "콩나물무국"
+          },
+          {
+            "name": "감자닭고기조림",
+            "raw_text": "감자닭고기조림"
+          },
+          {
+            "name": "오이양파무침",
+            "raw_text": "오이양파무침"
+          },
+          {
+            "name": "열무김치",
+            "raw_text": "열무김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-21": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "감자호박국",
+            "raw_text": "감자호박국"
+          },
+          {
+            "name": "비엔나양파볶음",
+            "raw_text": "비엔나양파볶음"
+          },
+          {
+            "name": "김자반",
+            "raw_text": "김자반"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "순두부국",
+            "raw_text": "순두부국"
+          },
+          {
+            "name": "생선까스&타타르소스",
+            "raw_text": "생선까스&타타르소스"
+          },
+          {
+            "name": "채소샐러드",
+            "raw_text": "채소샐러드"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "콩나물무국",
+            "raw_text": "콩나물무국"
+          },
+          {
+            "name": "감자닭고기조림",
+            "raw_text": "감자닭고기조림"
+          },
+          {
+            "name": "오이양파무침",
+            "raw_text": "오이양파무침"
+          },
+          {
+            "name": "열무김치",
+            "raw_text": "열무김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-28": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "감자호박국",
+            "raw_text": "감자호박국"
+          },
+          {
+            "name": "비엔나양파볶음",
+            "raw_text": "비엔나양파볶음"
+          },
+          {
+            "name": "김자반",
+            "raw_text": "김자반"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "순두부국",
+            "raw_text": "순두부국"
+          },
+          {
+            "name": "생선까스&타타르소스",
+            "raw_text": "생선까스&타타르소스"
+          },
+          {
+            "name": "채소샐러드",
+            "raw_text": "채소샐러드"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "콩나물무국",
+            "raw_text": "콩나물무국"
+          },
+          {
+            "name": "감자닭고기조림",
+            "raw_text": "감자닭고기조림"
+          },
+          {
+            "name": "오이양파무침",
+            "raw_text": "오이양파무침"
+          },
+          {
+            "name": "열무김치",
+            "raw_text": "열무김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-01": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "참치미역국",
+            "raw_text": "참치미역국"
+          },
+          {
+            "name": "완자어묵조림",
+            "raw_text": "완자어묵조림"
+          },
+          {
+            "name": "깻잎지무침",
+            "raw_text": "깻잎지무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "유부장국",
+            "raw_text": "유부장국"
+          },
+          {
+            "name": "소고기덮(밥)",
+            "raw_text": "소고기덮(밥)"
+          },
+          {
+            "name": "달걀부침",
+            "raw_text": "달걀부침"
+          },
+          {
+            "name": "단무지",
+            "raw_text": "단무지"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "배추국",
+            "raw_text": "배추국"
+          },
+          {
+            "name": "돈육볶음",
+            "raw_text": "돈육볶음"
+          },
+          {
+            "name": "간장고추무침",
+            "raw_text": "간장고추무침"
+          },
+          {
+            "name": "양파장아찌",
+            "raw_text": "양파장아찌"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-08": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "참치미역국",
+            "raw_text": "참치미역국"
+          },
+          {
+            "name": "완자어묵조림",
+            "raw_text": "완자어묵조림"
+          },
+          {
+            "name": "깻잎지무침",
+            "raw_text": "깻잎지무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "유부장국",
+            "raw_text": "유부장국"
+          },
+          {
+            "name": "소고기덮(밥)",
+            "raw_text": "소고기덮(밥)"
+          },
+          {
+            "name": "달걀부침",
+            "raw_text": "달걀부침"
+          },
+          {
+            "name": "단무지",
+            "raw_text": "단무지"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "배추국",
+            "raw_text": "배추국"
+          },
+          {
+            "name": "돈육볶음",
+            "raw_text": "돈육볶음"
+          },
+          {
+            "name": "간장고추무침",
+            "raw_text": "간장고추무침"
+          },
+          {
+            "name": "양파장아찌",
+            "raw_text": "양파장아찌"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-15": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "참치미역국",
+            "raw_text": "참치미역국"
+          },
+          {
+            "name": "완자어묵조림",
+            "raw_text": "완자어묵조림"
+          },
+          {
+            "name": "깻잎지무침",
+            "raw_text": "깻잎지무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "유부장국",
+            "raw_text": "유부장국"
+          },
+          {
+            "name": "소고기덮(밥)",
+            "raw_text": "소고기덮(밥)"
+          },
+          {
+            "name": "달걀부침",
+            "raw_text": "달걀부침"
+          },
+          {
+            "name": "단무지",
+            "raw_text": "단무지"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "배추국",
+            "raw_text": "배추국"
+          },
+          {
+            "name": "돈육볶음",
+            "raw_text": "돈육볶음"
+          },
+          {
+            "name": "간장고추무침",
+            "raw_text": "간장고추무침"
+          },
+          {
+            "name": "양파장아찌",
+            "raw_text": "양파장아찌"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-22": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "참치미역국",
+            "raw_text": "참치미역국"
+          },
+          {
+            "name": "완자어묵조림",
+            "raw_text": "완자어묵조림"
+          },
+          {
+            "name": "깻잎지무침",
+            "raw_text": "깻잎지무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "유부장국",
+            "raw_text": "유부장국"
+          },
+          {
+            "name": "소고기덮(밥)",
+            "raw_text": "소고기덮(밥)"
+          },
+          {
+            "name": "달걀부침",
+            "raw_text": "달걀부침"
+          },
+          {
+            "name": "단무지",
+            "raw_text": "단무지"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "배추국",
+            "raw_text": "배추국"
+          },
+          {
+            "name": "돈육볶음",
+            "raw_text": "돈육볶음"
+          },
+          {
+            "name": "간장고추무침",
+            "raw_text": "간장고추무침"
+          },
+          {
+            "name": "양파장아찌",
+            "raw_text": "양파장아찌"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-29": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "참치미역국",
+            "raw_text": "참치미역국"
+          },
+          {
+            "name": "완자어묵조림",
+            "raw_text": "완자어묵조림"
+          },
+          {
+            "name": "깻잎지무침",
+            "raw_text": "깻잎지무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "유부장국",
+            "raw_text": "유부장국"
+          },
+          {
+            "name": "소고기덮(밥)",
+            "raw_text": "소고기덮(밥)"
+          },
+          {
+            "name": "달걀부침",
+            "raw_text": "달걀부침"
+          },
+          {
+            "name": "단무지",
+            "raw_text": "단무지"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "배추국",
+            "raw_text": "배추국"
+          },
+          {
+            "name": "돈육볶음",
+            "raw_text": "돈육볶음"
+          },
+          {
+            "name": "간장고추무침",
+            "raw_text": "간장고추무침"
+          },
+          {
+            "name": "양파장아찌",
+            "raw_text": "양파장아찌"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-02": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "햄채소국",
+            "raw_text": "햄채소국"
+          },
+          {
+            "name": "검정콩조림",
+            "raw_text": "검정콩조림"
+          },
+          {
+            "name": "마늘쫑마늘무침",
+            "raw_text": "마늘쫑마늘무침"
+          },
+          {
+            "name": "열무김치",
+            "raw_text": "열무김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "냉국",
+            "raw_text": "냉국"
+          },
+          {
+            "name": "오징어채소무침",
+            "raw_text": "오징어채소무침"
+          },
+          {
+            "name": "무말랭이무침",
+            "raw_text": "무말랭이무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "김치수제비국",
+            "raw_text": "김치수제비국"
+          },
+          {
+            "name": "비엔나구이&머스터드",
+            "raw_text": "비엔나구이&머스터드"
+          },
+          {
+            "name": "얼갈이배추무침",
+            "raw_text": "얼갈이배추무침"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-09": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "햄채소국",
+            "raw_text": "햄채소국"
+          },
+          {
+            "name": "검정콩조림",
+            "raw_text": "검정콩조림"
+          },
+          {
+            "name": "마늘쫑마늘무침",
+            "raw_text": "마늘쫑마늘무침"
+          },
+          {
+            "name": "열무김치",
+            "raw_text": "열무김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "냉국",
+            "raw_text": "냉국"
+          },
+          {
+            "name": "오징어채소무침",
+            "raw_text": "오징어채소무침"
+          },
+          {
+            "name": "무말랭이무침",
+            "raw_text": "무말랭이무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "김치수제비국",
+            "raw_text": "김치수제비국"
+          },
+          {
+            "name": "비엔나구이&머스터드",
+            "raw_text": "비엔나구이&머스터드"
+          },
+          {
+            "name": "얼갈이배추무침",
+            "raw_text": "얼갈이배추무침"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-16": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "햄채소국",
+            "raw_text": "햄채소국"
+          },
+          {
+            "name": "검정콩조림",
+            "raw_text": "검정콩조림"
+          },
+          {
+            "name": "마늘쫑마늘무침",
+            "raw_text": "마늘쫑마늘무침"
+          },
+          {
+            "name": "열무김치",
+            "raw_text": "열무김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "냉국",
+            "raw_text": "냉국"
+          },
+          {
+            "name": "오징어채소무침",
+            "raw_text": "오징어채소무침"
+          },
+          {
+            "name": "무말랭이무침",
+            "raw_text": "무말랭이무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "김치수제비국",
+            "raw_text": "김치수제비국"
+          },
+          {
+            "name": "비엔나구이&머스터드",
+            "raw_text": "비엔나구이&머스터드"
+          },
+          {
+            "name": "얼갈이배추무침",
+            "raw_text": "얼갈이배추무침"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-23": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "햄채소국",
+            "raw_text": "햄채소국"
+          },
+          {
+            "name": "검정콩조림",
+            "raw_text": "검정콩조림"
+          },
+          {
+            "name": "마늘쫑마늘무침",
+            "raw_text": "마늘쫑마늘무침"
+          },
+          {
+            "name": "열무김치",
+            "raw_text": "열무김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "냉국",
+            "raw_text": "냉국"
+          },
+          {
+            "name": "오징어채소무침",
+            "raw_text": "오징어채소무침"
+          },
+          {
+            "name": "무말랭이무침",
+            "raw_text": "무말랭이무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "김치수제비국",
+            "raw_text": "김치수제비국"
+          },
+          {
+            "name": "비엔나구이&머스터드",
+            "raw_text": "비엔나구이&머스터드"
+          },
+          {
+            "name": "얼갈이배추무침",
+            "raw_text": "얼갈이배추무침"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-30": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "햄채소국",
+            "raw_text": "햄채소국"
+          },
+          {
+            "name": "검정콩조림",
+            "raw_text": "검정콩조림"
+          },
+          {
+            "name": "마늘쫑마늘무침",
+            "raw_text": "마늘쫑마늘무침"
+          },
+          {
+            "name": "열무김치",
+            "raw_text": "열무김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "냉국",
+            "raw_text": "냉국"
+          },
+          {
+            "name": "오징어채소무침",
+            "raw_text": "오징어채소무침"
+          },
+          {
+            "name": "무말랭이무침",
+            "raw_text": "무말랭이무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "김치수제비국",
+            "raw_text": "김치수제비국"
+          },
+          {
+            "name": "비엔나구이&머스터드",
+            "raw_text": "비엔나구이&머스터드"
+          },
+          {
+            "name": "얼갈이배추무침",
+            "raw_text": "얼갈이배추무침"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-03": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "콩나물국",
+            "raw_text": "콩나물국"
+          },
+          {
+            "name": "멸치꽈리볶음",
+            "raw_text": "멸치꽈리볶음"
+          },
+          {
+            "name": "오복채무침",
+            "raw_text": "오복채무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "짬뽕국",
+            "raw_text": "짬뽕국"
+          },
+          {
+            "name": "찹쌀탕수육&소스",
+            "raw_text": "찹쌀탕수육&소스"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "된장국",
+            "raw_text": "된장국"
+          },
+          {
+            "name": "미트볼조림",
+            "raw_text": "미트볼조림"
+          },
+          {
+            "name": "열무무침",
+            "raw_text": "열무무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-10": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "콩나물국",
+            "raw_text": "콩나물국"
+          },
+          {
+            "name": "멸치꽈리볶음",
+            "raw_text": "멸치꽈리볶음"
+          },
+          {
+            "name": "오복채무침",
+            "raw_text": "오복채무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "짬뽕국",
+            "raw_text": "짬뽕국"
+          },
+          {
+            "name": "찹쌀탕수육&소스",
+            "raw_text": "찹쌀탕수육&소스"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "된장국",
+            "raw_text": "된장국"
+          },
+          {
+            "name": "미트볼조림",
+            "raw_text": "미트볼조림"
+          },
+          {
+            "name": "열무무침",
+            "raw_text": "열무무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-17": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "콩나물국",
+            "raw_text": "콩나물국"
+          },
+          {
+            "name": "멸치꽈리볶음",
+            "raw_text": "멸치꽈리볶음"
+          },
+          {
+            "name": "오복채무침",
+            "raw_text": "오복채무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "짬뽕국",
+            "raw_text": "짬뽕국"
+          },
+          {
+            "name": "찹쌀탕수육&소스",
+            "raw_text": "찹쌀탕수육&소스"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "된장국",
+            "raw_text": "된장국"
+          },
+          {
+            "name": "미트볼조림",
+            "raw_text": "미트볼조림"
+          },
+          {
+            "name": "열무무침",
+            "raw_text": "열무무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-24": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "콩나물국",
+            "raw_text": "콩나물국"
+          },
+          {
+            "name": "멸치꽈리볶음",
+            "raw_text": "멸치꽈리볶음"
+          },
+          {
+            "name": "오복채무침",
+            "raw_text": "오복채무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "짬뽕국",
+            "raw_text": "짬뽕국"
+          },
+          {
+            "name": "찹쌀탕수육&소스",
+            "raw_text": "찹쌀탕수육&소스"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "된장국",
+            "raw_text": "된장국"
+          },
+          {
+            "name": "미트볼조림",
+            "raw_text": "미트볼조림"
+          },
+          {
+            "name": "열무무침",
+            "raw_text": "열무무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-31": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "콩나물국",
+            "raw_text": "콩나물국"
+          },
+          {
+            "name": "멸치꽈리볶음",
+            "raw_text": "멸치꽈리볶음"
+          },
+          {
+            "name": "오복채무침",
+            "raw_text": "오복채무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "짬뽕국",
+            "raw_text": "짬뽕국"
+          },
+          {
+            "name": "찹쌀탕수육&소스",
+            "raw_text": "찹쌀탕수육&소스"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "된장국",
+            "raw_text": "된장국"
+          },
+          {
+            "name": "미트볼조림",
+            "raw_text": "미트볼조림"
+          },
+          {
+            "name": "열무무침",
+            "raw_text": "열무무침"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-04": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "참치김치국",
+            "raw_text": "참치김치국"
+          },
+          {
+            "name": "메추리알곤약조림",
+            "raw_text": "메추리알곤약조림"
+          },
+          {
+            "name": "고들빼기무침",
+            "raw_text": "고들빼기무침"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "쇠고기미역국",
+            "raw_text": "쇠고기미역국"
+          },
+          {
+            "name": "가자미구이",
+            "raw_text": "가자미구이"
+          },
+          {
+            "name": "호박새우젓볶음",
+            "raw_text": "호박새우젓볶음"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "근대국",
+            "raw_text": "근대국"
+          },
+          {
+            "name": "오징어볶음",
+            "raw_text": "오징어볶음"
+          },
+          {
+            "name": "땅콩우엉조림",
+            "raw_text": "땅콩우엉조림"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-11": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "참치김치국",
+            "raw_text": "참치김치국"
+          },
+          {
+            "name": "메추리알곤약조림",
+            "raw_text": "메추리알곤약조림"
+          },
+          {
+            "name": "고들빼기무침",
+            "raw_text": "고들빼기무침"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "쇠고기미역국",
+            "raw_text": "쇠고기미역국"
+          },
+          {
+            "name": "가자미구이",
+            "raw_text": "가자미구이"
+          },
+          {
+            "name": "호박새우젓볶음",
+            "raw_text": "호박새우젓볶음"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "근대국",
+            "raw_text": "근대국"
+          },
+          {
+            "name": "오징어볶음",
+            "raw_text": "오징어볶음"
+          },
+          {
+            "name": "땅콩우엉조림",
+            "raw_text": "땅콩우엉조림"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-18": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "참치김치국",
+            "raw_text": "참치김치국"
+          },
+          {
+            "name": "메추리알곤약조림",
+            "raw_text": "메추리알곤약조림"
+          },
+          {
+            "name": "고들빼기무침",
+            "raw_text": "고들빼기무침"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "쇠고기미역국",
+            "raw_text": "쇠고기미역국"
+          },
+          {
+            "name": "가자미구이",
+            "raw_text": "가자미구이"
+          },
+          {
+            "name": "호박새우젓볶음",
+            "raw_text": "호박새우젓볶음"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "근대국",
+            "raw_text": "근대국"
+          },
+          {
+            "name": "오징어볶음",
+            "raw_text": "오징어볶음"
+          },
+          {
+            "name": "땅콩우엉조림",
+            "raw_text": "땅콩우엉조림"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-25": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "참치김치국",
+            "raw_text": "참치김치국"
+          },
+          {
+            "name": "메추리알곤약조림",
+            "raw_text": "메추리알곤약조림"
+          },
+          {
+            "name": "고들빼기무침",
+            "raw_text": "고들빼기무침"
+          },
+          {
+            "name": "깍두기",
+            "raw_text": "깍두기"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "쇠고기미역국",
+            "raw_text": "쇠고기미역국"
+          },
+          {
+            "name": "가자미구이",
+            "raw_text": "가자미구이"
+          },
+          {
+            "name": "호박새우젓볶음",
+            "raw_text": "호박새우젓볶음"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "근대국",
+            "raw_text": "근대국"
+          },
+          {
+            "name": "오징어볶음",
+            "raw_text": "오징어볶음"
+          },
+          {
+            "name": "땅콩우엉조림",
+            "raw_text": "땅콩우엉조림"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-05": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "스프",
+            "raw_text": "스프"
+          },
+          {
+            "name": "모닝빵&쨈",
+            "raw_text": "모닝빵&쨈"
+          },
+          {
+            "name": "채소샐러드",
+            "raw_text": "채소샐러드"
+          },
+          {
+            "name": "우유",
+            "raw_text": "우유"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "닭고기국",
+            "raw_text": "닭고기국"
+          },
+          {
+            "name": "콩나물무나물",
+            "raw_text": "콩나물무나물"
+          },
+          {
+            "name": "김자반",
+            "raw_text": "김자반"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "팽이달걀국",
+            "raw_text": "팽이달걀국"
+          },
+          {
+            "name": "짜장",
+            "raw_text": "짜장"
+          },
+          {
+            "name": "찹쌀꽈배기",
+            "raw_text": "찹쌀꽈배기"
+          },
+          {
+            "name": "단무지",
+            "raw_text": "단무지"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-12": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "스프",
+            "raw_text": "스프"
+          },
+          {
+            "name": "모닝빵&쨈",
+            "raw_text": "모닝빵&쨈"
+          },
+          {
+            "name": "채소샐러드",
+            "raw_text": "채소샐러드"
+          },
+          {
+            "name": "우유",
+            "raw_text": "우유"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "닭고기국",
+            "raw_text": "닭고기국"
+          },
+          {
+            "name": "콩나물무나물",
+            "raw_text": "콩나물무나물"
+          },
+          {
+            "name": "김자반",
+            "raw_text": "김자반"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "팽이달걀국",
+            "raw_text": "팽이달걀국"
+          },
+          {
+            "name": "짜장",
+            "raw_text": "짜장"
+          },
+          {
+            "name": "찹쌀꽈배기",
+            "raw_text": "찹쌀꽈배기"
+          },
+          {
+            "name": "단무지",
+            "raw_text": "단무지"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-19": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "스프",
+            "raw_text": "스프"
+          },
+          {
+            "name": "모닝빵&쨈",
+            "raw_text": "모닝빵&쨈"
+          },
+          {
+            "name": "채소샐러드",
+            "raw_text": "채소샐러드"
+          },
+          {
+            "name": "우유",
+            "raw_text": "우유"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "닭고기국",
+            "raw_text": "닭고기국"
+          },
+          {
+            "name": "콩나물무나물",
+            "raw_text": "콩나물무나물"
+          },
+          {
+            "name": "김자반",
+            "raw_text": "김자반"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "팽이달걀국",
+            "raw_text": "팽이달걀국"
+          },
+          {
+            "name": "짜장",
+            "raw_text": "짜장"
+          },
+          {
+            "name": "찹쌀꽈배기",
+            "raw_text": "찹쌀꽈배기"
+          },
+          {
+            "name": "단무지",
+            "raw_text": "단무지"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    },
+    "2023-08-26": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "스프",
+            "raw_text": "스프"
+          },
+          {
+            "name": "모닝빵&쨈",
+            "raw_text": "모닝빵&쨈"
+          },
+          {
+            "name": "채소샐러드",
+            "raw_text": "채소샐러드"
+          },
+          {
+            "name": "우유",
+            "raw_text": "우유"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "닭고기국",
+            "raw_text": "닭고기국"
+          },
+          {
+            "name": "콩나물무나물",
+            "raw_text": "콩나물무나물"
+          },
+          {
+            "name": "김자반",
+            "raw_text": "김자반"
+          },
+          {
+            "name": "배추김치",
+            "raw_text": "배추김치"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "팽이달걀국",
+            "raw_text": "팽이달걀국"
+          },
+          {
+            "name": "짜장",
+            "raw_text": "짜장"
+          },
+          {
+            "name": "찹쌀꽈배기",
+            "raw_text": "찹쌀꽈배기"
+          },
+          {
+            "name": "단무지",
+            "raw_text": "단무지"
+          }
+        ],
+        "source_document_id": "71612-73218",
+        "source_document_ids": [
+          "71612-73218"
+        ],
+        "source": {
+          "document_id": "71612-73218",
+          "post_id": "71612",
+          "attachment_id": "73218",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+          "original_filename": "8월 수용자 식단표.xlsx",
+          "published_date": "2023-08-14"
+        }
+      }
+    }
+  },
+  "sources": [
+    {
+      "document_id": "71612-73218",
+      "post_id": "71612",
+      "attachment_id": "73218",
+      "post_url": "https://www.corrections.go.kr/policyOpen/corrections/71612/artclView.do",
+      "download_url": "https://www.corrections.go.kr/policyOpen/corrections/73218/download.do",
+      "original_filename": "8월 수용자 식단표.xlsx",
+      "published_date": "2023-08-14"
+    }
+  ]
+}

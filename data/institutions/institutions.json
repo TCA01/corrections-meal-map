@@ -1,0 +1,1028 @@
+[
+  {
+    "institution_id": "KR_CORR_SEOUL_DETENTION",
+    "canonical_name": "서울구치소",
+    "short_name": "서울구",
+    "institution_type": "detention_center",
+    "aliases": [
+      "서울(구)",
+      "서울구",
+      "서울구치소"
+    ],
+    "address": "경기도 의왕시 안양판교로 143 (포일동) 경기도 군포우체국 사서함 20호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "16001",
+    "phone": "031-423-6100",
+    "latitude": 37.3963082,
+    "longitude": 126.9878874
+  },
+  {
+    "institution_id": "KR_CORR_ANYANG_PRISON",
+    "canonical_name": "안양교도소",
+    "short_name": "안양교",
+    "institution_type": "prison",
+    "aliases": [
+      "안양(교)",
+      "안양교",
+      "안양교도소"
+    ],
+    "address": "경기도 안양시 동안구 경수대로508번길 42 (호계동) 경기도 안양우체국 사서함 101호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "14122",
+    "phone": "031-452-2181",
+    "latitude": 37.3700515,
+    "longitude": 126.9604347
+  },
+  {
+    "institution_id": "KR_CORR_SUWON_DETENTION",
+    "canonical_name": "수원구치소",
+    "short_name": "수원구",
+    "institution_type": "detention_center",
+    "aliases": [
+      "수원(구)",
+      "수원구",
+      "수원구치소"
+    ],
+    "address": "경기도 수원시 팔달구 팔달문로 176 (우만동) 경기도 수원우체국 사서함 17호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "16492",
+    "phone": "031-217-7101",
+    "latitude": 37.2822916,
+    "longitude": 127.0340907
+  },
+  {
+    "institution_id": "KR_CORR_SEOUL_EASTERN_DETENTION",
+    "canonical_name": "서울동부구치소",
+    "short_name": "서울동부구",
+    "institution_type": "detention_center",
+    "aliases": [
+      "서울동(구)",
+      "서울동부(구)",
+      "서울동부구",
+      "서울동부구치소",
+      "서울동부구치소 (구)성동구치소",
+      "성동구치소"
+    ],
+    "address": "서울특별시 송파구 정의로 37(문정동) 서울시 송파우체국 사서함 177호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "05857",
+    "phone": "02-402-9131",
+    "latitude": 37.48255,
+    "longitude": 127.115774
+  },
+  {
+    "institution_id": "KR_CORR_INCHEON_DETENTION",
+    "canonical_name": "인천구치소",
+    "short_name": "인천구",
+    "institution_type": "detention_center",
+    "aliases": [
+      "인천(구)",
+      "인천구",
+      "인천구치소"
+    ],
+    "address": "인천광역시 미추홀구 학익소로 30 (학익동) 인천광역시 남인천우체국사서함343호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "22220",
+    "phone": "032-868-8771",
+    "latitude": 37.4437958,
+    "longitude": 126.6653902
+  },
+  {
+    "institution_id": "KR_CORR_SEOUL_SOUTHERN_DETENTION",
+    "canonical_name": "서울남부구치소",
+    "short_name": "서울남부구",
+    "institution_type": "detention_center",
+    "aliases": [
+      "서울남(구)",
+      "서울남부(구)",
+      "서울남부구",
+      "서울남부구치소"
+    ],
+    "address": "서울특별시 구로구 금오로 865 (천왕동) 서울시 구로우체국 사서함 164",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "08367",
+    "phone": "02-2105-0391",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "institution_id": "KR_CORR_HWASEONG_VOCATIONAL_PRISON",
+    "canonical_name": "화성직업훈련교도소",
+    "short_name": "화성직업훈련교",
+    "institution_type": "prison",
+    "aliases": [
+      "화성(직)",
+      "화성(직훈)",
+      "화성직업 훈련교도소",
+      "화성직업(교)",
+      "화성직업훈련(교)",
+      "화성직업훈련교",
+      "화성직업훈련교도소"
+    ],
+    "address": "경기도 화성시 마도면 화성로 741 경기도 화성시 화성우체국 사서함 3호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "18539",
+    "phone": "031-357-9400",
+    "latitude": 37.208232,
+    "longitude": 126.770338
+  },
+  {
+    "institution_id": "KR_CORR_YEOJU_PRISON",
+    "canonical_name": "여주교도소",
+    "short_name": "여주교",
+    "institution_type": "prison",
+    "aliases": [
+      "여주(교)",
+      "여주교",
+      "여주교도소"
+    ],
+    "address": "경기도 여주시 가남읍 양화로 107 경기도 여주우체국사서함30호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "12655",
+    "phone": "031-884-7800",
+    "latitude": 37.2352916,
+    "longitude": 127.5424224
+  },
+  {
+    "institution_id": "KR_CORR_UIJEONGBU_PRISON",
+    "canonical_name": "의정부교도소",
+    "short_name": "의정부교",
+    "institution_type": "prison",
+    "aliases": [
+      "의정부(교)",
+      "의정부교",
+      "의정부교도소"
+    ],
+    "address": "경기도 의정부시 송산로 1111-76 (고산동) 경기도 의정부우체국 사서함 99호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "11797",
+    "phone": "031-850-1000",
+    "latitude": 37.7235784,
+    "longitude": 127.0895259
+  },
+  {
+    "institution_id": "KR_CORR_SEOUL_SOUTHERN_PRISON",
+    "canonical_name": "서울남부교도소",
+    "short_name": "서울남부교",
+    "institution_type": "prison",
+    "aliases": [
+      "서울남(교)",
+      "서울남부(교)",
+      "서울남부교",
+      "서울남부교도소"
+    ],
+    "address": "서울특별시 구로구 금오로 867 (천왕동) 서울시 구로우체국 사서함 165",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "08367",
+    "phone": "02-2083-0200",
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "institution_id": "KR_CORR_CHUNCHEON_PRISON",
+    "canonical_name": "춘천교도소",
+    "short_name": "춘천교",
+    "institution_type": "prison",
+    "aliases": [
+      "춘천(교)",
+      "춘천교",
+      "춘천교도소"
+    ],
+    "address": "강원특별자치도 춘천시 동내면 신촌양지길 5 강원특별자치도 춘천시 춘천우체국 사서함 69호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "24406",
+    "phone": "033-262-1332",
+    "latitude": 37.84935,
+    "longitude": 127.7577
+  },
+  {
+    "institution_id": "KR_CORR_WONJU_PRISON",
+    "canonical_name": "원주교도소",
+    "short_name": "원주교",
+    "institution_type": "prison",
+    "aliases": [
+      "원주(교)",
+      "원주교",
+      "원주교도소"
+    ],
+    "address": "강원특별자치도 원주시 북원로 2155 (무실동) 강원특별자치도 원주우체국 사서함 87호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "26383",
+    "phone": "033-741-4800",
+    "latitude": 37.3402053,
+    "longitude": 127.925777
+  },
+  {
+    "institution_id": "KR_CORR_GANGNEUNG_PRISON",
+    "canonical_name": "강릉교도소",
+    "short_name": "강릉교",
+    "institution_type": "prison",
+    "aliases": [
+      "강릉(교)",
+      "강릉교",
+      "강릉교도소"
+    ],
+    "address": "강원특별자치도 강릉시 공제로 413-15 (홍제동) 강릉시 강릉우체국 사서함 43호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "25522",
+    "phone": "033-649-8100",
+    "latitude": 37.7468289,
+    "longitude": 128.864212
+  },
+  {
+    "institution_id": "KR_CORR_YEONGWOL_PRISON",
+    "canonical_name": "영월교도소",
+    "short_name": "영월교",
+    "institution_type": "prison",
+    "aliases": [
+      "영월(교)",
+      "영월교",
+      "영월교도소"
+    ],
+    "address": "강원특별자치도 영월군 영월읍 팔괴로 110-27 강원특별자치도 영월군 영월우체국 사서함 2호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "26240",
+    "phone": "033-372-1730",
+    "latitude": 37.1654807,
+    "longitude": 128.4581914
+  },
+  {
+    "institution_id": "KR_CORR_GANGWON_NORTHERN_PRISON",
+    "canonical_name": "강원북부교도소",
+    "short_name": "강원북부교",
+    "institution_type": "prison",
+    "aliases": [
+      "강원(교)",
+      "강원교",
+      "강원북부(교)",
+      "강원북부교",
+      "강원북부교도소"
+    ],
+    "address": "강원특별자치도 속초시 동해대로 4511번길 13 강원특별자치도 속초시 속초우체국 사서함 2호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "24802",
+    "phone": "033-634-7114",
+    "latitude": 38.2149,
+    "longitude": 128.5606
+  },
+  {
+    "institution_id": "KR_CORR_PYEONGTAEK_BRANCH",
+    "canonical_name": "수원구치소평택지소",
+    "short_name": "평택지소",
+    "institution_type": "branch",
+    "aliases": [
+      "수원구치소 평택지소",
+      "수원구치소평택지소",
+      "평택(지)",
+      "평택지",
+      "평택지소"
+    ],
+    "address": "경기도 평택시 평남로 1046-10 (동삭동) 경기도 평택우체국 사서함 6호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "17848",
+    "phone": "031-650-5800",
+    "latitude": 37.010269,
+    "longitude": 127.095807
+  },
+  {
+    "institution_id": "KR_CORR_SOMANG_PRIVATE_PRISON",
+    "canonical_name": "소망교도소",
+    "short_name": "소망교",
+    "institution_type": "private_prison",
+    "aliases": [
+      "소망(교)",
+      "소망교",
+      "소망교도소",
+      "소망교도소 (민영)"
+    ],
+    "address": "경기도 여주시 북내읍 아가페길 140 경기도 여주시 여주우체국 사서함 23호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "12612",
+    "phone": "031-887-5900",
+    "latitude": 37.368046,
+    "longitude": 127.65424
+  },
+  {
+    "institution_id": "KR_CORR_DAEGU_PRISON",
+    "canonical_name": "대구교도소",
+    "short_name": "대구교",
+    "institution_type": "prison",
+    "aliases": [
+      "대구(교)",
+      "대구교",
+      "대구교도소"
+    ],
+    "address": "대구광역시 달성군 하빈면 하빈로 204 대구시 성서우체국 사서함 7호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "42902",
+    "phone": "053-430-1600",
+    "latitude": 35.8903878433548,
+    "longitude": 128.42485606789572
+  },
+  {
+    "institution_id": "KR_CORR_BUSAN_DETENTION",
+    "canonical_name": "부산구치소",
+    "short_name": "부산구",
+    "institution_type": "detention_center",
+    "aliases": [
+      "부산(구)",
+      "부산구",
+      "부산구치소"
+    ],
+    "address": "부산광역시 사상구 학장로 268 (주례동) 부산시 사상우체국사서함58호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "47016",
+    "phone": "051-324-5501",
+    "latitude": 35.1460457,
+    "longitude": 128.9947843
+  },
+  {
+    "institution_id": "KR_CORR_GYEONGBUK_NORTHERN_1_PRISON",
+    "canonical_name": "경북북부제1교도소",
+    "short_name": "경북북부제1교",
+    "institution_type": "prison",
+    "aliases": [
+      "경북북부 제1교도소",
+      "경북북부제1(교)",
+      "경북북부제1교",
+      "경북북부제1교도소"
+    ],
+    "address": "경상북도 청송군 진보면 양정길 231 경북 청송군 진보면 진보우체국사서함1호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "37402",
+    "phone": "054-874-4500",
+    "latitude": 36.5484207,
+    "longitude": 129.0528833
+  },
+  {
+    "institution_id": "KR_CORR_BUSAN_PRISON",
+    "canonical_name": "부산교도소",
+    "short_name": "부산교",
+    "institution_type": "prison",
+    "aliases": [
+      "부산(교)",
+      "부산교",
+      "부산교도소"
+    ],
+    "address": "부산광역시 강서구 대저중앙로29번길 62 (대저1동) 부산시 강서우체국 사서함 50호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "46700",
+    "phone": "051-971-0151~3",
+    "latitude": 35.2185425,
+    "longitude": 128.9506518
+  },
+  {
+    "institution_id": "KR_CORR_CHANGWON_PRISON",
+    "canonical_name": "창원교도소",
+    "short_name": "창원교",
+    "institution_type": "prison",
+    "aliases": [
+      "창원(교)",
+      "창원교",
+      "창원교도소"
+    ],
+    "address": "경상남도 창원시 마산회원구 송평로 39 (회성동) 경남 마산우체국 사서함 7호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "51308",
+    "phone": "055-298-9010~4",
+    "latitude": 35.2363162,
+    "longitude": 128.5556145
+  },
+  {
+    "institution_id": "KR_CORR_JINJU_PRISON",
+    "canonical_name": "진주교도소",
+    "short_name": "진주교",
+    "institution_type": "prison",
+    "aliases": [
+      "진주(교)",
+      "진주교",
+      "진주교도소"
+    ],
+    "address": "경상남도 진주시 대곡면 월암로23번길 39 경남 진주시 진주우체국 사서함 68호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "52604",
+    "phone": "055-741-2181",
+    "latitude": 35.2816003,
+    "longitude": 128.148041
+  },
+  {
+    "institution_id": "KR_CORR_POHANG_PRISON",
+    "canonical_name": "포항교도소",
+    "short_name": "포항교",
+    "institution_type": "prison",
+    "aliases": [
+      "포항(교)",
+      "포항교",
+      "포항교도소"
+    ],
+    "address": "경상북도 포항시 북구 흥해읍 동해대로 1001 경북 포항시 흥해우체국 사서함 2호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "37565",
+    "phone": "054-262-1100",
+    "latitude": 36.0703655,
+    "longitude": 129.3224321
+  },
+  {
+    "institution_id": "KR_CORR_DAEGU_DETENTION",
+    "canonical_name": "대구구치소",
+    "short_name": "대구구",
+    "institution_type": "detention_center",
+    "aliases": [
+      "대구(구)",
+      "대구구",
+      "대구구치소"
+    ],
+    "address": "대구광역시 수성구 달구벌대로541길 36 (만촌동) 대구시 수성우체국 사서함 48호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "42066",
+    "phone": "053-740-5200",
+    "latitude": 35.8561856,
+    "longitude": 128.6566378
+  },
+  {
+    "institution_id": "KR_CORR_GYEONGBUK_VOCATIONAL_PRISON",
+    "canonical_name": "경북직업훈련교도소",
+    "short_name": "경북직업훈련교",
+    "institution_type": "prison",
+    "aliases": [
+      "경북 직업훈련교도소",
+      "경북(직훈)",
+      "경북직업(교)",
+      "경북직업훈련(교)",
+      "경북직업훈련교",
+      "경북직업훈련교도소"
+    ],
+    "address": "경상북도 청송군 진보면 양정길 231 경북 청송군 진보우체국 사사함 2호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "37402",
+    "phone": "054-874-4600",
+    "latitude": 36.5515518,
+    "longitude": 129.0562968
+  },
+  {
+    "institution_id": "KR_CORR_ANDONG_PRISON",
+    "canonical_name": "안동교도소",
+    "short_name": "안동교",
+    "institution_type": "prison",
+    "aliases": [
+      "안동(교)",
+      "안동교",
+      "안동교도소"
+    ],
+    "address": "경상북도 안동시 풍산읍 경서로 4380-23 경북 안동시 풍산읍 안동풍산우체국 사서함 1호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "36621",
+    "phone": "054-858-7191~4",
+    "latitude": 36.5928303,
+    "longitude": 128.5973182
+  },
+  {
+    "institution_id": "KR_CORR_GYEONGBUK_NORTHERN_2_PRISON",
+    "canonical_name": "경북북부제2교도소",
+    "short_name": "경북북부제2교",
+    "institution_type": "prison",
+    "aliases": [
+      "경북2(교)",
+      "경북2교",
+      "경북북부 제2교도소",
+      "경북북부제2(교)",
+      "경북북부제2교",
+      "경북북부제2교도소"
+    ],
+    "address": "경상북도 청송군 진보면 양정길 110 경북 청송군 진보우체국 사사함 5호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "37402",
+    "phone": "054-872-4700",
+    "latitude": 36.5463358,
+    "longitude": 129.0568431
+  },
+  {
+    "institution_id": "KR_CORR_GIMCHEON_JUVENILE_PRISON",
+    "canonical_name": "김천소년교도소",
+    "short_name": "김천소년교",
+    "institution_type": "prison",
+    "aliases": [
+      "김천 소년교도소",
+      "김천(소)",
+      "김천소년(교)",
+      "김천소년교",
+      "김천소년교도소"
+    ],
+    "address": "경상북도 김천시 영남대로 1968 (지좌동) 경북 김천시 김천우체국 사서함 12호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "39655",
+    "phone": "054-436-2191",
+    "latitude": 36.1157234,
+    "longitude": 128.1443612
+  },
+  {
+    "institution_id": "KR_CORR_GYEONGBUK_NORTHERN_3_PRISON",
+    "canonical_name": "경북북부제3교도소",
+    "short_name": "경북북부제3교",
+    "institution_type": "prison",
+    "aliases": [
+      "경북북부 제3교도소",
+      "경북북부제3(교)",
+      "경북북부제3교",
+      "경북북부제3교도소"
+    ],
+    "address": "경상북도 청송군 진보면 양정길 231 경북 청송군 진보우체국 사서함 3호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "37402",
+    "phone": "054-872-9511",
+    "latitude": 36.553584,
+    "longitude": 129.0570477
+  },
+  {
+    "institution_id": "KR_CORR_ULSAN_DETENTION",
+    "canonical_name": "울산구치소",
+    "short_name": "울산구",
+    "institution_type": "detention_center",
+    "aliases": [
+      "울산(구)",
+      "울산구",
+      "울산구치소"
+    ],
+    "address": "울산광역시 울주군 청량면 청량천변로 103-9 울산시 온양우체국 사서함 1호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "44960",
+    "phone": "052-228-9700",
+    "latitude": 35.5286469,
+    "longitude": 129.2583711
+  },
+  {
+    "institution_id": "KR_CORR_GYEONGJU_PRISON",
+    "canonical_name": "경주교도소",
+    "short_name": "경주교",
+    "institution_type": "prison",
+    "aliases": [
+      "경주(교)",
+      "경주교",
+      "경주교도소"
+    ],
+    "address": "경상북도 경주시 내남면 포석로 550 경북 경주시 경주우체국 사서함 45호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "38197",
+    "phone": "054-740-3100",
+    "latitude": 35.7893876,
+    "longitude": 129.2052147
+  },
+  {
+    "institution_id": "KR_CORR_TONGYEONG_DETENTION",
+    "canonical_name": "통영구치소",
+    "short_name": "통영구",
+    "institution_type": "detention_center",
+    "aliases": [
+      "총영(구)",
+      "총영구",
+      "통영(구)",
+      "통영구",
+      "통영구치소"
+    ],
+    "address": "경상남도 통영시 용남면 용남해안로 277 경남 통영시 통영우체국 사서함 17호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "53029",
+    "phone": "055-649-8911",
+    "latitude": 34.862845,
+    "longitude": 128.445006
+  },
+  {
+    "institution_id": "KR_CORR_MIRYANG_DETENTION",
+    "canonical_name": "밀양구치소",
+    "short_name": "밀양구",
+    "institution_type": "detention_center",
+    "aliases": [
+      "밀양(구)",
+      "밀양구",
+      "밀양구치소"
+    ],
+    "address": "경남 밀양시 부북면 춘화로 124 경남 밀양시 밀양우체국 사서함 8호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "50403",
+    "phone": "055-350-7700",
+    "latitude": 35.5140737,
+    "longitude": 128.7405701
+  },
+  {
+    "institution_id": "KR_CORR_SANGJU_PRISON",
+    "canonical_name": "상주교도소",
+    "short_name": "상주교",
+    "institution_type": "prison",
+    "aliases": [
+      "상주(교)",
+      "상주교",
+      "상주교도소"
+    ],
+    "address": "경북 상주시 사벌면 목가2길 130 경북 상주시 상주우체국 사서함 20호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "37123",
+    "phone": "054-531-4100",
+    "latitude": 36.509081,
+    "longitude": 128.194548
+  },
+  {
+    "institution_id": "KR_CORR_GEOCHANG_DETENTION",
+    "canonical_name": "거창구치소",
+    "short_name": "거창구",
+    "institution_type": "detention_center",
+    "aliases": [
+      "거창(구)",
+      "거창구",
+      "거창구치소"
+    ],
+    "address": "경상남도 거창군 거창읍 거열산성로 73 경상남도 거창군 거창우체국 사서함 1호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "50130",
+    "phone": "055-940-4700",
+    "latitude": 35.69149144316052,
+    "longitude": 127.8939185368777
+  },
+  {
+    "institution_id": "KR_CORR_DAEJEON_PRISON",
+    "canonical_name": "대전교도소",
+    "short_name": "대전교",
+    "institution_type": "prison",
+    "aliases": [
+      "대전(교)",
+      "대전교",
+      "대전교도소"
+    ],
+    "address": "대전광역시 유성구 한우물로66번길 6 (대정동) 대전시 유성우체국 사서함 136호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "34222",
+    "phone": "042-544-9301",
+    "latitude": 36.311386,
+    "longitude": 127.3289652
+  },
+  {
+    "institution_id": "KR_CORR_CHEONAN_OPEN_PRISON",
+    "canonical_name": "천안개방교도소",
+    "short_name": "천안개방교",
+    "institution_type": "prison",
+    "aliases": [
+      "천안 개방교도소",
+      "천안(개)",
+      "천안개방(교)",
+      "천안개방교",
+      "천안개방교도소"
+    ],
+    "address": "충청남도 천안시 서북구 신당새터1길 1 (신당동) 충남 천안시 천안우체국 사서함 36호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "31082",
+    "phone": "041-561-4301~2",
+    "latitude": 36.8566911,
+    "longitude": 127.1582556
+  },
+  {
+    "institution_id": "KR_CORR_CHEONGJU_PRISON",
+    "canonical_name": "청주교도소",
+    "short_name": "청주교",
+    "institution_type": "prison",
+    "aliases": [
+      "청주(교)",
+      "청주교",
+      "청주교도소"
+    ],
+    "address": "충청북도 청주시 서원구 청남로 1887번길 49 충북 청주시 서청주우체국 사서함 100호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "28634",
+    "phone": "043-296-8171",
+    "latitude": 36.603767,
+    "longitude": 127.474306
+  },
+  {
+    "institution_id": "KR_CORR_CHEONAN_PRISON",
+    "canonical_name": "천안교도소",
+    "short_name": "천안교",
+    "institution_type": "prison",
+    "aliases": [
+      "천안(교)",
+      "천안교",
+      "천안교도소"
+    ],
+    "address": "충청남도 천안시 서북구 성거읍 상고1길 127 충남 천안시 서북구 성환읍 성환우체국 사서함 20호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "31051",
+    "phone": "041-521-7600",
+    "latitude": 36.860811,
+    "longitude": 127.1639895
+  },
+  {
+    "institution_id": "KR_CORR_CHEONGJU_WOMENS_PRISON",
+    "canonical_name": "청주여자교도소",
+    "short_name": "청주여자교",
+    "institution_type": "prison",
+    "aliases": [
+      "청주 여자교도소",
+      "청주(여)",
+      "청주여",
+      "청주여교",
+      "청주여자(교)",
+      "청주여자교",
+      "청주여자교도소"
+    ],
+    "address": "충청북도 청주시 서원구 청남로1887번길 78 충북 청주시 서청주우체국 사서함 145호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "28634",
+    "phone": "043-288-8140",
+    "latitude": 36.6059033,
+    "longitude": 127.4723654
+  },
+  {
+    "institution_id": "KR_CORR_GONGJU_PRISON",
+    "canonical_name": "공주교도소",
+    "short_name": "공주교",
+    "institution_type": "prison",
+    "aliases": [
+      "공주(교)",
+      "공주교",
+      "공주교도소"
+    ],
+    "address": "충청남도 공주시 장기로 21-45 (금흥동) 충남 공주우체국 사서함 13호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "32589",
+    "phone": "041-851-3200",
+    "latitude": 36.4841342,
+    "longitude": 127.1394973
+  },
+  {
+    "institution_id": "KR_CORR_CHUNGJU_DETENTION",
+    "canonical_name": "충주구치소",
+    "short_name": "충주구",
+    "institution_type": "detention_center",
+    "aliases": [
+      "충주(구)",
+      "충주구",
+      "충주구치소"
+    ],
+    "address": "충청북도 충주시 산척면 천등박달로 222 충북 충주시 엄정우체국 사서함 1호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "27315",
+    "phone": "043-856-9701",
+    "latitude": 37.0873623,
+    "longitude": 127.9601264
+  },
+  {
+    "institution_id": "KR_CORR_HONGSEONG_PRISON",
+    "canonical_name": "홍성교도소",
+    "short_name": "홍성교",
+    "institution_type": "prison",
+    "aliases": [
+      "홍성(교)",
+      "홍성교",
+      "홍성교도소"
+    ],
+    "address": "충청남도 홍성군 홍성읍 충서로 1245 충남 홍성우체국 사서함 9호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "32244",
+    "phone": "041-630-8600",
+    "latitude": 36.5879338,
+    "longitude": 126.6525564
+  },
+  {
+    "institution_id": "KR_CORR_SEOSAN_BRANCH",
+    "canonical_name": "홍성교도소서산지소",
+    "short_name": "서산지소",
+    "institution_type": "branch",
+    "aliases": [
+      "서산(지)",
+      "서산지",
+      "서산지소",
+      "홍성교도소 서산지소",
+      "홍성교도소서산지소"
+    ],
+    "address": "충청남도 서산시 성연면 두치로 343 충남 서산시 성연우체국 사서함 1호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "31930",
+    "phone": "041-669-6891",
+    "latitude": 36.8222787,
+    "longitude": 126.4849121
+  },
+  {
+    "institution_id": "KR_CORR_NONSAN_BRANCH",
+    "canonical_name": "대전교도소논산지소",
+    "short_name": "논산지소",
+    "institution_type": "branch",
+    "aliases": [
+      "논산(지)",
+      "논산지",
+      "논산지소",
+      "대전교도소 논산지소",
+      "대전교도소논산지소"
+    ],
+    "address": "충청남도 논산시 성동면 금백로 662-19 충남 논산시 성동우체국 사서함 1호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "32928",
+    "phone": "041-733-2220",
+    "latitude": 36.2034394,
+    "longitude": 127.0062476
+  },
+  {
+    "institution_id": "KR_CORR_GWANGJU_PRISON",
+    "canonical_name": "광주교도소",
+    "short_name": "광주교",
+    "institution_type": "prison",
+    "aliases": [
+      "광주(교)",
+      "광주교",
+      "광주교도소"
+    ],
+    "address": "전남광주통합특별시 북구 북부순환로 396 광주시 북광주우체국 사서함 63호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "61047",
+    "phone": "062-251-4321",
+    "latitude": 35.210509,
+    "longitude": 126.910042
+  },
+  {
+    "institution_id": "KR_CORR_JEONJU_PRISON",
+    "canonical_name": "전주교도소",
+    "short_name": "전주교",
+    "institution_type": "prison",
+    "aliases": [
+      "전주(교)",
+      "전주교",
+      "전주교도소"
+    ],
+    "address": "전북특별자치도 전주시 완산구 구이로 2034 (평화동3가) 전북 전주우체국 사서함 72호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "55128",
+    "phone": "063-224-4361",
+    "latitude": 35.7795885,
+    "longitude": 127.12893
+  },
+  {
+    "institution_id": "KR_CORR_SUNCHEON_PRISON",
+    "canonical_name": "순천교도소",
+    "short_name": "순천교",
+    "institution_type": "prison",
+    "aliases": [
+      "순천(교)",
+      "순천교",
+      "순천교도소"
+    ],
+    "address": "전남광주통합특별시 순천시 서면 백강로 790 전남 순천우체국 사서함 9호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "57905",
+    "phone": "061-751-2114",
+    "latitude": 34.992306,
+    "longitude": 127.497951
+  },
+  {
+    "institution_id": "KR_CORR_MOKPO_PRISON",
+    "canonical_name": "목포교도소",
+    "short_name": "목포교",
+    "institution_type": "prison",
+    "aliases": [
+      "목포(교)",
+      "목포교",
+      "목포교도소"
+    ],
+    "address": "전남광주통합특별시 무안군 일로읍 일로중앙로 78 전남 무안 일로우체국 사서함 1호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "58574",
+    "phone": "061-284-4101~8",
+    "latitude": 34.8545433,
+    "longitude": 126.4887099
+  },
+  {
+    "institution_id": "KR_CORR_GUNSAN_PRISON",
+    "canonical_name": "군산교도소",
+    "short_name": "군산교",
+    "institution_type": "prison",
+    "aliases": [
+      "군산(교)",
+      "군산교",
+      "군산교도소"
+    ],
+    "address": "전북특별자치도 군산시 옥구읍 할미로 127 전북 군산우체국 사서함 10호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "54172",
+    "phone": "063-462-0101",
+    "latitude": 35.9363792,
+    "longitude": 126.6985487
+  },
+  {
+    "institution_id": "KR_CORR_JEJU_PRISON",
+    "canonical_name": "제주교도소",
+    "short_name": "제주교",
+    "institution_type": "prison",
+    "aliases": [
+      "제주(교)",
+      "제주교",
+      "제주교도소"
+    ],
+    "address": "제주특별자치도 제주시 정실동길 51 (오라이동) 제주도 제주우체국 사서함 161호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "63147",
+    "phone": "064-741-2800",
+    "latitude": 33.4621,
+    "longitude": 126.5136348
+  },
+  {
+    "institution_id": "KR_CORR_JANGHEUNG_PRISON",
+    "canonical_name": "장흥교도소",
+    "short_name": "장흥교",
+    "institution_type": "prison",
+    "aliases": [
+      "장흥(교)",
+      "장흥교",
+      "장흥교도소"
+    ],
+    "address": "전남광주통합특별시 장흥군 용산면 장흥대로 2667 전남 장흥군 장흥우체국 사서함 1호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "59345",
+    "phone": "061-860-9114",
+    "latitude": 34.6074154,
+    "longitude": 126.908168
+  },
+  {
+    "institution_id": "KR_CORR_HAENAM_PRISON",
+    "canonical_name": "해남교도소",
+    "short_name": "해남교",
+    "institution_type": "prison",
+    "aliases": [
+      "해남(교)",
+      "해남교",
+      "해남교도소"
+    ],
+    "address": "전남광주통합특별시 해남군 옥천면 해남로 521 전남 해남우체국 사서함 6호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "59021",
+    "phone": "061-530-9300",
+    "latitude": 34.5771348,
+    "longitude": 126.6424216
+  },
+  {
+    "institution_id": "KR_CORR_JEONGEUP_PRISON",
+    "canonical_name": "정읍교도소",
+    "short_name": "정읍교",
+    "institution_type": "prison",
+    "aliases": [
+      "정읍(교)",
+      "정읍교",
+      "정읍교도소"
+    ],
+    "address": "전북특별자치도 정읍시 소성면 저동길 45 전북 정읍우체국 사서함 1호",
+    "source_url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+    "active": true,
+    "postal_code": "56213",
+    "phone": "063-928-9114",
+    "latitude": 35.574852,
+    "longitude": 126.7931834
+  }
+]

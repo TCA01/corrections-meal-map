@@ -1,0 +1,2034 @@
+{
+  "schema_version": "1.0",
+  "institution_id": "KR_CORR_SEOUL_SOUTHERN_DETENTION",
+  "year": 2019,
+  "month": 12,
+  "days": {
+    "2019-12-01": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "달래된장찌개",
+            "raw_text": "달래된장찌개"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "떡국",
+            "raw_text": "떡국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "돼지고기김치찌개",
+            "raw_text": "돼지고기김치찌개"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-08": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "달래된장찌개",
+            "raw_text": "달래된장찌개"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "떡국",
+            "raw_text": "떡국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "돼지고기김치찌개",
+            "raw_text": "돼지고기김치찌개"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-15": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "깻잎양념무침",
+            "raw_text": "깻잎양념무침"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "도라지오이무침",
+            "raw_text": "도라지오이무침"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "메추리알버섯장조림",
+            "raw_text": "메추리알버섯장조림"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-22": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "깻잎양념무침",
+            "raw_text": "깻잎양념무침"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "도라지오이무침",
+            "raw_text": "도라지오이무침"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "메추리알버섯장조림",
+            "raw_text": "메추리알버섯장조림"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-29": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "김자반볶음",
+            "raw_text": "김자반볶음"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "감귤",
+            "raw_text": "감귤"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "딸기우유",
+            "raw_text": "딸기우유"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-02": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "쇠고기미역국",
+            "raw_text": "쇠고기미역국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "유부어묵국",
+            "raw_text": "유부어묵국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "순두부찌개",
+            "raw_text": "순두부찌개"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-09": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "쇠고기미역국",
+            "raw_text": "쇠고기미역국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "유부어묵국",
+            "raw_text": "유부어묵국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "순두부찌개",
+            "raw_text": "순두부찌개"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-16": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "무말랭이무침",
+            "raw_text": "무말랭이무침"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "닭고기채소조림",
+            "raw_text": "닭고기채소조림"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "치킨너겟튀김",
+            "raw_text": "치킨너겟튀김"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-23": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "무말랭이무침",
+            "raw_text": "무말랭이무침"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "닭고기채소조림",
+            "raw_text": "닭고기채소조림"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "치킨너겟튀김",
+            "raw_text": "치킨너겟튀김"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-30": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "바나나",
+            "raw_text": "바나나"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "호빵",
+            "raw_text": "호빵"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "콩조림",
+            "raw_text": "콩조림"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-03": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "김치콩나물국",
+            "raw_text": "김치콩나물국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "북어채국",
+            "raw_text": "북어채국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "쇠고기무국",
+            "raw_text": "쇠고기무국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-10": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "김치콩나물국",
+            "raw_text": "김치콩나물국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "북어채국",
+            "raw_text": "북어채국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "쇠고기무국",
+            "raw_text": "쇠고기무국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-17": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "고추무침",
+            "raw_text": "고추무침"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "잡채",
+            "raw_text": "잡채"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "갈치튀김",
+            "raw_text": "갈치튀김"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-24": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "고추무침",
+            "raw_text": "고추무침"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "잡채",
+            "raw_text": "잡채"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "갈치튀김",
+            "raw_text": "갈치튀김"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-31": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "조미김",
+            "raw_text": "조미김"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "숙주나물무침",
+            "raw_text": "숙주나물무침"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "열무된장조림",
+            "raw_text": "열무된장조림"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-04": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "콘푸레이크.우유",
+            "raw_text": "콘푸레이크.우유"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "뼈우거지국",
+            "raw_text": "뼈우거지국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "미역국",
+            "raw_text": "미역국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-11": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "콘푸레이크.우유",
+            "raw_text": "콘푸레이크.우유"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "뼈우거지국",
+            "raw_text": "뼈우거지국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "미역국",
+            "raw_text": "미역국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-18": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "모닝빵.딸기잼",
+            "raw_text": "모닝빵.딸기잼"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "꽈리감자조림",
+            "raw_text": "꽈리감자조림"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "쇠고기버섯볶음",
+            "raw_text": "쇠고기버섯볶음"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-25": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "모닝빵.딸기잼",
+            "raw_text": "모닝빵.딸기잼"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "꽈리감자조림",
+            "raw_text": "꽈리감자조림"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "쇠고기버섯볶음",
+            "raw_text": "쇠고기버섯볶음"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-05": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "사골얼갈이국",
+            "raw_text": "사골얼갈이국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "무굴국",
+            "raw_text": "무굴국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "불낙찌개",
+            "raw_text": "불낙찌개"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-12": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "사골얼갈이국",
+            "raw_text": "사골얼갈이국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "무굴국",
+            "raw_text": "무굴국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "불낙찌개",
+            "raw_text": "불낙찌개"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-19": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "아삭이고추장아찌",
+            "raw_text": "아삭이고추장아찌"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "콩나물밥",
+            "raw_text": "콩나물밥"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "무채나물",
+            "raw_text": "무채나물"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-26": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "아삭이고추장아찌",
+            "raw_text": "아삭이고추장아찌"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "콩나물밥",
+            "raw_text": "콩나물밥"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "무채나물",
+            "raw_text": "무채나물"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-06": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "표고어묵국",
+            "raw_text": "표고어묵국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "미역국",
+            "raw_text": "미역국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "근대된장국",
+            "raw_text": "근대된장국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-13": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "표고어묵국",
+            "raw_text": "표고어묵국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "미역국",
+            "raw_text": "미역국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "근대된장국",
+            "raw_text": "근대된장국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-20": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "오복지무침",
+            "raw_text": "오복지무침"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "낙지볶음",
+            "raw_text": "낙지볶음"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "돼지고기채소볶음",
+            "raw_text": "돼지고기채소볶음"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-27": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "오복지무침",
+            "raw_text": "오복지무침"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "낙지볶음",
+            "raw_text": "낙지볶음"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "돼지고기채소볶음",
+            "raw_text": "돼지고기채소볶음"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-07": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "쇠고기스프",
+            "raw_text": "쇠고기스프"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "참치찌개",
+            "raw_text": "참치찌개"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "시금치콩나물국",
+            "raw_text": "시금치콩나물국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-14": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "쇠고기스프",
+            "raw_text": "쇠고기스프"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "참치찌개",
+            "raw_text": "참치찌개"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "시금치콩나물국",
+            "raw_text": "시금치콩나물국"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-21": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "모닝빵.우유",
+            "raw_text": "모닝빵.우유"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "미트볼데리야끼조림",
+            "raw_text": "미트볼데리야끼조림"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "짜장볶음",
+            "raw_text": "짜장볶음"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    },
+    "2019-12-28": {
+      "breakfast": {
+        "menu_items": [
+          {
+            "name": "모닝빵.우유",
+            "raw_text": "모닝빵.우유"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "lunch": {
+        "menu_items": [
+          {
+            "name": "미트볼데리야끼조림",
+            "raw_text": "미트볼데리야끼조림"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      },
+      "dinner": {
+        "menu_items": [
+          {
+            "name": "짜장볶음",
+            "raw_text": "짜장볶음"
+          }
+        ],
+        "source_document_id": "62594-62983",
+        "source_document_ids": [
+          "62594-62983"
+        ],
+        "source": {
+          "document_id": "62594-62983",
+          "post_id": "62594",
+          "attachment_id": "62983",
+          "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+          "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+          "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+          "published_date": "2019-12-02"
+        }
+      }
+    }
+  },
+  "sources": [
+    {
+      "document_id": "62594-62983",
+      "post_id": "62594",
+      "attachment_id": "62983",
+      "post_url": "https://www.corrections.go.kr/policyOpen/corrections/62594/artclView.do",
+      "download_url": "https://www.corrections.go.kr/policyOpen/corrections/62983/download.do",
+      "original_filename": "2019년 12월 수용자 주간 식단표.xls",
+      "published_date": "2019-12-02"
+    }
+  ]
+}

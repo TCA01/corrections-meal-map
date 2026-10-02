@@ -1,0 +1,82 @@
+name: Daily meal update
+on:
+  schedule:
+    - cron: '37 23 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: corrections-daily-update
+  cancel-in-progress: false
+jobs:
+  update:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+    outputs:
+      deploy: ${{ steps.operation.outputs.deploy }}
+      commit_sha: ${{ steps.commit.outputs.sha }}
+    env:
+      TZ: Asia/Seoul
+      PYTHONUTF8: '1'
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.11'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Restore portable current state (no historical raw)
+        run: python scripts/github_state.py restore
+      - name: Daily collector and validated publication
+        id: operation
+        run: python scripts/github_state.py daily
+      - name: Backend regressions and production gates
+        run: |
+          python -m pytest
+          python scripts/github_state.py validate
+          python scripts/repo_size_audit.py --check
+      - uses: actions/setup-node@v7
+        if: steps.operation.outputs.deploy == 'true'
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - name: Test and build updated frontend
+        if: steps.operation.outputs.deploy == 'true'
+        working-directory: web
+        run: |
+          npm ci
+          npm run test
+          npm run build
+      - name: Verify frontend bundle
+        if: steps.operation.outputs.deploy == 'true'
+        run: node scripts/verify_web_build.mjs
+      - name: Commit only allowlisted semantic changes
+        id: commit
+        if: steps.operation.outputs.commit == 'true'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- data/github/state.zip data/github/state.json data/github/review_queue.json data/github/health.json web/public/web_data
+          if git diff --cached --quiet; then exit 1; fi
+          git commit -m "data: daily meal update $(date +%F)"
+          git push origin HEAD:main
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+      - name: Failure summary
+        if: failure()
+        run: echo 'Daily update failed. No new Pages deployment; last successful site retained. Inspect logs and review queue.' >> "$GITHUB_STEP_SUMMARY"
+  deploy:
+    needs: update
+    if: needs.update.outputs.deploy == 'true'
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/deploy-pages.yml
+    with:
+      ref: ${{ needs.update.outputs.commit_sha }}

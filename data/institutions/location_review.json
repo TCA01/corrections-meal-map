@@ -1,0 +1,118 @@
+[
+  {
+    "institution_id": "KR_CORR_SEOUL_SOUTHERN_DETENTION",
+    "canonical_name": "서울남부구치소",
+    "official_address": "서울특별시 구로구 금오로 865 (천왕동) 서울시 구로우체국 사서함 164",
+    "latitude": null,
+    "longitude": null,
+    "status": "REVIEW",
+    "location_confidence": "ambiguous",
+    "location_source": "official_institution_map_marker",
+    "location_source_url": "https://www.corrections.go.kr/corrections/1242/subview.do",
+    "provider": "official_institution_map_marker",
+    "geocoded_at": "2026-10-01T21:44:15.299253+09:00",
+    "geocoding_query": "서울특별시 구로구 금오로 865",
+    "returned_address": "서울특별시 구로구 금오로 865 (천왕동) [우편번호:08367] 서울시 구로구 천왕동 272 (수용자 우편용)서울시 구로우체국 사서함 164 - 수용자번호[우편번호:08365]",
+    "candidates": [
+      {
+        "latitude": 37.4825248,
+        "longitude": 126.8317231,
+        "returned_address": "서울특별시 구로구 금오로 865 (천왕동) [우편번호:08367] 서울시 구로구 천왕동 272 (수용자 우편용)서울시 구로우체국 사서함 164 - 수용자번호[우편번호:08365]",
+        "source_url": "https://www.corrections.go.kr/corrections/1242/subview.do",
+        "provider": "official_institution_map_marker",
+        "official": true,
+        "institution_identity_verified": true,
+        "precision": "institution_marker_or_full_road_address",
+        "evidence": "explicit_position_marker_LatLng",
+        "query": "서울특별시 구로구 금오로 865",
+        "validation": {
+          "status": "REVIEW",
+          "issues": [
+            "DUPLICATE_COORDINATE_DIFFERENT_ADDRESS"
+          ],
+          "official_road_address": "서울특별시 구로구 금오로 865",
+          "returned_road_address": "서울특별시 구로구 금오로 865",
+          "province": "서울",
+          "geographic_check": "coarse_country_and_region_envelopes_plus_exact_road_address",
+          "land_polygon_verified": false
+        }
+      }
+    ],
+    "validation": {
+      "status": "REVIEW",
+      "issues": [
+        "DUPLICATE_COORDINATE_DIFFERENT_ADDRESS"
+      ],
+      "official_road_address": "서울특별시 구로구 금오로 865",
+      "returned_road_address": "서울특별시 구로구 금오로 865",
+      "province": "서울",
+      "geographic_check": "coarse_country_and_region_envelopes_plus_exact_road_address",
+      "land_polygon_verified": false
+    },
+    "official_lookup": {
+      "home_url": "https://www.corrections.go.kr/corrections/1239/subview.do",
+      "directions_url": "https://www.corrections.go.kr/corrections/1242/subview.do",
+      "page_sha256": "b4182dec442bb3513e56b9ea5dbbc7349f2c4c18affc0c6605318d37e1048bac",
+      "retrieved_at": "2026-10-01T21:23:42.697939+09:00",
+      "reason": null
+    }
+  },
+  {
+    "institution_id": "KR_CORR_SEOUL_SOUTHERN_PRISON",
+    "canonical_name": "서울남부교도소",
+    "official_address": "서울특별시 구로구 금오로 867 (천왕동) 서울시 구로우체국 사서함 165",
+    "latitude": null,
+    "longitude": null,
+    "status": "REVIEW",
+    "location_confidence": "ambiguous",
+    "location_source": "official_institution_map_marker",
+    "location_source_url": "https://www.corrections.go.kr/corrections/1258/subview.do",
+    "provider": "official_institution_map_marker",
+    "geocoded_at": "2026-10-01T21:44:16.490170+09:00",
+    "geocoding_query": "서울특별시 구로구 금오로 867",
+    "returned_address": "서울특별시 구로구 금오로 867 (천왕동) [우편번호:08367] 서울시 구로구 천왕동 272 서울시 구로우체국 사서함 165호 [우편번호:08365] - 수용자 우편용",
+    "candidates": [
+      {
+        "latitude": 37.4825248,
+        "longitude": 126.8317231,
+        "returned_address": "서울특별시 구로구 금오로 867 (천왕동) [우편번호:08367] 서울시 구로구 천왕동 272 서울시 구로우체국 사서함 165호 [우편번호:08365] - 수용자 우편용",
+        "source_url": "https://www.corrections.go.kr/corrections/1258/subview.do",
+        "provider": "official_institution_map_marker",
+        "official": true,
+        "institution_identity_verified": true,
+        "precision": "institution_marker_or_full_road_address",
+        "evidence": "explicit_position_marker_LatLng",
+        "query": "서울특별시 구로구 금오로 867",
+        "validation": {
+          "status": "REVIEW",
+          "issues": [
+            "DUPLICATE_COORDINATE_DIFFERENT_ADDRESS"
+          ],
+          "official_road_address": "서울특별시 구로구 금오로 867",
+          "returned_road_address": "서울특별시 구로구 금오로 867",
+          "province": "서울",
+          "geographic_check": "coarse_country_and_region_envelopes_plus_exact_road_address",
+          "land_polygon_verified": false
+        }
+      }
+    ],
+    "validation": {
+      "status": "REVIEW",
+      "issues": [
+        "DUPLICATE_COORDINATE_DIFFERENT_ADDRESS"
+      ],
+      "official_road_address": "서울특별시 구로구 금오로 867",
+      "returned_road_address": "서울특별시 구로구 금오로 867",
+      "province": "서울",
+      "geographic_check": "coarse_country_and_region_envelopes_plus_exact_road_address",
+      "land_polygon_verified": false
+    },
+    "official_lookup": {
+      "home_url": "https://www.corrections.go.kr/corrections/1255/subview.do",
+      "directions_url": "https://www.corrections.go.kr/corrections/1258/subview.do",
+      "page_sha256": "df1d2aea22b8a18692e2a495a0411acceac0ed969015347a2057c1951042ff31",
+      "retrieved_at": "2026-10-01T21:23:54.692742+09:00",
+      "reason": null
+    }
+  }
+]

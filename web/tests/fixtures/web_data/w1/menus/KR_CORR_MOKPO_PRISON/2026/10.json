@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "institution_id": "KR_CORR_MOKPO_PRISON",
+  "year": 2026,
+  "month": 10,
+  "is_mock_fixture": true,
+  "fixture_notice": "본 데이터는 Web MVP W1 프론트엔드 검증을 위해 생성된 개발용 Mock 데이터입니다.",
+  "days": {
+    "2026-10-01": {
+      "breakfast": [
+        {"name": "[테스트] 쌀밥"},
+        {"name": "[테스트] 시금치된장국"},
+        {"name": "[테스트] 햄구이"},
+        {"name": "[테스트] 배추김치"}
+      ],
+      "lunch": [
+        {"name": "[테스트] 콩나물밥"},
+        {"name": "[테스트] 맑은무국"},
+        {"name": "[테스트] 양념간장"},
+        {"name": "[테스트] 열무김치"}
+      ],
+      "dinner": [
+        {"name": "[테스트] 쌀밥"},
+        {"name": "[테스트] 부대찌개"},
+        {"name": "[테스트] 어묵볶음"},
+        {"name": "[테스트] 깍두기"}
+      ]
+    },
+    "2026-10-02": {
+      "breakfast": [
+        {"name": "[테스트] 쌀밥"},
+        {"name": "[테스트] 감자국"},
+        {"name": "[테스트] 메추리알조림"},
+        {"name": "[테스트] 배추김치"}
+      ],
+      "lunch": [
+        {"name": "[테스트] 카레라이스"},
+        {"name": "[테스트] 유부장국"},
+        {"name": "[테스트] 단무지무침"},
+        {"name": "[테스트] 깍두기"}
+      ],
+      "dinner": [
+        {"name": "[테스트] 쌀밥"},
+        {"name": "[테스트] 동태찌개"},
+        {"name": "[테스트] 호박나물"},
+        {"name": "[테스트] 배추김치"}
+      ]
+    }
+  },
+  "sources": [
+    {
+      "source_id": "post-sample-mokpo-202610",
+      "title": "목포교도소 2026년 10월 수용자 식단표",
+      "url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+      "published_at": "2026-09-27"
+    }
+  ]
+}

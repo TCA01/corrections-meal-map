@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "dataset_version": "2026.09-mvp-w1",
+  "generated_at": "2026-09-30T12:00:00Z",
+  "is_mock_fixture": true,
+  "fixture_notice": "본 데이터는 Web MVP W1 인터페이스 검증을 위한 개발용 Mock 데이터입니다.",
+  "stats": {
+    "total_institutions": 55,
+    "collected_institutions": 3,
+    "structured_documents": 6,
+    "total_meal_records": 184,
+    "last_updated": "2026-09-30"
+  },
+  "institutions": [
+    {
+      "institution_id": "KR_CORR_MOKPO_PRISON",
+      "available_years": {
+        "2026": [9, 10]
+      }
+    },
+    {
+      "institution_id": "KR_CORR_SEOUL_DETENTION",
+      "available_years": {
+        "2026": [8, 9]
+      }
+    },
+    {
+      "institution_id": "KR_CORR_GWANGJU_PRISON",
+      "available_years": {
+        "2026": [9]
+      }
+    }
+  ]
+}

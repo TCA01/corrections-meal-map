@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "institution_id": "KR_CORR_GWANGJU_PRISON",
+  "year": 2026,
+  "month": 9,
+  "is_mock_fixture": true,
+  "fixture_notice": "본 데이터는 Web MVP W1 프론트엔드 검증을 위해 생성된 개발용 Mock 데이터입니다.",
+  "days": {
+    "2026-09-01": {
+      "breakfast": [
+        {"name": "[테스트] 쌀밥"},
+        {"name": "[테스트] 배추된장국"},
+        {"name": "[테스트] 동그랑땡"},
+        {"name": "[테스트] 깍두기"}
+      ],
+      "lunch": [
+        {"name": "[테스트] 비빔밥"},
+        {"name": "[테스트] 콩나물국"},
+        {"name": "[테스트] 약고추장"},
+        {"name": "[테스트] 열무김치"}
+      ],
+      "dinner": [
+        {"name": "[테스트] 흑미밥"},
+        {"name": "[테스트] 순두부찌개"},
+        {"name": "[테스트] 닭간장조림"},
+        {"name": "[테스트] 배추김치"}
+      ]
+    }
+  },
+  "sources": [
+    {
+      "source_id": "post-sample-gwangju-202609",
+      "title": "광주교도소 2026년 9월 수용자 식단표",
+      "url": "https://www.corrections.go.kr/corrections/1125/subview.do",
+      "published_at": "2026-08-31"
+    }
+  ]
+}

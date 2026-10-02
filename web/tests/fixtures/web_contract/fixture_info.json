@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "dataset_version": "20261001T201508939825+0900-51c83fe482",
+  "total_institutions": 55,
+  "collected_institutions": 2,
+  "structured_documents": 2,
+  "total_meal_records": 180,
+  "institution_month_files": 2,
+  "last_updated": "2026-10-01T20:22:20.166680+09:00",
+  "data_scope": "excel_ready_only",
+  "with_coordinates": 0,
+  "without_coordinates": 55,
+  "fixture_policy": "real_ready_excerpt_not_deployable",
+  "multi_item_meal_types": [
+    "breakfast",
+    "lunch",
+    "dinner"
+  ]
+}

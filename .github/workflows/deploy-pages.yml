@@ -1,0 +1,55 @@
+name: Deploy Pages
+on:
+  push:
+    branches: [main]
+    paths: ['web/**', '.github/workflows/deploy-pages.yml']
+  workflow_dispatch:
+  workflow_call:
+    inputs:
+      ref:
+        type: string
+        required: false
+        default: ''
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: corrections-pages
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ inputs.ref || github.sha }}
+          persist-credentials: false
+      - uses: actions/setup-node@v7
+        with:
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - name: Configure Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      - run: npm ci
+        working-directory: web
+      - run: npm run test
+        working-directory: web
+      - run: npm run build
+        working-directory: web
+        env:
+          VITE_BASE_PATH: ${{ steps.pages.outputs.base_path }}/
+      - name: Verify built public bundle
+        run: node scripts/verify_web_build.mjs
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web/dist
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

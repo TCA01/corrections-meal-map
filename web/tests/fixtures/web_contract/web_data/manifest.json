@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "web_contract_version": "3B.1",
+  "dataset_version": "20261001T201508939825+0900-51c83fe482",
+  "generated_at": "2026-10-01T20:22:20.166680+09:00",
+  "institutions": [
+    {
+      "institution_id": "KR_CORR_BUSAN_PRISON",
+      "available_years": {
+        "2016": [
+          4
+        ]
+      }
+    },
+    {
+      "institution_id": "KR_CORR_CHANGWON_PRISON",
+      "available_years": {
+        "2020": [
+          9
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "total_institutions": 55,
+    "collected_institutions": 2,
+    "structured_documents": 2,
+    "total_meal_records": 180,
+    "institution_month_files": 2,
+    "last_updated": "2026-10-01T20:22:20.166680+09:00",
+    "data_scope": "excel_ready_only"
+  }
+}

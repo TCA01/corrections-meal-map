@@ -1,0 +1,8 @@
+[
+  {"name": "complete_pass", "status": "PASS", "invalid": 0, "missing_dates": [], "missing_meals": [], "provenance": true, "institution_id": "I1", "expected": "ready"},
+  {"name": "partial", "status": "PARTIAL", "invalid": 0, "missing_dates": [], "missing_meals": [], "provenance": true, "institution_id": "I1", "expected": "review"},
+  {"name": "missing_date", "status": "PASS", "invalid": 0, "missing_dates": ["2026-01-02"], "missing_meals": [], "provenance": true, "institution_id": "I1", "expected": "review"},
+  {"name": "invalid_record", "status": "PASS", "invalid": 1, "missing_dates": [], "missing_meals": [], "provenance": true, "institution_id": "I1", "expected": "review"},
+  {"name": "bad_provenance", "status": "PASS", "invalid": 0, "missing_dates": [], "missing_meals": [], "provenance": false, "institution_id": "I1", "expected": "review"},
+  {"name": "parser_fail", "status": "FAIL", "invalid": 0, "missing_dates": [], "missing_meals": [], "provenance": true, "institution_id": "I1", "expected": "failed"}
+]
