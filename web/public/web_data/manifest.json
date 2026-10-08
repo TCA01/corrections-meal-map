@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "web_contract_version": "3B.1",
-  "dataset_version": "20261002T225806471013+0900-51c83fe482",
-  "generated_at": "2026-10-02T23:07:21.145549+09:00",
+  "dataset_version": "20261008T115316904435+0900-ops-0d711e7c",
+  "generated_at": "2026-10-08T11:55:18.525106+09:00",
   "institutions": [
     {
       "institution_id": "KR_CORR_ANYANG_PRISON",
@@ -194,7 +194,8 @@
       "institution_id": "KR_CORR_DAEGU_PRISON",
       "available_years": {
         "2026": [
-          9
+          9,
+          10
         ]
       }
     },
@@ -961,10 +962,10 @@
   "stats": {
     "total_institutions": 55,
     "collected_institutions": 32,
-    "structured_documents": 568,
-    "total_meal_records": 51771,
-    "institution_month_files": 567,
-    "last_updated": "2026-10-02T23:07:21.145549+09:00",
+    "structured_documents": 569,
+    "total_meal_records": 51864,
+    "institution_month_files": 568,
+    "last_updated": "2026-10-08T11:55:18.525106+09:00",
     "data_scope": "excel_ready_only"
   }
 }
