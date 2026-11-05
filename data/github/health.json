@@ -1,11 +1,11 @@
 {
-  "current_dataset_version": "20261029T114843448566+0900-ops-c452c853",
-  "days_since_success": 6,
-  "last_run": "2026-11-04T12:14:38.486116+09:00",
+  "current_dataset_version": "20261105T124226851318+0900-ops-77ad49a8",
+  "days_since_success": 0,
+  "last_run": "2026-11-05T12:45:17.673782+09:00",
   "last_run_status": "PARTIAL",
-  "last_successful_update": "2026-10-29T11:51:38.598566+09:00",
+  "last_successful_update": "2026-11-05T12:45:17.673782+09:00",
   "new_layout_items": 0,
-  "open_review_items": 35,
+  "open_review_items": 39,
   "stale": false,
   "status": "healthy"
 }
