@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "web_contract_version": "3B.1",
-  "dataset_version": "20261105T124226851318+0900-ops-77ad49a8",
-  "generated_at": "2026-11-05T12:44:48.345005+09:00",
+  "dataset_version": "20261114T123136688796+0900-ops-736fa999",
+  "generated_at": "2026-11-14T12:33:41.322496+09:00",
   "institutions": [
     {
       "institution_id": "KR_CORR_ANYANG_PRISON",
@@ -195,7 +195,8 @@
       "available_years": {
         "2026": [
           9,
-          10
+          10,
+          11
         ]
       }
     },
@@ -965,10 +966,10 @@
   "stats": {
     "total_institutions": 55,
     "collected_institutions": 32,
-    "structured_documents": 572,
-    "total_meal_records": 52137,
-    "institution_month_files": 571,
-    "last_updated": "2026-11-05T12:44:48.345005+09:00",
+    "structured_documents": 573,
+    "total_meal_records": 52227,
+    "institution_month_files": 572,
+    "last_updated": "2026-11-14T12:33:41.322496+09:00",
     "data_scope": "excel_ready_only"
   }
 }
